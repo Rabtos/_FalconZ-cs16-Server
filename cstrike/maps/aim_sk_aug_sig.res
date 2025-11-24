@@ -1,0 +1,12 @@
+alsace1.wad
+chateau.wad
+cs_dustbis.wad
+de_wolfenstein_final.wad
+gfx/env/doom1bk.tga
+gfx/env/doom1dn.tga
+gfx/env/doom1ft.tga
+gfx/env/doom1lf.tga
+gfx/env/doom1rt.tga
+gfx/env/doom1up.tga
+maps/aim_sk_aug_sig.bsp
+surcouf.wad

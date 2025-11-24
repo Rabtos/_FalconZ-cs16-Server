@@ -1,0 +1,9 @@
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+halflife.wad
+maps/cf_area13.bsp
+models/13street/car_bombed.mdl

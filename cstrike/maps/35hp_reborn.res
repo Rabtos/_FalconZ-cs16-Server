@@ -1,0 +1,13 @@
+cs_assault.wad
+cs_dust.wad
+cs_office.wad
+de_aztec.wad
+gfx/env/citybk.tga
+gfx/env/citydn.tga
+gfx/env/cityft.tga
+gfx/env/citylf.tga
+gfx/env/cityrt.tga
+gfx/env/cityup.tga
+halflife.wad
+maps/35hp_reborn.bsp
+sound/ambience/rain.wav

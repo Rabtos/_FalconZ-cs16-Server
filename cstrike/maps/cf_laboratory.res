@@ -1,0 +1,11 @@
+de_rex.wad
+halflife.wad
+maps/cf_laboratory.bsp
+sound/ambience/drips.wav
+sound/ambience/tuyaux.wav
+sprites/animglow01.spr
+sprites/flare3.spr
+sprites/smokepuff.spr
+sprites/xspark3.spr
+zm_abyss.wad
+zm_abyss2.wad

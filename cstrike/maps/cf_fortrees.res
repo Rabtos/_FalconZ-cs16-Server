@@ -1,0 +1,13 @@
+de_storm.wad
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+maps/cf_fortrees.bsp
+models/props/chimney_bigtop.mdl
+models/props/tree_noleaves.mdl
+models/props/tree_noleaves2.mdl
+sound/ambience/wind2.wav
+torntextures.wad

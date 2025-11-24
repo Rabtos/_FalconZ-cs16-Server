@@ -1,0 +1,15 @@
+cs_assault.wad
+cs_dust.wad
+cstrike.wad
+de_aztec.wad
+de_vertigo.wad
+decals.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+maps/aim_map_2010.bsp
+models/player/guerilla/guerilla.mdl

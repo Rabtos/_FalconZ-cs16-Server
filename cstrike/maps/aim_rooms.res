@@ -1,0 +1,17 @@
+cs_747.wad
+cs_assault.wad
+cs_bdog.wad
+cs_havana.wad
+cstrike.wad
+gfx/env/city1bk.tga
+gfx/env/city1dn.tga
+gfx/env/city1ft.tga
+gfx/env/city1lf.tga
+gfx/env/city1rt.tga
+gfx/env/city1up.tga
+halflife.wad
+itsitaly.wad
+liquids.wad
+maps/aim_rooms.bsp
+models/player/arctic/arctic.mdl
+xeno.wad

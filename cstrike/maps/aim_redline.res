@@ -1,0 +1,11 @@
+chateau.wad
+gfx/env/italybk.tga
+gfx/env/italydn.tga
+gfx/env/italyft.tga
+gfx/env/italylf.tga
+gfx/env/italyrt.tga
+gfx/env/italyup.tga
+halflife.wad
+maps/aim_redline.bsp
+sprites/glow01.spr
+sprites/glow04.spr

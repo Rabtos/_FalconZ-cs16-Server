@@ -1,0 +1,9 @@
+gfx/env/arcnbk.tga
+gfx/env/arcndn.tga
+gfx/env/arcnft.tga
+gfx/env/arcnlf.tga
+gfx/env/arcnrt.tga
+gfx/env/arcnup.tga
+halflife.wad
+maps/cf_prison.bsp
+models/player/guerilla/guerilla.mdl

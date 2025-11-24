@@ -1,0 +1,17 @@
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+halflife.wad
+maps/aim_storehouse.bsp
+models/aim_warehouse/barrels.mdl
+models/aim_warehouse/bulb.mdl
+models/aim_warehouse/elecswitch.mdl
+models/aim_warehouse/fire_extinguisher.mdl
+models/aim_warehouse/rail.mdl
+models/aim_warehouse/shelves.mdl
+models/aim_warehouse/trash2.mdl
+sound/ambience/industrial2.wav
+sprites/glow01.spr

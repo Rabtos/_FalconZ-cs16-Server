@@ -1,0 +1,9 @@
+gfx/env/starsbk.tga
+gfx/env/starsdn.tga
+gfx/env/starsft.tga
+gfx/env/starslf.tga
+gfx/env/starsrt.tga
+gfx/env/starsup.tga
+maps/aim_stone_night_b2.bsp
+models/aim_stone_night/aim_stone_night_v1.mdl
+sound/ambience/crickets.wav

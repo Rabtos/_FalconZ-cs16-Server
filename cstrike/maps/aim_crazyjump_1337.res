@@ -1,0 +1,9 @@
+bomb.wad
+chateau.wad
+cs_dust.wad
+cstrike.wad
+de_aztec.wad
+decals.wad
+halflife.wad
+liquids.wad
+maps/aim_crazyjump_1337.bsp

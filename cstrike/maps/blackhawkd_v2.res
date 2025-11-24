@@ -1,0 +1,14 @@
+bhd.wad
+cs_havana.wad
+gfx/env/desbk.tga
+gfx/env/desdn.tga
+gfx/env/desft.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desup.tga
+halflife.wad
+maps/blackhawkd_v2.bsp
+models/bhd_hostie.mdl
+sound/ambience/biggun1.wav
+sprites/flame.spr
+torntextures.wad

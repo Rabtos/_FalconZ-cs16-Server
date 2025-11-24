@@ -1,0 +1,12 @@
+bhd.wad
+cs_havana.wad
+gfx/env/nightbk.tga
+gfx/env/nightdn.tga
+gfx/env/nightft.tga
+gfx/env/nightlf.tga
+gfx/env/nightrt.tga
+gfx/env/nightup.tga
+halflife.wad
+maps/bhd_de.bsp
+sprites/flame.spr
+torntextures.wad

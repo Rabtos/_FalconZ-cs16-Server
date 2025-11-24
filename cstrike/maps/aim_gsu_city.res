@@ -1,0 +1,12 @@
+gfx/env/LMcity_1bk.tga
+gfx/env/LMcity_1dn.tga
+gfx/env/LMcity_1ft.tga
+gfx/env/LMcity_1lf.tga
+gfx/env/LMcity_1rt.tga
+gfx/env/LMcity_1up.tga
+gsu.wad
+maps/aim_gsu_city.bsp
+models/player/gsg9/gsg9.mdl
+op4ctf.wad
+opfor.wad
+ultimate.wad

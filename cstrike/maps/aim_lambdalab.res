@@ -1,0 +1,9 @@
+maps/aim_lambdalab.bsp
+sound/Industrial_Sounds/dronemachine1.wav
+sound/Industrial_Sounds/industrial3_loop.wav
+sound/Industrial_Sounds/refrigerator.wav
+sound/ambience/alien_builder.wav
+sound/ambience/computalk1.wav
+sound/ambience/computalk2.wav
+sprites/dx/maps/light.spr
+sprites/snowfacility/skla_glow02.spr

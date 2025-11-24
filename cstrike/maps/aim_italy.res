@@ -1,0 +1,13 @@
+decals.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+itsitaly.wad
+liquids.wad
+maps/aim_italy.bsp
+models/player/guerilla/guerilla.mdl
+sprites/flare1.spr

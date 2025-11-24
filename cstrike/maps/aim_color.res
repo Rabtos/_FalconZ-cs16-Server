@@ -1,0 +1,13 @@
+cl_colors.wad
+gfx/env/spacebk.tga
+gfx/env/spacedn.tga
+gfx/env/spaceft.tga
+gfx/env/spacelf.tga
+gfx/env/spacert.tga
+gfx/env/spaceup.tga
+halflife.wad
+maps/aim_color.bsp
+models/player/guerilla/guerilla.mdl
+sound/ambience/fallscream.wav
+sprites/glow01.spr
+sprites/rjet1.spr

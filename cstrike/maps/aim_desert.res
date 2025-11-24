@@ -1,0 +1,13 @@
+cs_dust.wad
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+halflife.wad
+maps/aim_desert.bsp
+models/fern.mdl
+models/palmtree.mdl
+models/player/guerilla/guerilla.mdl
+sound/ambience/crow.wav

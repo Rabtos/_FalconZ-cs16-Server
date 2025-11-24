@@ -1,0 +1,9 @@
+gfx/env/dustbk.tga
+gfx/env/dustdn.tga
+gfx/env/dustft.tga
+gfx/env/dustlf.tga
+gfx/env/dustrt.tga
+gfx/env/dustup.tga
+halflife.wad
+maps/cf_ship.bsp
+tauchohangmoi.wad

@@ -1,0 +1,10 @@
+cs_assault.wad
+cs_bdog.wad
+gfx/env/morningbk.tga
+gfx/env/morningdn.tga
+gfx/env/morningft.tga
+gfx/env/morninglf.tga
+gfx/env/morningrt.tga
+gfx/env/morningup.tga
+halflife.wad
+maps/aim_ak-colt-cyber.bsp

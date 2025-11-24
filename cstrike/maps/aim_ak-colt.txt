@@ -1,0 +1,9 @@
+=============
+aim_ak-colt
+=============
+Commands:
+ 1. /guns - Guns Menu
+ 2. /rs - Reset kills and deaths to 0
+ 3. /statsme - Overall Stats
+ 4. /rank - Check Current Position of Rank
+ 

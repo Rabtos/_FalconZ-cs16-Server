@@ -1,0 +1,11 @@
+cs_office.wad
+gfx/env/tsccity_bk.tga
+gfx/env/tsccity_dn.tga
+gfx/env/tsccity_ft.tga
+gfx/env/tsccity_lf.tga
+gfx/env/tsccity_rt.tga
+gfx/env/tsccity_up.tga
+halflife.wad
+maps/aim_parkingarage.bsp
+models/player/guerilla/guerilla.mdl
+parkingarage.wad

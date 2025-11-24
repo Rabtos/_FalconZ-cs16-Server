@@ -1,0 +1,14 @@
+// overview description file for aim_desert.bsp
+
+global 
+{
+	ZOOM	3.69
+	ORIGIN	0 	0	-64
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_desert.bmp"
+	HEIGHT	-321
+}

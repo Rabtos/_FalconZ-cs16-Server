@@ -1,0 +1,14 @@
+// overview description file for aim_color.bsp
+
+global 
+{
+	ZOOM	4.00
+	ORIGIN	32 	-192	-608
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_color.bmp"
+	HEIGHT	-1345
+}

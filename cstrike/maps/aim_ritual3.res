@@ -1,0 +1,13 @@
+de_ritual2.wad
+gfx/env/3dmfallsbk.tga
+gfx/env/3dmfallsdn.tga
+gfx/env/3dmfallsft.tga
+gfx/env/3dmfallslf.tga
+gfx/env/3dmfallsrt.tga
+gfx/env/3dmfallsup.tga
+maps/aim_ritual3.bsp
+sound/de_ritual2/bird.wav
+sound/de_ritual2/jungle1.wav
+sound/de_ritual2/jungle2.wav
+sound/de_ritual2/syrinx.wav
+sprites/strogg/fix_flame.spr

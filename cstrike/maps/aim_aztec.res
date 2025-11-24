@@ -1,0 +1,14 @@
+cs_dust.wad
+cstrike.wad
+de_aztec.wad
+decals.wad
+gfx/env/doom1bk.tga
+gfx/env/doom1dn.tga
+gfx/env/doom1ft.tga
+gfx/env/doom1lf.tga
+gfx/env/doom1rt.tga
+gfx/env/doom1up.tga
+halflife.wad
+itsitaly.wad
+liquids.wad
+maps/aim_aztec.bsp

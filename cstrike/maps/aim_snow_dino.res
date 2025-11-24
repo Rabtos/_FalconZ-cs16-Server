@@ -1,0 +1,15 @@
+da.wad
+fy_snow_dino.wad
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+maps/aim_snow_dino.bsp
+models/da/moby_tikitorch1.mdl
+models/da/tree_pine.mdl
+models/player/guerilla/guerilla.mdl
+models/s3b/buzzer_kust.mdl
+sound/da/fire.wav
+sprites/fire.spr

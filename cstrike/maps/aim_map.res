@@ -1,0 +1,13 @@
+cs_dust.wad
+cstrike.wad
+de_aztec.wad
+gfx/env/desbk.tga
+gfx/env/desdn.tga
+gfx/env/desft.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desup.tga
+halflife.wad
+liquids.wad
+maps/aim_map.bsp
+xeno.wad

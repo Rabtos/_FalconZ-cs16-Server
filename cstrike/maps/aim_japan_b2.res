@@ -1,0 +1,11 @@
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+maps/aim_japan_b2.bsp
+models/aim_japan/aim_japan_v1.mdl
+sound/aim_japan/ambience.wav
+sprites/aim_japan/glow_light.spr
+sprites/aim_japan/glow_sun.spr
