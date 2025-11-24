@@ -1,0 +1,54 @@
+"AppState"
+{
+	"appid"		"90"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\~DL\\Sonstz\\GameShit\\CS 1.6 Shit\\CS1.6 Server\\steamcmd.exe"
+	"name"		"Half-Life Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1762794442"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"81485237"
+	"StagingSize"		"0"
+	"buildid"		"5433925"
+	"LastOwner"		"76561200506624175"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"424331312"
+	"BytesDownloaded"		"424331312"
+	"BytesToStage"		"819237554"
+	"BytesStaged"		"819237554"
+	"TargetBuildID"		"5433925"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"5"
+		{
+			"manifest"		"1292976893473204445"
+			"size"		"12788205"
+		}
+		"1004"
+		{
+			"manifest"		"8904491048620934740"
+			"size"		"68697032"
+		}
+	}
+	"SharedDepots"
+	{
+		"1"		"70"
+		"11"		"10"
+		"71"		"70"
+	}
+	"UserConfig"
+	{
+		"mod"		"cstrike"
+		"BetaKey"		"steam_legacy"
+	}
+	"MountedConfig"
+	{
+		"mod"		"cstrike"
+		"BetaKey"		"steam_legacy"
+	}
+}

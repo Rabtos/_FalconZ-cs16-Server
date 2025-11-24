@@ -1,0 +1,2 @@
+start "" hlds.exe -console -game cstrike -ip 0.0.0.0 -port 27015 +map de_dust2 +maxplayers 32 +sv_lan 0 +log on +mp_logecho 1 -beta
+exit
