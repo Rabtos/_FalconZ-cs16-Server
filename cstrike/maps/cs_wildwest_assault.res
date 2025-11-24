@@ -1,0 +1,14 @@
+cs_assault.wad
+cs_wildwest_assault.wad
+decals.wad
+gfx/env/desertbk.tga
+gfx/env/desertdn.tga
+gfx/env/desertft.tga
+gfx/env/desertlf.tga
+gfx/env/desertrt.tga
+gfx/env/desertup.tga
+halflife.wad
+itsitaly.wad
+liquids.wad
+maps/cs_wildwest_assault.bsp
+models/hostage.mdl

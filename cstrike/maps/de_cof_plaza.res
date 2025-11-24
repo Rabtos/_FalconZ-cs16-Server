@@ -1,0 +1,10 @@
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+maps/de_cof_plaza.bsp
+models/player/guerilla/guerilla.mdl
+sound/mistax88/falls1_r8b.wav
+sound/mistax88/laendlerc.wav

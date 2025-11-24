@@ -1,0 +1,14 @@
+// overview description file for de_tmar_winter  (by DCR Dirk Conrad - the uPd4t3d Data)
+
+global 
+{
+	ZOOM	1.68
+	ORIGIN	414.98 -1364.80 -184.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_tmar_winter.bmp"
+	HEIGHT	-302.0
+}

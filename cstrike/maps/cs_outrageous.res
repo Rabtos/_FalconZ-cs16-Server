@@ -1,0 +1,13 @@
+cetisa1.wad
+cetisa2_mia.wad
+cetisa3_fast.wad
+door.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+maps/cs_outrageous.bsp
+models/player/guerilla/guerilla.mdl
+models/scientist.mdl

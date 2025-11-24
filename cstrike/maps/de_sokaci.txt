@@ -1,0 +1,33 @@
+De_sokaci - Bomb/Defusion
+
+Mapping By Jonas "LiTE" Nilsson
+Textures By  Valve, Blazeer, Crinity and LiTE
+
+Jonas Nilsson (jonasnilsson@xpress.se)
+Philip Klevestav (Blazeeer@lycos.com)
+
+
+Background:
+
+UN forces are stocking up on food and other
+resources to help the people in Angola after
+a terrorist attack on the country.
+
+Terrorists:
+
+Bomb one of the two bombsites containing
+UN food and resources. Make sure the 
+Counter-Terrorists don´t defuse any bombs
+that are planted.
+
+
+Counter-Terrorists:
+
+Prevent the Terrorists from bombing
+any of the two locations. If the terrorists
+plant a bomb see to it that it is defused
+before making any harm.
+
+Note:
+
+There are two bombsites in this mission.

@@ -1,0 +1,15 @@
+cs_bdog.wad
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+halflife.wad
+maps/cs_estate.bsp
+models/hostage.mdl
+sound/ambience/Doorbell.wav
+sound/ambience/cricket.wav
+sound/ambience/deadsignal1.wav
+sound/ambience/wren1.wav
+sprites/glow01.spr

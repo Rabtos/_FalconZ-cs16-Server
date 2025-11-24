@@ -1,0 +1,10 @@
+Paradise (Bomb defuse)
+by Dean Amx
+
+A small village in Toscana is under heavy rain and the Terrorists will use this oppurtunity to destroy the village's new settlements.
+
+Counter-Terrorists: Prevent the Terrorists from one of two bombsites.
+
+Terrorists: Destroy the targeted site with a C4.
+
+Note: The bombsites are designated with red lining.

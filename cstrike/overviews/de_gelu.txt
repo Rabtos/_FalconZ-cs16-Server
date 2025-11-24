@@ -1,0 +1,14 @@
+// overview description file for de_gelu.bsp
+
+global 
+{
+	ZOOM	1.42
+	ORIGIN	-1120 	-516	-224
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_gelu.bmp"
+	HEIGHT	-224
+}

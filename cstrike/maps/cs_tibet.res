@@ -1,0 +1,16 @@
+as_tundra.wad
+cs_bdog.wad
+cs_cbble.wad
+decals.wad
+gfx/env/aarcdbk.tga
+gfx/env/aarcddn.tga
+gfx/env/aarcdft.tga
+gfx/env/aarcdlf.tga
+gfx/env/aarcdrt.tga
+gfx/env/aarcdup.tga
+halflife.wad
+maps/cs_tibet.bsp
+models/scientist.mdl
+sound/ambience/wind1.wav
+sound/ambience/wind2.wav
+sprites/glow01.spr

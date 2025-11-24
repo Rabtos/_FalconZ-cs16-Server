@@ -1,0 +1,10 @@
+gfx/env/nightbk.tga
+gfx/env/nightdn.tga
+gfx/env/nightft.tga
+gfx/env/nightlf.tga
+gfx/env/nightrt.tga
+gfx/env/nightup.tga
+halflife.wad
+maps/cs_nmgas.bsp
+models/hostage.mdl
+models/nm_tallgrass.mdl

@@ -1,0 +1,14 @@
+// overview description file for de_ambuscade_csz.bsp
+
+global 
+{
+	ZOOM	1.55
+	ORIGIN	205.50	490.72	-43.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_ambuscade_csz.bmp"
+	HEIGHT	-560
+}

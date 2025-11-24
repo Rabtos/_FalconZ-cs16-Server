@@ -1,0 +1,17 @@
+decals.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+itsitaly.wad
+liquids.wad
+maps/de_italy-dsk.bsp
+models/chick.mdl
+models/winebottle.mdl
+sound/ambience/Guit1.WAV
+sound/ambience/Opera.wav
+sound/misc/killChicken.wav
+sprites/flare1.spr

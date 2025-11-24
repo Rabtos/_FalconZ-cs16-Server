@@ -1,0 +1,17 @@
+as_tundra.wad
+cs_747.wad
+cs_assault.wad
+cs_cbble.wad
+cs_havana.wad
+de_aztec.wad
+de_storm.wad
+de_vegas.wad
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+halflife.wad
+itsitaly.wad
+maps/shishi02.bsp

@@ -1,0 +1,16 @@
+gfx/env/blue_sky01_bk.tga
+gfx/env/blue_sky01_dn.tga
+gfx/env/blue_sky01_ft.tga
+gfx/env/blue_sky01_lf.tga
+gfx/env/blue_sky01_rt.tga
+gfx/env/blue_sky01_up.tga
+gg_inferno_r.wad
+maps/gg_inferno_r.bsp
+models/gg_inferno_r/flower01.mdl
+models/gg_inferno_r/flower_barrel.mdl
+models/gg_inferno_r/greenhouse01.mdl
+models/gg_inferno_r/streetlight01.mdl
+models/gg_inferno_r/tree57.mdl
+models/gg_inferno_r/tree59.mdl
+models/player/guerilla/guerilla.mdl
+sound/gg_inferno_r/ambient.wav

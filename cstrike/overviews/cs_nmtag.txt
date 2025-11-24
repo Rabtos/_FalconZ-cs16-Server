@@ -1,0 +1,15 @@
+//overview description for cs_nmtag.bsp
+
+global
+{
+	ZOOM	2.97
+	ORIGIN	308	-320	68
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/cs_nmtag.tga"
+	HEIGHT	-257
+}
+

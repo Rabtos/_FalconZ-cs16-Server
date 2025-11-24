@@ -1,0 +1,14 @@
+cs_747.wad
+cs_assault.wad
+cs_cbble.wad
+cs_office.wad
+decals.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+itsitaly.wad
+maps/cs_italy2.bsp

@@ -1,0 +1,11 @@
+gfx/env/valpobk.tga
+gfx/env/valpodn.tga
+gfx/env/valpoft.tga
+gfx/env/valpolf.tga
+gfx/env/valport.tga
+gfx/env/valpoup.tga
+maps/de_valpo2.bsp
+models/de_valpo/valpo_bush.mdl
+models/de_valpo/valpo_tree2.mdl
+models/player/guerilla/guerilla.mdl
+sprites/de_valpo/valpo_flare1.spr

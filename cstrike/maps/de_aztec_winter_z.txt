@@ -1,0 +1,7 @@
+de_aztec_winter_z - (Hostage/Rescue)
+edit ALCMDZ dla StrefaSkilla
+
+Map by Gaucho 
+Texture Macman and Monolith Studios
+Sky by Maharet
+

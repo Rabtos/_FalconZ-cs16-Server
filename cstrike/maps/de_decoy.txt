@@ -1,0 +1,21 @@
+DE_DECOY - Bomb/Defuse
+By: Sund@nce(sundancs@hotmail.com)
+Textures from: torn, italy, storm, dust.
+
+Counter-Terrorists:
+Prevent the terrorists from
+planting the bomb at targeted areas and working
+as a decoy.
+
+Terrorists: 
+Complete your mission by either whiping out the
+opposite force, or plant the bomb at one of 
+the targeted areas. Thus working as a decoy by
+creating chaos and misleading the police in the 
+italian village so the real mission can be 
+fulfilled.
+
+Extra: 
+There are 2 bombspots in this mission. 
+
+(PRESS FIRE TO CONTINUE)

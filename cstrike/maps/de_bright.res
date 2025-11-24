@@ -1,0 +1,17 @@
+de_bright.wad
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+halflife.wad
+liquids.wad
+maps/de_bright.bsp
+sound/ambience/bee1.wav
+sound/ambience/cricket.wav
+sound/ambience/des_wind3.wav
+sound/ambience/flies.wav
+sound/ambience/wind2.wav
+sound/bright/eagle.wav
+sound/bright/loon.wav

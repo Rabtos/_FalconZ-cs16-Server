@@ -1,0 +1,10 @@
+cs_cbble.wad
+gfx/env/bluebk.tga
+gfx/env/bluedn.tga
+gfx/env/blueft.tga
+gfx/env/bluelf.tga
+gfx/env/bluert.tga
+gfx/env/blueup.tga
+maps/de_blarney.bsp
+models/bigtree.mdl
+models/bush.mdl

@@ -1,0 +1,17 @@
+chateau.wad
+cs_assault.wad
+cs_havana.wad
+cs_office.wad
+de_vegas.wad
+decals.wad
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+halflife.wad
+maps/cs_renovation.bsp
+models/hostage.mdl
+sprites/flare1.spr
+sprites/glow02.spr

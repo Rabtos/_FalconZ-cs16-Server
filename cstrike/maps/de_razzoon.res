@@ -1,0 +1,15 @@
+de_razzoon.wad
+decals.wad
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+maps/de_razzoon.bsp
+sound//ambience/flies.wav
+sound/ambience/Birds1.wav
+sound/ambience/cricket.wav
+sound/ambience/flies.wav
+sound/ambience/waterrun.wav
+sound/de_torn/torn_ambience.wav

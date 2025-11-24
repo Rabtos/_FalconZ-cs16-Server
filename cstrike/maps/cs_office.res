@@ -1,0 +1,12 @@
+cs_bdog.wad
+gfx/env/officebk.tga
+gfx/env/officedn.tga
+gfx/env/officeft.tga
+gfx/env/officelf.tga
+gfx/env/officert.tga
+gfx/env/officeup.tga
+halflife.wad
+maps/cs_office.bsp
+models/hostage.mdl
+sound/ambience/tankidle2.wav
+sound/ambience/wind2.wav

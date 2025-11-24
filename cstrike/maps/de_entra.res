@@ -1,0 +1,15 @@
+chateau.wad
+cs_havana.wad
+de_piranesi.wad
+decals.wad
+gfx/env/desbk.tga
+gfx/env/desdn.tga
+gfx/env/desft.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desup.tga
+halflife.wad
+itsitaly.wad
+maps/de_entra.bsp
+models/pi_treeb.mdl
+sound/ambience/cricket.wav

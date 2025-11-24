@@ -1,0 +1,16 @@
+decals.wad
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+halflife.wad
+kyp.wad
+maps/de_corsica.bsp
+sound/ambience/brush_movement1.wav
+sound/ambience/drips.wav
+sound/ambience/truck1.wav
+sound/ambience/waterfall3.wav
+sound/ambience/wind1.wav
+sprites/fire.spr

@@ -1,0 +1,11 @@
+gfx/env/city_daybk.tga
+gfx/env/city_daydn.tga
+gfx/env/city_dayft.tga
+gfx/env/city_daylf.tga
+gfx/env/city_dayrt.tga
+gfx/env/city_dayup.tga
+maps/de_ambuscade_csz.bsp
+models/ambuscade/by_barrels_pallet.mdl
+models/ambuscade/fork.mdl
+models/ambuscade/xen_barrel2_2.mdl
+sprites/glow01.spr

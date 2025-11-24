@@ -1,0 +1,12 @@
+gfx/env/tornskybk.tga
+gfx/env/tornskydn.tga
+gfx/env/tornskyft.tga
+gfx/env/tornskylf.tga
+gfx/env/tornskyrt.tga
+gfx/env/tornskyup.tga
+maps/de_apex.bsp
+models/props/bag_food.mdl
+models/props/tree_palm.mdl
+models/props/truck_large-brown.mdl
+sprites/flare1.spr
+sticky.wad

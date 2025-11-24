@@ -1,0 +1,17 @@
+La Granja - Defusion
+Map by Infinity a.k.a. ShadowCrawler
+contact: webmaster@chaosworx.net
+Spain textures by -S2K- Madness
+This was map made for the "Just 52 hours"-Fast Mapping Contest
+of www.counter-strike.de
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the apple Farm.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the entries to 
+the apple Farm.
+
+(Press FIRE to continue)

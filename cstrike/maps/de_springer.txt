@@ -1,0 +1,20 @@
+          [URVIECH]productions:
+              DE_SPRINGER
+              Bomb\Defuse
+        by [KT].4Uweh.inC.>rS<
+---all additional textures by [KT].unlimited----
+
+Background:Some weird armed public enemys are trying to hit the local press.
+
+Missionobjectives:
+
+Terrorists:Hit em hard!
+
+Counter-Terrorists:Prevent these WeirdoZ from
+placing their bomb!Team members must
+defuse any bombs that threaten targeted 
+areas.
+
+Missiontime:7.13 pm
+
+(Press FIRE to continue)

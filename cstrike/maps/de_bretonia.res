@@ -1,0 +1,17 @@
+chateau.wad
+cs_havana.wad
+cs_office.wad
+de_aztec.wad
+de_piranesi.wad
+de_storm.wad
+decals.wad
+gfx/env/drkgbk.tga
+gfx/env/drkgdn.tga
+gfx/env/drkgft.tga
+gfx/env/drkglf.tga
+gfx/env/drkgrt.tga
+gfx/env/drkgup.tga
+halflife.wad
+itsitaly.wad
+maps/de_bretonia.bsp
+torntextures.wad

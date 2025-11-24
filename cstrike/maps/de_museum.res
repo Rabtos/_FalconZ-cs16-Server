@@ -1,0 +1,14 @@
+decals.wad
+gfx/env/museum_bk.tga
+gfx/env/museum_dn.tga
+gfx/env/museum_ft.tga
+gfx/env/museum_lf.tga
+gfx/env/museum_rt.tga
+gfx/env/museum_up.tga
+halflife.wad
+maps/de_museum.bsp
+sound/ambience/fallscream.wav
+sound/ambience/mbigfan.wav
+sound/ambience/mcity.wav
+sound/ambience/mtrex.wav
+sound/ambience/mvoice.wav

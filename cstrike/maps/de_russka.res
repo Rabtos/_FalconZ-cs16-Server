@@ -1,0 +1,14 @@
+decals.wad
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+maps/de_russka.bsp
+models/de_russka/russka_tree_noleaves.mdl
+sprites/blueflare1.spr
+sprites/blueflare2.spr
+sprites/flare3.spr
+sprites/redflare1.spr
+sprites/redflare2.spr

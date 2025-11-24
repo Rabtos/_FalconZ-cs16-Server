@@ -1,0 +1,40 @@
+Other map by: [Lihikin.Citk]'
+
+Texture original by: Macman
+Texture modified by: [Lihikin.Citk]'
+
+de_dust2 by: justin dejong?
+cs_cbblust by: [Lihikin.Citk]'
+
+"CS_CBBLUST"
+
+A nice remake of de_dust2 with some 
+peaces modified and moved out place.
+This map is for 32 Players 
+about rescue the hostages.
+
+I made some ways for do this map
+more interesting.
+
+This map use cbblust.wad, bylin.wad
+and essential.wad.
+
+use 3 models:
+
+- Cactus.mdl
+- Palmeira.mdl
+- Palm.mdl
+
+The Skybox is "des"
+
+Notes:
+
+I'll make this map for "Zombie Mod".
+It will really nice.
+
+Play and enjoy!
+ 
+ 
+ 
+ 
+ 

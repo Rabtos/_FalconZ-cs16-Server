@@ -1,0 +1,17 @@
+JoiNeT - Bomb/Defuse
+*** www.joinet.ro ***
+by sToP ! (dani_march2@yahoo.com)
+
+Map for JoiNeT Community
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the explosive crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the explosive
+crates areas. 
+
+Other Notes: There are 2 explosive crates
+areas in the mission.

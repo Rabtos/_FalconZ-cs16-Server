@@ -1,0 +1,42 @@
+=======================================================
+Mario_Air by DocRock  CS Mod by [ACORNS]Chippy
+=======================================================
+
+Map Name:                       de_mario_air.bsp
+Author:                         DocRock
+Author email:                   docrock64@cox.net
+Homepage:                       http://docrocksmaps.homestead.com/docmaps.html
+CS Mod Author:                  [ACORNS]Chippy
+CS Mod Author email:            chippy@acornsrus.com
+Homepage:                       http://www.acornsrus.com/
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Defusion Map: 			Yes
+Suggested Players:              8 - 15
+New Textures:                   Yes
+New Sounds:                     Yes
+New Models:                     Yes
+
+Map description:                A Counter-Strike defusion map set in a mario world.
+
+
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS.
+
+=======================================================
+
+Objectives:
+
+------ Terrorists ------
+
+Plant the bomb and/or eliminate all CTs.
+
+------ Counter-Terrorists ------
+
+Defuse the bomb and/or kill all Ts.
+
+
+(Press FIRE to continue)

@@ -1,0 +1,9 @@
+backslash.wad
+gfx/env/arcdbk.tga
+gfx/env/arcddn.tga
+gfx/env/arcdft.tga
+gfx/env/arcdlf.tga
+gfx/env/arcdrt.tga
+gfx/env/arcdup.tga
+halflife.wad
+maps/fy_iceworldx.bsp

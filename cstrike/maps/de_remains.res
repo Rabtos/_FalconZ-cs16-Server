@@ -1,0 +1,13 @@
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+maps/de_remains.bsp
+models/couch1.mdl
+models/gins_flatscrn.mdl
+models/gins_vase_y.mdl
+models/metalbarrel.mdl
+sound/ambience/ultrabirds.wav
+sound/ambience/waterrun2.wav

@@ -1,0 +1,12 @@
+cs_office.wad
+decals.wad
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+halflife.wad
+maps/pubmasters_snowday.bsp
+sound/ambience/lv_jubilee.wav
+sprites/snow.spr

@@ -1,0 +1,13 @@
+cs_assault.wad
+cs_bdog.wad
+cs_office.wad
+decals.wad
+gfx/env/city1bk.tga
+gfx/env/city1dn.tga
+gfx/env/city1ft.tga
+gfx/env/city1lf.tga
+gfx/env/city1rt.tga
+gfx/env/city1up.tga
+halflife.wad
+itsitaly.wad
+maps/de_tpoint.bsp

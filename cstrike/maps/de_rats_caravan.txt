@@ -1,0 +1,24 @@
+de_rats_caravan - Bomb/Defuse
+By Christian " PtitLoup++ " Gruais
+(cgruais@fr.st)
+www.cgruais.fr.st
+
+
+Les forces spéciales ont cache 2 bombes
+nucleaires dans une caravane pres d'une
+base terroriste, afin de la detruire.
+
+Terroristes : Faites exploser votre C4
+afin de couper l'alimentation des bombes.
+
+Anti-terroristes : Protégez la caravane
+jusqu'a ce que l'ordre de mise a feu
+vous soit donne par le commandement.
+
+
+--==-- Credits --==--
+
+Some textures are from 3D-Mike
+Lots of models are from Ginsengavenger
+Some sounds are from Mataleone
+

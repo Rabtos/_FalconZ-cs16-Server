@@ -1,0 +1,15 @@
+chateau.wad
+de_proost.wad
+decals.wad
+gfx/env/sunnybk.tga
+gfx/env/sunnydn.tga
+gfx/env/sunnyft.tga
+gfx/env/sunnylf.tga
+gfx/env/sunnyrt.tga
+gfx/env/sunnyup.tga
+itsitaly.wad
+maps/de_newinferno2010.bsp
+sound/de_new_inferno_2010/la_waves.wav
+sound/de_new_inferno_2010/tavern.WAV
+sound/de_new_inferno_2010/vol-falls.wav
+torntextures.wad

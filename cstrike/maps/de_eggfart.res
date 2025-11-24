@@ -1,0 +1,16 @@
+countdown.wad
+crystal.wad
+crystalwad.wad
+decals.wad
+dod_frontlines.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+liquids.wad
+maps/de_eggfart.bsp
+tfc.wad
+tfc2.wad

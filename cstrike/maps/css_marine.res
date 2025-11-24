@@ -1,0 +1,10 @@
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+maps/css_marine.bsp
+models/player/guerilla/guerilla.mdl
+sound/css_de_marine_sound/seagulls.wav
+sound/css_de_marine_sound/waves.wav

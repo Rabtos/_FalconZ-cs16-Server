@@ -1,0 +1,10 @@
+gfx/env/spacebk.tga
+gfx/env/spacedn.tga
+gfx/env/spaceft.tga
+gfx/env/spacelf.tga
+gfx/env/spacert.tga
+gfx/env/spaceup.tga
+halflife.wad
+maps/xmas_lodge.bsp
+sound/nm_wonderfulxmastime.wav
+sprites/xsmoke1.spr

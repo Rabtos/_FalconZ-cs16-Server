@@ -1,0 +1,14 @@
+// overview description file for de_czl_arsenal.bsp
+
+global 
+{
+	ZOOM	2.14
+	ORIGIN	-1392.00 	-1320.00	-297.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_czl_arsenal.tga"
+	HEIGHT	-297.00
+}

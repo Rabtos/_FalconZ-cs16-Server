@@ -1,0 +1,14 @@
+// overview description file for de_virtuacom.bsp
+
+global 
+{
+	ZOOM	1.95
+	ORIGIN	1504 	-899.75          32
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_virtuacom.bmp"
+	HEIGHT	-641.00
+}

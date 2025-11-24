@@ -1,0 +1,13 @@
+cs_cbble.wad
+decals.wad
+gfx/env/bluebk.tga
+gfx/env/bluedn.tga
+gfx/env/blueft.tga
+gfx/env/bluelf.tga
+gfx/env/bluert.tga
+gfx/env/blueup.tga
+halflife.wad
+itsitaly.wad
+maps/de_tmar.bsp
+sound/ambience/flies.wav
+sound/ambience/wind2.wav

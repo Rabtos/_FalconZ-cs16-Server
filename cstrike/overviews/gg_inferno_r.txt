@@ -1,0 +1,14 @@
+// overview description file for gg_inferno_r.bsp
+
+global 
+{
+	ZOOM	1.85
+	ORIGIN	256	72	-8
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/gg_inferno_r.bmp"
+	HEIGHT	-337
+}

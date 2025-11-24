@@ -1,0 +1,13 @@
+chateau.wad
+cs_bdog.wad
+de_piranesi.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+maps/de_perfect_inferno.bsp
+models/fern.mdl
+torntextures.wad

@@ -1,0 +1,11 @@
+ajawad.wad
+gfx/env/cliffbk.tga
+gfx/env/cliffdn.tga
+gfx/env/cliffft.tga
+gfx/env/clifflf.tga
+gfx/env/cliffrt.tga
+gfx/env/cliffup.tga
+halflife.wad
+maps/cs_militia.bsp
+models/scientist.mdl
+sound/ambience/drips.wav

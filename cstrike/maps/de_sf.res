@@ -1,0 +1,14 @@
+cs_assault.wad
+cs_cbble.wad
+de_aztec.wad
+de_sf_creator.wad
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+halflife.wad
+itsitaly.wad
+maps/de_sf.bsp
+torntextures.wad

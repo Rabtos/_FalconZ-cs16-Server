@@ -1,0 +1,14 @@
+// overview description file for cs_assaultfire.bsp
+
+global 
+{
+	ZOOM	1.66
+	ORIGIN	208        1675.50 	438.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_assaultfire.tga"
+	HEIGHT	-38
+}

@@ -1,0 +1,9 @@
+decals.wad
+gfx/env/greenhills_bk.tga
+gfx/env/greenhills_dn.tga
+gfx/env/greenhills_ft.tga
+gfx/env/greenhills_lf.tga
+gfx/env/greenhills_rt.tga
+gfx/env/greenhills_up.tga
+halflife.wad
+maps/de_roof.bsp

@@ -1,0 +1,12 @@
+decals.wad
+gfx.wad
+gfx/env/citybk.tga
+gfx/env/citydn.tga
+gfx/env/cityft.tga
+gfx/env/citylf.tga
+gfx/env/cityrt.tga
+gfx/env/cityup.tga
+halflife.wad
+liquids.wad
+maps/cs_mansion.bsp
+models/scientist.mdl

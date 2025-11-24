@@ -1,0 +1,15 @@
+gfx/env/xzenon_day_bk.tga
+gfx/env/xzenon_day_dn.tga
+gfx/env/xzenon_day_ft.tga
+gfx/env/xzenon_day_lf.tga
+gfx/env/xzenon_day_rt.tga
+gfx/env/xzenon_day_up.tga
+maps/de_giza_b5.bsp
+models/de_giza/de_giza_v2.mdl
+sound/de_giza/burn.wav
+sound/de_giza/drips.wav
+sound/de_giza/water.wav
+sound/de_giza/wind.wav
+sprites/de_giza/fire.spr
+sprites/de_giza/glow_sun.spr
+sprites/de_giza/steam.spr

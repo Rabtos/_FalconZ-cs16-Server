@@ -1,0 +1,12 @@
+chateau.wad
+decals.wad
+gfx/env/cxbk.tga
+gfx/env/cxdn.tga
+gfx/env/cxft.tga
+gfx/env/cxlf.tga
+gfx/env/cxrt.tga
+gfx/env/cxup.tga
+maps/de_chateau.bsp
+sprites/glow01.spr
+sprites/glow02.spr
+sprites/xfireball3.spr

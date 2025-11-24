@@ -1,0 +1,10 @@
+gfx/env/desertbk.tga
+gfx/env/desertdn.tga
+gfx/env/desertft.tga
+gfx/env/desertlf.tga
+gfx/env/desertrt.tga
+gfx/env/desertup.tga
+maps/de_nuke_underground.bsp
+models/player/guerilla/guerilla.mdl
+sprites/flare1.spr
+surf_ski_2_btm.wad

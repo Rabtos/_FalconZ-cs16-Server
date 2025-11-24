@@ -1,0 +1,15 @@
+czde_aztec.wad
+czritual_standard.wad
+gfx/env/junglebk.tga
+gfx/env/jungledn.tga
+gfx/env/jungleft.tga
+gfx/env/junglelf.tga
+gfx/env/junglert.tga
+gfx/env/jungleup.tga
+maps/de_aztec_cz.bsp
+models/props/bush_fern_small.mdl
+models/props/skeleton.mdl
+sound/ambience/crickets.wav
+sound/ambience/rain.wav
+sound/ambience/thunder_clap.wav
+sprites/ikgrass2.spr

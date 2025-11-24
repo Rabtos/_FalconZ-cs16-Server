@@ -1,0 +1,11 @@
+Destino-Bomb/Defuse
+by Unit. (unitmap@gmail.com)
+
+[Counter-Terrorists]:
+Prevent an explosion of targets.
+[Terrorists]:
+Explosion 1 of 2 available targets.
+[Other notes]: Total 2 bomb targets
+in the mission.
+
+[Press FIRE to continue]

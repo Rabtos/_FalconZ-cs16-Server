@@ -1,0 +1,11 @@
+cs_assault.wad
+decals.wad
+gfx/env/city1bk.tga
+gfx/env/city1dn.tga
+gfx/env/city1ft.tga
+gfx/env/city1lf.tga
+gfx/env/city1rt.tga
+gfx/env/city1up.tga
+halflife.wad
+maps/cs_assault.bsp
+models/hostage.mdl

@@ -1,0 +1,15 @@
+chateau.wad
+cs_cbble.wad
+cs_havana.wad
+de_piranesi.wad
+de_storm.wad
+decals.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+maps/de_bretonia_2013.bsp
+torntextures.wad

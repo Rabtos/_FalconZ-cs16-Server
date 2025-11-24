@@ -1,0 +1,14 @@
+// overview description file for de_panettone.bsp
+
+global 
+{
+	ZOOM	1.51
+	ORIGIN	-2048 	0	-33
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_panettone.bmp"
+	HEIGHT	-33
+}

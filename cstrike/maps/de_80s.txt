@@ -1,0 +1,13 @@
+The 80 club cs1.6 - defuse bomb
+
+by LANMAN (alexnunezgt@hotmail.com)
+write me if you want any changes on the map	
+
+Counter-Terrorists: prevent terrorists
+plant the bomb 
+
+Terrorists: plant the bomb in any
+of the 2 sites A or B
+
+Other Notes: 
+supports max 20 players in total

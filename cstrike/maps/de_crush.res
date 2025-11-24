@@ -1,0 +1,9 @@
+de_dust2_css_beta3.wad
+gfx/env/desrtbk.tga
+gfx/env/desrtdn.tga
+gfx/env/desrtft.tga
+gfx/env/desrtlf.tga
+gfx/env/desrtrt.tga
+gfx/env/desrtup.tga
+halflife.wad
+maps/de_crush.bsp

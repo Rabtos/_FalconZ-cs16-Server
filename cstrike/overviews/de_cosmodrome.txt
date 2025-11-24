@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.58
+	ORIGIN	0	256	-688
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_cosmodrome.bmp"
+	HEIGHT	0
+}

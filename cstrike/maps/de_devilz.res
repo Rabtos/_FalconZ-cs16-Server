@@ -1,0 +1,11 @@
+de_piranesi.wad
+decals.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+maps/de_devilz.bsp
+sound/ambience/goal_1.wav

@@ -1,0 +1,12 @@
+The Mercenaries of a Gang have Hijacked a School.
+Their Demand is to Free 'JT', 
+The Leader of their Gang.
+Hostages have been rescued, 
+but the Mercenaries are still camping there.
+.
+
+Objectives :-
+Ts          - Eliminate the CTs
+CTs         - Eliminate all the Ts
+.
+Press any key to continue 

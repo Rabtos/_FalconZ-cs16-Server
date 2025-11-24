@@ -1,0 +1,36 @@
+CS_BOXOFFICE2k by Ed "Backslider" Charbeneau
+
+It is the long-awaited premiere opening of the latest action packed movie "DEADLOCK".
+Hollywood's most glamorous actors and actresses have converged upon a 5-star theater 
+to both "be seen" and to see the promising motion picture. The media and paparazzi 
+have lined the red carpet, snapping pictures and whoring for interviews. Security is
+tight.... but not tight enough: a terrorist faction has infiltrated the theater! 
+With the intentions of kidnapping several "A-list" actors, the group has battered 
+down a wall of the theater with their van. The terrorists, wielding automatic weapons,
+have overtaken the theater and are demanding millions in ransom in exchange
+for the release of their famous hostages. The decision has been made that
+there is to be no negotiations with the faction. An elite counter-terrorism
+force is about to arrive on the scene, and a fierce battle appears eminent. 
+
+Counter-terrorist your mission:
+You team has gathered in a theater on the opposing side of the building. Coordinate
+a team effort to secure the movie complex and avoid hostage casualty. Beware the
+terrorist may already know of your presence, move quickly. A safety zone is located at
+the theaters' box-office.
+
+Terrorist you mission:
+Guard all entrances to the movie complex. Hold movie stars hostage to receive ransom 
+for the popular actors.
+
+Story by Backslider and Ultramilitance
+Special Thanks to:
+
+3D_Mike (textures, friendship)
+[iMPC]Whizzer & iMPC Server players (www.mgamers.org)
+  and for iMPC making me their official "Token Mapper"
+Sebastian (pimpage) CSCENTRAL.COM
+Ultramilitance (story) CSCENTRAL.COM
+Spooger (textures) www.planetunreal.com/spooger
+Will Sherriff (Phone and Drinking fountain models)
+Accident (wicked servers) www.uslessgaming.com
+Coma White (cop car)

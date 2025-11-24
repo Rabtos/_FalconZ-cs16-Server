@@ -1,0 +1,14 @@
+// overview description file for de_deadbolt.bsp
+
+global 
+{
+	ZOOM	1.57
+	ORIGIN	600 -600 186
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_deadbolt.bmp"
+	HEIGHT	-114
+}

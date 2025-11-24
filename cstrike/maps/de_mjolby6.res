@@ -1,0 +1,9 @@
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+maps/de_mjolby6.bsp
+sprites/glow01.spr

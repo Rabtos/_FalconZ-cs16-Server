@@ -1,0 +1,12 @@
+gfx/env/officebk.tga
+gfx/env/officedn.tga
+gfx/env/officeft.tga
+gfx/env/officelf.tga
+gfx/env/officert.tga
+gfx/env/officeup.tga
+maps/de_emir_DS_Xmas.bsp
+sound/ambience/crickets1.wav
+sound/ambience/dustmusic1.wav
+sound/ambience/wind_outdoors_1.wav
+sprites/2000_xmas/chandel.spr
+sprites/2000_xmas/glow01.spr

@@ -1,0 +1,13 @@
+cs_assault.wad
+cs_office.wad
+de_aztec.wad
+decals.wad
+gfx/env/tsccity_bk.tga
+gfx/env/tsccity_dn.tga
+gfx/env/tsccity_ft.tga
+gfx/env/tsccity_lf.tga
+gfx/env/tsccity_rt.tga
+gfx/env/tsccity_up.tga
+halflife.wad
+maps/Cs_BBGv5.bsp
+models/hostage.mdl

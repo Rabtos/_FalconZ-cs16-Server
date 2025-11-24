@@ -1,0 +1,15 @@
+cs_bdog.wad
+de_aztec.wad
+de_dust.wad
+de_inferno.wad
+decals.wad
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+halflife.wad
+liquids.wad
+mania.wad
+maps/de_warfare2.bsp

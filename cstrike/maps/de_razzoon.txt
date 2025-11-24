@@ -1,0 +1,28 @@
+------ By hellcry ------
+Textures:
+cs_havanna.wad
+tf2.wad
+de_razzoon.wad
+decals.wad
+
+In a little town in Italy:
+In this Town a Warheadstransporter make a break between two cities
+This transport was a secretly Mission as far as the italian Mafia know about that.
+So some corrupted Terroist attack one of the to Depots where the warheads rest.
+
+
+Terrorist:
+Destroy the one of the 2 Depots of Warheads with the c4.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the Warheads crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+
+
+
+
+
+
+

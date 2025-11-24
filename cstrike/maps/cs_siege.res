@@ -1,0 +1,12 @@
+cs_siege.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+maps/cs_siege.bsp
+models/hostage.mdl
+sound/ambience/drips.wav
+sprites/glow03.spr

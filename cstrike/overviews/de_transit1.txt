@@ -1,0 +1,15 @@
+// overview description file for de_transit1.bsp
+// overview by cscargo.net – Euska
+global 
+{
+ZOOM 1.33
+ORIGIN 576.00 1312.00 336.00
+ROTATED 1
+}
+
+layer 
+{
+IMAGE "overviews/de_transit1.bmp"
+HEIGHT -737.00
+}
+

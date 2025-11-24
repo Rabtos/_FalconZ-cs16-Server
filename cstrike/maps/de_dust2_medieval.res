@@ -1,0 +1,14 @@
+gfx/env/nebo3bk.tga
+gfx/env/nebo3dn.tga
+gfx/env/nebo3ft.tga
+gfx/env/nebo3lf.tga
+gfx/env/nebo3rt.tga
+gfx/env/nebo3up.tga
+halflife.wad
+maps/de_dust2_medieval.bsp
+models/player/guerilla/guerilla.mdl
+models/props/bush_evergreen.mdl
+models/props/tree_japan_larch.mdl
+models/props/tree_japan_maple_orange.mdl
+sound/de_2013_dust2/bird_loop.wav
+sound/de_2013_dust2/grass_move.wav

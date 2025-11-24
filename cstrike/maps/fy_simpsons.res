@@ -1,0 +1,12 @@
+0soup0_simpsons.wad
+chateau.wad
+cl_simpsons.wad
+fy_simpsons.wad
+gfx/env/simpsonsbk.tga
+gfx/env/simpsonsdn.tga
+gfx/env/simpsonsft.tga
+gfx/env/simpsonslf.tga
+gfx/env/simpsonsrt.tga
+gfx/env/simpsonsup.tga
+maps/fy_simpsons.bsp
+sound/ambience/sweetbeer1.wav

@@ -1,0 +1,12 @@
+CSGO DIZZY BY XNO KUN
+
+Yet another remake of csgo map for cs 1.6.
+Dizzy is a flying scoutsman map added during
+operation Hydra in Counter-strik: Global Offensive.
+This map is placed in roof of skyscraper which is 
+under construction,similar theme to de_Vertigo
+
+All texture and model originaly from valve
+
+Thanks for download and playing the map
+

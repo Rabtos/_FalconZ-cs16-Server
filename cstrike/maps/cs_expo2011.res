@@ -1,0 +1,13 @@
+decals.wad
+gfx/env/expobk.tga
+gfx/env/expodn.tga
+gfx/env/expoft.tga
+gfx/env/expolf.tga
+gfx/env/export.tga
+gfx/env/expoup.tga
+halflife.wad
+maps/cs_expo2011.bsp
+models/hostage.mdl
+sound/ambience/waterfall3.wav
+sound/expo/street.wav
+sprites/wsplash3.spr

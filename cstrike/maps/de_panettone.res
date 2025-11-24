@@ -1,0 +1,12 @@
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+maps/de_panettone.bsp
+models/pi_tree.mdl
+models/pi_tree2.mdl
+models/pi_tree3.mdl
+models/pi_treeb.mdl

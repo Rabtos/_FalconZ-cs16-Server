@@ -1,0 +1,10 @@
+cs_app2.wad
+cs_assault.wad
+cs_office.wad
+de_storm.wad
+halflife.wad
+itsitaly.wad
+maps/cs_assault2002.bsp
+models/hostage.mdl
+prodigy.wad
+torntextures.wad

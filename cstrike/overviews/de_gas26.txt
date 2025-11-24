@@ -1,0 +1,14 @@
+// overview description file for de_gas26.bsp
+
+global 
+{
+    ZOOM    1.26
+    ORIGIN  96     256     -16
+	ROTATED	0
+}
+
+layer 
+{
+    IMAGE   "overviews/de_gas26.bmp"
+    HEIGHT  -320
+}

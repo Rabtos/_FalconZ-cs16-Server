@@ -1,0 +1,9 @@
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+halflife.wad
+maps/fy_snow_awp.bsp
+sound/de_torn/tk_windStreet.wav

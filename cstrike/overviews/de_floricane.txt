@@ -1,0 +1,17 @@
+// overview description file for de_floricane_beta.bsp
+// overview by Fregira
+
+global 
+{
+	ZOOM 1.85
+	ORIGIN -448.00 -174.00 216.00
+	ROTATED 0
+}
+
+layer 
+{
+	IMAGE "overviews/de_floricane_beta.bmp"
+	HEIGHT -145.00
+}
+
+

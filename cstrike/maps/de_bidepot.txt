@@ -1,0 +1,17 @@
+Bidepot - Bomb/Defuse
+
+by tada-s (codeforces.com/profile/tada-s)
+from mundomapping.net
+
+textures from Paranoia mod and some original textures
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the warehouse.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the warehouse. 
+
+Other Notes: There are 2 warehouses
+in the mission.

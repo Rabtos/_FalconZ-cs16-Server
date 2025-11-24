@@ -1,0 +1,9 @@
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+halflife.wad
+maps/de_inferno2010.bsp
+sprites/xsmoke3.spr

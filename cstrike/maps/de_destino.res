@@ -1,0 +1,14 @@
+cstexture_s.wad
+gfx/env/ddsrbk.tga
+gfx/env/ddsrdn.tga
+gfx/env/ddsrft.tga
+gfx/env/ddsrlf.tga
+gfx/env/ddsrrt.tga
+gfx/env/ddsrup.tga
+maps/de_destino.bsp
+models/nrm_1.mdl
+models/nrm_2.mdl
+models/nrm_3.mdl
+models/nrm_4.mdl
+sound/ambience/nrs_1.wav
+sprites/glow01.spr

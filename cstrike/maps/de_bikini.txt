@@ -1,0 +1,18 @@
+==================================
+BIKINI Bomb/Defuse version
+==================================
+
+CS-BIKINI adapted for Defusion mode by N34AY
+
+==================================
+
+CS-BIKINI created by 3D-Mike
+www.3D-Mike.com
+info@3D-Mike.com
+
+==================================
+
+All textures, sprites and models by 3D_Mike
+'Jaws theme' sample by John Williams
+'Song for a trucker' sample by Whiskeytown
+Hint-brush-help and ballshooter entity sequence by Mawibse

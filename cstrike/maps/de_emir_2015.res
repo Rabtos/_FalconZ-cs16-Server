@@ -1,0 +1,10 @@
+gfx/env/saides3bk.tga
+gfx/env/saides3dn.tga
+gfx/env/saides3ft.tga
+gfx/env/saides3lf.tga
+gfx/env/saides3rt.tga
+gfx/env/saides3up.tga
+maps/de_emir_2015.bsp
+sound/ambience/crickets1.wav
+sound/ambience/dustmusic1.wav
+sound/ambience/wind_outdoors_1.wav

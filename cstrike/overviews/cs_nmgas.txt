@@ -1,0 +1,15 @@
+//overview description for cs_nmgas.bsp
+
+global
+{
+	ZOOM	2.31
+	ORIGIN	340	64	-20
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/cs_nmgas.tga"
+	HEIGHT	-385
+}
+

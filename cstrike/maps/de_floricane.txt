@@ -1,0 +1,94 @@
+/// DE_FLORICANE - Bomb/Defuse
+by Valentin C.-D. aka Fregira [valentin@dashquate.com]
+
+
+/// SCENARIO
+
+An eco-activist group plan to attack the headquarters of a big agrochemical firm based in Pinewood, CA. The facility include a warehouse where is stored a controversial fertilizer. The heavily protected safe room in the eastern wing of the facility shelters a couple of tanks of an experimental and potentially very hazardous herbicide.
+
+
+
+/// OBJECTIVES
+
+Terrorists : bomb one of the two targets (A: The storage area in the warehouse, B: The herbicide tanks in the safe house)
+Counter-Terrorists: defend the facility and prevent the eco-activists from bombing the targets.
+
+
+/// LINKS
+
+http://www.bjl-team.com/
+http://www.dashquate.com/
+
+
+detailed credits and further informations in de_floricane.txt 
+
+
+
+/// HF folks ! 
+
+
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+
+
+/// THANKS TO
+
+- Mathieu Nebra [openclassrooms.com] for he's great hammer tutorials, and for giving me the opportunity to do something so useless of my life !
+- The Whole Half Life [http://TWHL.info] for the very useful tutorials, especially Stojke and The Mighty Atom for the random triggering event trick!
+- Sven-Coop Manor [https://sites.google.com/site/svenmanor] Again, some very nice tutorials and guides
+- Zoner [http://zhlt.info] for he's amazing HL tools
+- Vulzacn for taking over Zoner's work and allowing us to make some beautiful maps using the good ol'GoldSrc Engine (and sparing us a lot of compilation time in the process)
+- giMli (author of de_alps) for helping me with some good tips and convinced me it's possible to render an immersive atmosphere in a CS map.
+- my girlfriend for supporting me and not complaining too much about me spending hours on her computer to finish that damn map.
+- Valve Software, Minh Le and Jesse Cliffe and all of those who helped making this amazing game until 1.6... cause, obviously, the following versions were bullshit, yeah yeah even CSGO.
+- My brothers from not calling me a fool for making a CS map in 2016, even though I know that's what they thought.
+- the BJL community for the support !
+
+
+/// SOFTWARE USED
+
+Jackhammer Editor by Chain Studios
+Photoshop CS5 by Adobe Systems
+Illustrator CS5 by Adobe Systems
+HL Model Viewer by Jed
+HL Tools by Vluzacn
+HL Tools by Zoner
+Wally 1.55 by Ty Matthew and Neal White III
+
+
+/// RESOURCES 
+
+Game Configuration File : cs_expert-tom793c_wc35.fgd)
+cstrike.wad (texture) by MacMan
+halflife.wad (texture) by Valve Software
+decals.wad (texture)  by Valve Software
+csbdog.wad (texture) by Barking Dog Studios
+torntextures.wad (texture) by Gearbox Software
+zhlt.wad (texture) by Zoner
+tree model by Valve Software
+Tank model from sc_russian package
+Fern model by Valve Software
+Sprites by Valve Software
+AW Conqueror font by type J.-F. Porchez
+Elevator door sound by Johnson Brand Editing
+
+the rest of the resources are from me or modified version of resources from unknown authors.
+Sorry for all those I forget !
+
+
+/// MISC
+
+Build time : 4 months (Aug-Decemb. 2016)
+Compilation time : ~15 minutes
+
+
+/// CONTACT
+
+valentin@dashquate.com

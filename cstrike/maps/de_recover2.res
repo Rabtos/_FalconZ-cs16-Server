@@ -1,0 +1,15 @@
+chateau.wad
+cs_bdog.wad
+decals.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+itsitaly.wad
+maps/de_recover2.bsp
+models/bigtree.mdl
+sound/ambience/breather.wav
+sprites/glow02.spr

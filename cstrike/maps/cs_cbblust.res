@@ -1,0 +1,15 @@
+bylin.wad
+cbblust.wad
+essential.wad
+gfx/env/desbk.tga
+gfx/env/desdn.tga
+gfx/env/desft.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desup.tga
+maps/cs_cbblust.bsp
+models/cbblust/Cactus.mdl
+models/cbblust/Palmeira.mdl
+models/cbblust/palmtree.mdl
+models/hostage.mdl
+models/player/guerilla/guerilla.mdl

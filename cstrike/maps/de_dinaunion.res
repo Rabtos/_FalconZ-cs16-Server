@@ -1,0 +1,12 @@
+dedina.wad
+gfx/env/desbk.tga
+gfx/env/desdn.tga
+gfx/env/desft.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desup.tga
+maps/de_dinaunion.bsp
+models/player/guerilla/guerilla.mdl
+models/pred_plant.mdl
+sprites/ikgrass1.spr
+sprites/ikgrass3.spr

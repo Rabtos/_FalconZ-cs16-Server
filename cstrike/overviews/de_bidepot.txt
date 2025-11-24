@@ -1,0 +1,14 @@
+// overview description file for de_bidepot.bsp
+
+global 
+{
+	ZOOM	1.47
+	ORIGIN	-155.19	121.75	-52
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_bidepot.bmp"
+	HEIGHT	-641
+}

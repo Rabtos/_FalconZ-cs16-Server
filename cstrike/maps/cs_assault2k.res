@@ -1,0 +1,12 @@
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+halflife.wad
+maps/cs_assault2k.bsp
+models/hostage.mdl
+models/scientist.mdl
+sound/ambience/truck2.wav
+sprites/glow01.spr

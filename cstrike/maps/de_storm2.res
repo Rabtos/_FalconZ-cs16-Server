@@ -1,0 +1,13 @@
+basic.wad
+de_storm.wad
+de_storm2.wad
+gfx/env/de_stormbk.tga
+gfx/env/de_stormdn.tga
+gfx/env/de_stormft.tga
+gfx/env/de_stormlf.tga
+gfx/env/de_stormrt.tga
+gfx/env/de_stormup.tga
+maps/de_storm2.bsp
+models/skeleton.mdl
+sound/storm/thunder-theme.wav
+sprites/glow01.spr

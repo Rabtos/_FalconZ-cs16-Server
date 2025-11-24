@@ -1,0 +1,10 @@
+decals.wad
+gfx/env/seabk.tga
+gfx/env/seadn.tga
+gfx/env/seaft.tga
+gfx/env/sealf.tga
+gfx/env/seart.tga
+gfx/env/seaup.tga
+halflife.wad
+maps/de_suntower_mini.bsp
+suntower.wad

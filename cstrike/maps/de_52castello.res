@@ -1,0 +1,12 @@
+decals.wad
+gfx/env/tornskybk.tga
+gfx/env/tornskydn.tga
+gfx/env/tornskyft.tga
+gfx/env/tornskylf.tga
+gfx/env/tornskyrt.tga
+gfx/env/tornskyup.tga
+halflife.wad
+mad_spain.wad
+mad_spain_addon.wad
+maps/de_52castello.bsp
+sound/ambience/Birds9.wav

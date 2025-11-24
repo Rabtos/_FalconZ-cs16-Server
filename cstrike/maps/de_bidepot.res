@@ -1,0 +1,9 @@
+de_bidepot.wad
+maps/de_bidepot.bsp
+sprites/glow01.spr
+sprites/grass_01.spr
+sprites/ikgrass1.spr
+sprites/ikgrass2.spr
+sprites/ikgrass3.spr
+sprites/ikgrass4.spr
+sprites/ikgrass5.spr

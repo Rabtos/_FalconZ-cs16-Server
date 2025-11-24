@@ -1,0 +1,12 @@
+ajawad.wad
+cs_office.wad
+de_aztec.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+liquids.wad
+maps/de_cliff.bsp

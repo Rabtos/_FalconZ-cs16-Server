@@ -1,0 +1,14 @@
+// overview description file for de_aztec_1337.bsp
+
+global 
+{
+	ZOOM	1.03
+	ORIGIN	60.00  192.00  256.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aztec_1337.tga"
+	HEIGHT	-577.00
+}

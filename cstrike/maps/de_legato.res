@@ -1,0 +1,17 @@
+barney.wad
+countdown.wad
+cs_office.wad
+de_egypt.wad
+decals.wad
+gfx/env/egyptbk.tga
+gfx/env/egyptdn.tga
+gfx/env/egyptft.tga
+gfx/env/egyptlf.tga
+gfx/env/egyptrt.tga
+gfx/env/egyptup.tga
+halflife.wad
+hi_crystal.wad
+maps/de_legato.bsp
+mazydm.wad
+tfc.wad
+tfc2.wad

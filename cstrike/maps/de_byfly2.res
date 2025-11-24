@@ -1,0 +1,17 @@
+de_byfly_r2v03.wad
+decals.wad
+ded_zhlt2.wad
+gfx/env/desert06bk.tga
+gfx/env/desert06dn.tga
+gfx/env/desert06ft.tga
+gfx/env/desert06lf.tga
+gfx/env/desert06rt.tga
+gfx/env/desert06up.tga
+halflife.wad
+liquids.wad
+maps/de_byfly2.bsp
+models/de_byfly/bush44.mdl
+models/de_byfly/bush44_1.mdl
+models/de_byfly/buzzer_kust.mdl
+models/de_byfly/palmtree.mdl
+zz_all_tex4.wad

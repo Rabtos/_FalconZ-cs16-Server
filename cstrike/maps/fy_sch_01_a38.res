@@ -1,0 +1,13 @@
+cs_office.wad
+de_aztec.wad
+gfx/env/desertbk.tga
+gfx/env/desertdn.tga
+gfx/env/desertft.tga
+gfx/env/desertlf.tga
+gfx/env/desertrt.tga
+gfx/env/desertup.tga
+halflife.wad
+maps/fy_sch_01_a38.bsp
+school-2.wad
+school-hl.wad
+school.wad

@@ -1,0 +1,14 @@
+// overview description file for de_upd_aztec
+
+global 
+{
+	ZOOM	1.28
+	ORIGIN	274.25 	-532.52	682.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_upd_aztec.bmp"
+	HEIGHT	-29.0
+}

@@ -1,0 +1,14 @@
+decals.wad
+gfx/env/bahrainbk.tga
+gfx/env/bahraindn.tga
+gfx/env/bahrainft.tga
+gfx/env/bahrainlf.tga
+gfx/env/bahrainrt.tga
+gfx/env/bahrainup.tga
+itsitaly.wad
+maps/de_bahrainv2.bsp
+sound/Bahrain/bell.wav
+sound/Bahrain/gulls.wav
+sound/Bahrain/harbor.wav
+sound/Bahrain/pray.wav
+sound/ambience/waterrun.wav

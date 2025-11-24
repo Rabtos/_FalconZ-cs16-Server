@@ -1,0 +1,13 @@
+gfx/env/alsacebk.tga
+gfx/env/alsacedn.tga
+gfx/env/alsaceft.tga
+gfx/env/alsacelf.tga
+gfx/env/alsacert.tga
+gfx/env/alsaceup.tga
+maps/de_alsace_b1.bsp
+models/pi_tree3.mdl
+models/props/tree_brownv01.mdl
+sound/alsace/birdambiencedq.wav
+sound/alsace/elsasslied.wav
+sound/alsace/water_flowing1.wav
+sprites/wsplash3.spr

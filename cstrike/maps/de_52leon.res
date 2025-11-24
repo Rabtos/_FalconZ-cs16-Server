@@ -1,0 +1,10 @@
+gfx/env/leonbk.tga
+gfx/env/leondn.tga
+gfx/env/leonft.tga
+gfx/env/leonlf.tga
+gfx/env/leonrt.tga
+gfx/env/leonup.tga
+mad_spain.wad
+mad_spain_addon.wad
+maps/de_52leon.bsp
+sprites/spain_glow.spr

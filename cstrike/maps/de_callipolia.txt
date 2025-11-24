@@ -1,0 +1,15 @@
+de_CALLIPOLIA - Bomb/Defuse
+by gizmo (lenned@haefft.de)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the boxes. Team members 
+must defuse any bombs that threaten 
+targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the boxes.
+
+Other Notes: There are 2 bomb targets
+in the mission. 
+
+(Press FIRE to continue)

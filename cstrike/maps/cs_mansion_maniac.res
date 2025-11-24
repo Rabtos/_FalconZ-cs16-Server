@@ -1,0 +1,11 @@
+gfx/env/hypaxpupbk.tga
+gfx/env/hypaxpupdn.tga
+gfx/env/hypaxpupft.tga
+gfx/env/hypaxpuplf.tga
+gfx/env/hypaxpuprt.tga
+gfx/env/hypaxpupup.tga
+maps/cs_mansion_maniac.bsp
+sound/hypax_sound/generator.wav
+sound/hypax_sound/hypax_csmnc2.wav
+sound/hypax_sound/hypax_world0.wav
+sound/hypax_sound/truck2.wav

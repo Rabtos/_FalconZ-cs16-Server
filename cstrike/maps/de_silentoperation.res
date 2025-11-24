@@ -1,0 +1,11 @@
+decals.wad
+gfx/env/riobk.tga
+gfx/env/riodn.tga
+gfx/env/rioft.tga
+gfx/env/riolf.tga
+gfx/env/riort.tga
+gfx/env/rioup.tga
+halflife.wad
+maps/de_silentoperation.bsp
+sound/cricket.wav
+sound/silentop.wav

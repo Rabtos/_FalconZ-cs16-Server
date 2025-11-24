@@ -1,0 +1,10 @@
+gfx/env/bluebk.tga
+gfx/env/bluedn.tga
+gfx/env/blueft.tga
+gfx/env/bluelf.tga
+gfx/env/bluert.tga
+gfx/env/blueup.tga
+maps/css_crane.bsp
+models/crane_bird.mdl
+models/crane_crane.mdl
+sprites/glow01.spr

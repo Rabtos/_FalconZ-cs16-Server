@@ -1,0 +1,14 @@
+de_aztec.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+maps/de_aztec2k4.bsp
+models/pi_tree1.mdl
+models/pi_tree2.mdl
+sound/ambience/waterrun.wav
+sprites/ikgrass1.spr
+sprites/ikgrass3.spr

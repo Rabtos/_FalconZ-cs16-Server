@@ -1,0 +1,14 @@
+// overview description file for cs_greatassault_b3.bsp
+
+global 
+{
+	ZOOM	1.50
+	ORIGIN	-928.00 512.00 282.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_greatassault_b3.bmp"
+	HEIGHT	-365.00
+}

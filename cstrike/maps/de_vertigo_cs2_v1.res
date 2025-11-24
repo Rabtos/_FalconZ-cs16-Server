@@ -1,0 +1,13 @@
+gfx/env/tsccity_bk.tga
+gfx/env/tsccity_dn.tga
+gfx/env/tsccity_ft.tga
+gfx/env/tsccity_lf.tga
+gfx/env/tsccity_rt.tga
+gfx/env/tsccity_up.tga
+maps/de_vertigo_cs2_v1.bsp
+models/player/guerilla/guerilla.mdl
+models/s_models/s_models_05/light_construction.mdl
+sound/ambience/fallscream.wav
+sound/ambience/wind2.wav
+sprites/flare2.spr
+sprites/glow01.spr

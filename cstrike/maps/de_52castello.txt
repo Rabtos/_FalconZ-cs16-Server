@@ -1,0 +1,25 @@
+52hours - castello -  Bomb/Defuse
+by Di$T0rTi0n(distortionleveldesign@gmx.de)
+This was map made for the "Just 52 hours"-Fast Mapping Contest
+of www.counter-strike.de
+
+Spanish Castello
+----------------------------------------
+
+Setting: Terrorists intruded into an old
+spanish castello and try to bomb one of the 
+touristic sites.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the bomb targets.  
+Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets.
+
+Other Notes: There are 2 targets and
+30 player-starts in this mission. 
+
+----------------------------------------
+

@@ -1,0 +1,13 @@
+de_westwood_btm.wad
+gfx/env/2desertbk.tga
+gfx/env/2desertdn.tga
+gfx/env/2desertft.tga
+gfx/env/2desertlf.tga
+gfx/env/2desertrt.tga
+gfx/env/2desertup.tga
+halflife.wad
+itsitaly.wad
+maps/de_westwood_big.bsp
+prostjumsen_bar.wad
+sound/ambience/guit1.wav
+sound/nm_goodbadugly.wav

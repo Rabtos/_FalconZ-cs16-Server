@@ -1,0 +1,9 @@
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+maps/de_blacksnow.bsp
+sound/WILD0
+sprites/glow01.spr

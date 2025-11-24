@@ -1,0 +1,10 @@
+de_inferno.wad
+decals.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+maps/de_inferno_2x2.bsp

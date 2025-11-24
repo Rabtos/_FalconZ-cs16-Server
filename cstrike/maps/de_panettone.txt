@@ -1,0 +1,17 @@
+Panettone - Bomb/Defuse
+by Victor Paiva (victorppaiva@gmail.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the panettone shipments.
+Team members must defuse any bombs that
+threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the panettone
+shipments.
+
+Other Notes: There are 2 panettone
+shipments in the mission.
+
+(Press FIRE to continue)
+

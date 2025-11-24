@@ -1,0 +1,22 @@
+|BIER| - Hostage Rescue
+by KwakkaSaki (ErikN@home.nl)
+
+[Background Information]
+The year is 2001,
+A group of unknown Terrorists often refered to as
+"The Bier Clan" have arrived in Durham City. The
+Terrorist took over an entire neighbourhood. Most
+citizens are escaped. But an unknown number of
+citizens are still in the neighbourhood. They're
+most likely hiding in some buildings.
+
+[Terrorists]
+Kidnapp the citizens and prevent the Counter-
+Terrorists from rescueing them.
+
+[Counter-Terrorists]
+Find and escort the 3 people to a safe location in
+Durham City before the T's get to them. Otherwise
+you'll have to deal with the Terrorists first.
+
+[Press FIRE to continue]

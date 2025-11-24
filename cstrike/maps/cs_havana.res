@@ -1,0 +1,13 @@
+chateau.wad
+cs_havana.wad
+gfx/env/havbk.tga
+gfx/env/havdn.tga
+gfx/env/havft.tga
+gfx/env/havlf.tga
+gfx/env/havrt.tga
+gfx/env/havup.tga
+halflife.wad
+maps/cs_havana.bsp
+models/hostage.mdl
+sprites/glow01.spr
+sprites/glow03.spr

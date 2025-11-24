@@ -1,0 +1,20 @@
+Basra - Defusion
+by Jan 'c4stor' Weber 
+
+Counter-Terrorists: Prevent the Terrorists from
+bombing the swimming pool or the warehouse of Basra.
+
+Terrorists: Destroy the local goods or bomb 
+the pride of Basra, the swimming pool.
+
+Other Notes: 
+There are 2 bomb sites in this mission.
+Keep an eye on the market.
+
+I must admit that the r_speeds are very high in some areas of the map
+This is my first bigger map but I think it's pretty well done.
+
+Feedback --> webs87@web.de <-- kcabdeeF
+
+
+

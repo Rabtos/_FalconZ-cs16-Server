@@ -1,0 +1,14 @@
+// overview description file for de_aztec_urban.bsp
+
+global
+{
+ZOOM  0.77
+ORIGIN  -24  -24  -853
+ROTATED  0
+}
+
+layer
+{
+IMAGE  "overviews/de_aztec_urban.bmp"
+HEIGHT  -853
+}

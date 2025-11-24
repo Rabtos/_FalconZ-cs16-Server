@@ -1,0 +1,15 @@
+ex_breakdown.wad
+fp_iawad.wad
+gfx/env/desnoonbk.tga
+gfx/env/desnoondn.tga
+gfx/env/desnoonft.tga
+gfx/env/desnoonlf.tga
+gfx/env/desnoonrt.tga
+gfx/env/desnoonup.tga
+halflife.wad
+maps/de_breakdown2.bsp
+sound/ambience/Birds1.wav
+sound/ambience/Birds5.wav
+sound/ambience/cicada3.wav
+sound/ambience/wolfhowl01.wav
+sprites/glow01.spr

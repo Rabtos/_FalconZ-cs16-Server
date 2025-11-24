@@ -1,0 +1,12 @@
+decals.wad
+gfx/env/snowlake_bk.tga
+gfx/env/snowlake_dn.tga
+gfx/env/snowlake_ft.tga
+gfx/env/snowlake_lf.tga
+gfx/env/snowlake_rt.tga
+gfx/env/snowlake_up.tga
+halflife.wad
+liquids.wad
+maps/cs_snowtown_v1.bsp
+models/hostage.mdl
+models/scientist.mdl

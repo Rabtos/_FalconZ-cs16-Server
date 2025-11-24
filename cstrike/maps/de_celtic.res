@@ -1,0 +1,15 @@
+de_celtic.wad
+gfx/env/de_celticbk.tga
+gfx/env/de_celticdn.tga
+gfx/env/de_celticft.tga
+gfx/env/de_celticlf.tga
+gfx/env/de_celticrt.tga
+gfx/env/de_celticup.tga
+halflife.wad
+maps/de_celtic.bsp
+sound/ambience/birds8.wav
+sound/ambience/birds9.wav
+sound/ambience/de_celtic.wav
+sound/ambience/sheep.wav
+sound/ambience/sparrow.wav
+sound/ambience/wren1.wav

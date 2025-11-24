@@ -1,0 +1,10 @@
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+halflife.wad
+itsitaly.wad
+maps/de_bisborg.bsp
+torntextures.wad

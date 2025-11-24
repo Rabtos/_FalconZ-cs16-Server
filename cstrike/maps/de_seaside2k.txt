@@ -1,0 +1,18 @@
+SEASIDE2K -  Bomb/Defuse
+by  Cortex  (Dackyy@gmx.de)
+Textures by MacMan, Mazy, Locknut, 
+Telnets, DaveJ, MikeZill@, MartinE,
+Warbeast and Cortex
+
+
+Background: The Irish Republic Army
+got informations about new military 
+weapons which must be destroyed.
+
+Counter-Terrorists: Prevent Terrorists 
+from bombing the military weapon crates. 
+Defuse any bombs that threaten targets.
+
+Terrorists: Destroy the weapon crates!
+
+

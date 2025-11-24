@@ -1,0 +1,24 @@
+Dusttown - Bomb/Defuse
+by Dr_Execution (Dr_Execution@web.de)
+
+
+Thanks to:
+- Macman for textures    (MacManInfi@aol.com)
+- DaveJ for some layout  (dv@btinternet.com)
+
+
+Counter-Terrorists: 
+Prevent Terrorists from bombing the 
+market place in the middle or the 
+reserves at town entrance.
+
+
+Terrorists:
+Destroy either the reserves at town entrance
+or the market place in the middle of the town.
+
+Other Notes: To find the 2 bombtargets 
+follow the street. 
+
+
+(Press FIRE to continue)

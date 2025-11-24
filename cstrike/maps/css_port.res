@@ -1,0 +1,17 @@
+gfx/env/css_portbk.tga
+gfx/env/css_portdn.tga
+gfx/env/css_portft.tga
+gfx/env/css_portlf.tga
+gfx/env/css_portrt.tga
+gfx/env/css_portup.tga
+halflife.wad
+maps/css_port.bsp
+sound/ambience/Birds5.wav
+sound/ambience/Birds9.wav
+sound/ambience/boomer.wav
+sound/ambience/copter.wav
+sound/ambience/hammer.wav
+sound/ambience/littlemachine.wav
+sound/ambience/rd_waves.wav
+sprites/flare1.spr
+sprites/xsmoke3.spr

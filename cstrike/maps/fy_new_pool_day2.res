@@ -1,0 +1,10 @@
+fy_new_pool_day.wad
+fy_pool_day.wad
+gfx/env/desertbk.tga
+gfx/env/desertdn.tga
+gfx/env/desertft.tga
+gfx/env/desertlf.tga
+gfx/env/desertrt.tga
+gfx/env/desertup.tga
+maps/fy_new_pool_day2.bsp
+sound/player/sprayer.wav

@@ -1,0 +1,19 @@
+Devilz - Bomb/Defuse
+by sToP ! 
+(dani_march2@yahoo.com)
+
+***www.devilz.ro***
+***www.pyro-zone-site.webs.com***
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the explosive crates.
+Team members must defuse any 
+bombs that threaten targeted area.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the explosive crates.
+
+Other Notes: There is 1 bomb target
+in the mission.
+Extra: Driveable stuff.

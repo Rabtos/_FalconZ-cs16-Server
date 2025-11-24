@@ -1,0 +1,14 @@
+// overview description file for de_deadcity.bsp
+
+global 
+{
+	ZOOM	1.98
+	ORIGIN	594.75 	996.38	-159.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_deadcity.bmp"
+	HEIGHT	-412
+}

@@ -1,0 +1,14 @@
+// overview description file for de_crazytown.bsp
+
+global 
+{
+	ZOOM	1.63
+	ORIGIN	166 	-32.60	-1026
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_crazytown.bmp"
+	HEIGHT	-1026
+}

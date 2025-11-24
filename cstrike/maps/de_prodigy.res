@@ -1,0 +1,11 @@
+gfx/env/duskbk.tga
+gfx/env/duskdn.tga
+gfx/env/duskft.tga
+gfx/env/dusklf.tga
+gfx/env/duskrt.tga
+gfx/env/duskup.tga
+halflife.wad
+maps/de_prodigy.bsp
+prodigy.wad
+sound/ambience/industrial4.wav
+sound/ambience/wind1.wav

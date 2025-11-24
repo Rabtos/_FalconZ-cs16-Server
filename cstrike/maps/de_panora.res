@@ -1,0 +1,15 @@
+basics.wad
+de_panora.wad
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+grichisch.wad
+halflife.wad
+hof.wad
+jemen.wad
+mad_spain.wad
+mad_spain_addon.wad
+maps/de_panora.bsp

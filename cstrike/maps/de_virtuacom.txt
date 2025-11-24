@@ -1,0 +1,22 @@
+de_Virtu@Com (v1.0) - Bomb/Defuse
+---------------------------------
+Edited by: MajaX (mat-online@wanadoo.fr)
+Please visit : www.virtuacom.fr.st
+---------------------------------
+
+Nous sommes en 2089. La technologie de cette
+époque permet a un organisme vivant d'entrer
+directement dans un systeme informatique !
+Des hackers on détectés une faille
+au niveau du port x12-56 et se sont introduit
+dedans !
+
+Hackers :
+Détruisez soit le bloc de la gestion mémoire,
+soit celui du transfert de données a 512 Bits !
+
+Anti-Hackers :
+Vous devez absolument empecher les hackers
+de mener leur plant à excecution !
+
+-= Press FIRE to enter the Matrice ;) =-

@@ -1,0 +1,12 @@
+gfx/env/sunnybk.tga
+gfx/env/sunnydn.tga
+gfx/env/sunnyft.tga
+gfx/env/sunnylf.tga
+gfx/env/sunnyrt.tga
+gfx/env/sunnyup.tga
+maps/de_sunny.bsp
+models/sunny/ginsengavenger_palm240_256.mdl
+models/sunny/ginsengavenger_palmgroup.mdl
+sound/sunny/la_waves.wav
+sound/sunny/oeuf_mer.wav
+sprites/glow01.spr

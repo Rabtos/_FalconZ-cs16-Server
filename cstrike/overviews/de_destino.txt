@@ -1,0 +1,13 @@
+// overview description file for de_destino level
+global 
+{
+	ZOOM	1.59
+	ORIGIN	-1136 	-1222.89	-110
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_destino.bmp"
+	HEIGHT	-110
+}

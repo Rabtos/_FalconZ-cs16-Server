@@ -1,0 +1,13 @@
+The Mercenaries of a Gang have Hijacked a School.
+Althought all the hostages have been rescued,
+and the Mercenaries being outnumbered 
+have planted bombs in the school 
+as their last resort.
+.
+Objectives :-
+Ts          - Eliminate the CTs
+            - Blow up the Place
+CTs         - Eliminate all the Ts
+            - Defuse the Bomb
+.
+Press any key to continue 

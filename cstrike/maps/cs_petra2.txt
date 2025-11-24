@@ -1,0 +1,22 @@
+Petra2 - Hostage Rescue
+
+by Bagus "[Glm] Light" P (jatim911@hotmail.com)	
+Textures/Graphics by:
+DigiChaos (digichaos@hotsheep.com)
+Philip Klevestav aka. Blazeeer
+(blazeeer@lycos.com)
+
+Background: Terrorists are holding 4 teachers of 
+            Elite High School Petra 2 as their hostages.They keep them 
+            on the 2nd floor of the building.
+            Meanwhile a group of counter-terrorists have succesfully
+            entered the building via library ( on the 3rd floor).
+
+Terrorists: Prevent Counter-Terrorist
+            force from rescuing the hostages. 
+
+Counter-Terrorists: Rescue hostages  and bring them to library.
+                    
+
+
+(Press FIRE to continue)

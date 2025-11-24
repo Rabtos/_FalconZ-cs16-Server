@@ -1,0 +1,16 @@
+de_heat.wad
+gfx/env/tropdep256_bk.tga
+gfx/env/tropdep256_dn.tga
+gfx/env/tropdep256_ft.tga
+gfx/env/tropdep256_lf.tga
+gfx/env/tropdep256_rt.tga
+gfx/env/tropdep256_up.tga
+halflife.wad
+maps/de_heat.bsp
+models/bigrat.mdl
+models/bleachbones.mdl
+models/uplant1.mdl
+models/uplant2.mdl
+models/uplant3.mdl
+sound/ambience/tankidle1.wav
+sound/ambience/tunak.wav

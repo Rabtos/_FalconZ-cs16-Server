@@ -1,0 +1,16 @@
+DEADCITY - Bomb/Defuse
+
+by muldyer_ksdmg & skyle_ksdmg
+textured by muldyer_ksdmg
+
+Counter-Terrorists: Les CT doivent
+saisir les armes chimiques des terro,
+avant qu'ils ne les détruisent.
+
+Terrorists: Les Terro doivent
+absolument détruire les armes 
+chimiques pour supprimer les 
+preuves.
+
+Other Notes: Il y a 2 points de 
+bombes.

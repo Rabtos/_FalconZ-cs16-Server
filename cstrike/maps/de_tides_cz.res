@@ -1,0 +1,17 @@
+czde_tides.wad
+czritual_standard.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+maps/de_tides_cz.bsp
+models/props/banisterbg1.mdl
+models/props/bush_japan_bush01.mdl
+models/props/chimney_brown.mdl
+models/props/lamp_wall-hanging.mdl
+models/props/tree_brownv01.mdl
+models/props/tree_pine.mdl
+sprites/fire.spr
+sprites/yelflare2.spr

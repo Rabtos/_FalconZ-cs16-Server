@@ -1,0 +1,14 @@
+chateau.wad
+cs_cbble.wad
+de_piranesi.wad
+decals.wad
+gfx/env/tornskybk.tga
+gfx/env/tornskydn.tga
+gfx/env/tornskyft.tga
+gfx/env/tornskylf.tga
+gfx/env/tornskyrt.tga
+gfx/env/tornskyup.tga
+halflife.wad
+itsitaly.wad
+maps/de_2rox.bsp
+torntextures.wad

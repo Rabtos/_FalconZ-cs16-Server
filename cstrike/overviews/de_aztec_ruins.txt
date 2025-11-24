@@ -1,0 +1,14 @@
+// overview description file for de_aztec_ruins.bsp
+
+global 
+{
+	ZOOM	1.31
+	ORIGIN	-249.00 	78.50	350.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aztec_ruins.bmp"
+	HEIGHT	-165.00
+}

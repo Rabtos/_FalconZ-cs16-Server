@@ -1,0 +1,14 @@
+// overview description file for de_tenement2.bsp
+
+global 
+{
+ZOOM 1.24
+ORIGIN 150.89 602.17 -1840.00
+ROTATED 0
+}
+
+layer 
+{
+IMAGE "overviews/de_tenement2.bmp"
+HEIGHT -2171.44
+}

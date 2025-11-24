@@ -1,0 +1,15 @@
+chateau.wad
+cs_havana.wad
+decals.wad
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+halflife.wad
+lan-z.wad
+maps/de_lan-z.bsp
+sound/ambience/truck1.wav
+sprites/glow01.spr
+tfc2.wad

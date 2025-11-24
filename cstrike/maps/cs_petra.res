@@ -1,0 +1,10 @@
+cs_747.wad
+cs_assault.wad
+cs_hideout.wad
+decals.wad
+es_frantic.wad
+halflife.wad
+liquids.wad
+maps/cs_petra.bsp
+models/scientist.mdl
+sound/ambience/waterfall3.wav

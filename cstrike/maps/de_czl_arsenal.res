@@ -1,0 +1,13 @@
+czde_prodigy.wad
+czde_sienna.wad
+czde_vostok.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+maps/de_czl_arsenal.bsp
+models/props/bush_shrub_little.mdl
+models/props/bush_shrubv01.mdl
+sprites/flare1.spr

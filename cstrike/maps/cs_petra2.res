@@ -1,0 +1,10 @@
+gfx/env/citybk.tga
+gfx/env/citydn.tga
+gfx/env/cityft.tga
+gfx/env/citylf.tga
+gfx/env/cityrt.tga
+gfx/env/cityup.tga
+halflife.wad
+itsitaly.wad
+maps/cs_petra2.bsp
+models/hostage.mdl

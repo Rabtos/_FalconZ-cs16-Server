@@ -1,0 +1,10 @@
+gfx/env/xen10bk.tga
+gfx/env/xen10dn.tga
+gfx/env/xen10ft.tga
+gfx/env/xen10lf.tga
+gfx/env/xen10rt.tga
+gfx/env/xen10up.tga
+maps/de_virtuacom.bsp
+sprites/virtuacom/affiche.spr
+sprites/virtuacom/majax.spr
+sprites/virtuacom/pub.spr

@@ -1,0 +1,10 @@
+Tenement2 - Bomb/Defuse
+By: UltraMagnus (puckojohan@hotmail.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the bombsites
+
+Terrorists: Place the C4 at one of the
+two bombsites
+
+(Press FIRE to continue)

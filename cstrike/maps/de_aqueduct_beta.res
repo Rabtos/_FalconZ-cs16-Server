@@ -1,0 +1,12 @@
+basics.wad
+cs_havana.wad
+de_antica.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+inferno.wad
+maps/de_aqueduct_beta.bsp
+torntextures.wad

@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.14
+	ORIGIN	96	1220	-312
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/cs_nmhotel.tga"
+	HEIGHT	-833
+}
+

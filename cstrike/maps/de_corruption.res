@@ -1,0 +1,12 @@
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+maps/de_corruption.bsp
+models/props/bush_shrub_little.mdl
+models/props/bush_shrubv01.mdl
+models/props/tree_brownv01.mdl
+sound/ambience/trailer_wndinsidepark_loop.wav
+xde_corruption.wad

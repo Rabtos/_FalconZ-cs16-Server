@@ -1,0 +1,15 @@
+gfx/env/dustybk.tga
+gfx/env/dustydn.tga
+gfx/env/dustyft.tga
+gfx/env/dustylf.tga
+gfx/env/dustyrt.tga
+gfx/env/dustyup.tga
+halflife.wad
+mad_spain.wad
+mad_spain_addon.wad
+maps/de_52lagranja.bsp
+sound/ambience/guit1.wav
+sound/ambience/waterrun.wav
+sprites/glow03.spr
+sprites/wsplash3.spr
+sprites/xsmoke1.spr

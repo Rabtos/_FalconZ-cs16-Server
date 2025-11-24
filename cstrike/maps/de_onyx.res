@@ -1,0 +1,15 @@
+cs_747.wad
+cs_bdog.wad
+cs_office.wad
+de_aztec.wad
+de_dom.wad
+de_vegas.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+itsItaly.wad
+maps/de_onyx.bsp

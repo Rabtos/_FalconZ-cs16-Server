@@ -1,0 +1,26 @@
+de_sirocco2 - Bomb/Defuse
+map design: [builder]oma 
+textures by: [builder]oma
+ideas and playtest: [builder]oma, 
+[builder]dirge, [builder]cowboy,
+[builder]madmuppet
+goto: www.builder.connectfree.co.uk
+
+Counter-Terrorists: Prevent Terrorists
+from bombing water access and defense 
+equipment.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must locate and destroy a small number
+of special ops equipment stores. This 
+equipment is identified with "medical" 
+markings which have been used to conceal the 
+true contents.  
+
+Other Notes: Intelligence has uncovered 
+information concerning one of the suspected 
+bomb targets, a light goods bridge. 
+
+(Press FIRE to continue)

@@ -1,0 +1,15 @@
+Concrete.wad
+cs_bdog.wad
+gfx/env/DrkGbk.tga
+gfx/env/DrkGdn.tga
+gfx/env/DrkGft.tga
+gfx/env/DrkGlf.tga
+gfx/env/DrkGrt.tga
+gfx/env/DrkGup.tga
+halflife.wad
+liquids.wad
+maps/de_chaos_of_canals.bsp
+models/player/guerilla/guerilla.mdl
+sound/ambience/drips.wav
+sound/ambience/rain.wav
+xeno.wad

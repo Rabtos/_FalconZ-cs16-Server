@@ -1,0 +1,13 @@
+chateau.wad
+cs_cbble.wad
+cs_havana.wad
+cs_office.wad
+de_aztec.wad
+decals.wad
+halflife.wad
+maps/de_love_me.bsp
+sound/de_torn/torn_AK-47.wav
+sound/de_torn/torn_Bomb1.wav
+sound/plats/vehicle3.wav
+sound/plats/vehicle6.wav
+torntextures.wad

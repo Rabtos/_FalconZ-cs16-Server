@@ -1,0 +1,12 @@
+cs_metro.wad
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+halflife.wad
+liquids.wad
+maps/cs_metro.bsp
+models/hostage.mdl
+models/player/guerilla/guerilla.mdl

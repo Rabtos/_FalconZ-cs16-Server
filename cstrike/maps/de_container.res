@@ -1,0 +1,15 @@
+cs_assault.wad
+cs_bdog.wad
+decals.wad
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+halflife.wad
+liquids.wad
+maps/de_container.bsp
+models/pi_tree.mdl
+models/player/guerilla/guerilla.mdl
+sprites/glow01.spr

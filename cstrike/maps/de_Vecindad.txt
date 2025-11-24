@@ -1,0 +1,22 @@
+de_Vecinad - Defuse
+by Vada
+(Vada @ CsMapas.Com.ar)
+Textures by Vada
+
+Historia:
+Los Terroristas deben acabar con unos cargamentos
+que fueron escondidos por otra organización terrorista
+en una vecindad en las afueras de México DF.
+
+Ct's:
+Deben impedir que los cargamentos vuelen por los aires
+y que no destruyan a la población.
+
+Terror's:
+Deben destruir toda evidencia de que esos cargamentos
+existieron, y salir sin lastimarse.
+
+(Press FIRE to continue)
+
+
+ 

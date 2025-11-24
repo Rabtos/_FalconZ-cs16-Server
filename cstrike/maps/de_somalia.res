@@ -1,0 +1,13 @@
+cs_office.wad
+de_airstrip.wad
+de_aztec.wad
+decals.wad
+gfx/env/1bk.tga
+gfx/env/1dn.tga
+gfx/env/1ft.tga
+gfx/env/1lf.tga
+gfx/env/1rt.tga
+gfx/env/1up.tga
+halflife.wad
+maps/de_somalia.bsp
+torntextures.wad

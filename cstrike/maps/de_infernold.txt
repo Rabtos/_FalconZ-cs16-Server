@@ -1,0 +1,14 @@
+// overview description file for de_infernold
+
+global 
+{
+	Zoom 1.46
+	ORIGIN	1803.94  -721.63  -861.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_inferno_old.bmp"
+	HEIGHT  -1776.00
+}

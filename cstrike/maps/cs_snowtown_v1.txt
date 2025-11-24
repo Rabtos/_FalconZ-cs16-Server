@@ -1,0 +1,20 @@
+     Snow Town-Hostage Rescue
+	   VERSION 1.0
+-----------------------------------
+        Created by ViCiouS
+     www.gibchunks.com/conway
+Textures by Locknut, Jordy + ViCiouS
+-----------------------------------
+CT's - Rescue the hostages from 
+there home, and return them to the
+safety zone.
+
+Terroist - Prevent the CT's from
+Rescueing the hostages.
+
+          :Thanks To:
+
+Questionable Ethics, Locknut, Jordy.
+ And anyone else from the CS forums 
+    for there help and support!
+

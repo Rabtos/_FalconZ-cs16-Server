@@ -1,0 +1,17 @@
+gfx/env/doom1bk.tga
+gfx/env/doom1dn.tga
+gfx/env/doom1ft.tga
+gfx/env/doom1lf.tga
+gfx/env/doom1rt.tga
+gfx/env/doom1up.tga
+halflife.wad
+maps/de_aztec2014.bsp
+models/abone_template1.mdl
+models/player/guerilla/guerilla.mdl
+models/pred_plant.mdl
+models/skeleton.mdl
+sound/ambience/rain.wav
+sound/ambience/thunder_clap.wav
+sprites/ikgrass1.spr
+sprites/ikgrass2.spr
+sprites/ikgrass3.spr

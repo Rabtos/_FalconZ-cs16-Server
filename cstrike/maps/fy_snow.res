@@ -1,0 +1,11 @@
+cs_snowbase.wad
+decals.wad
+gfx/env/snowbk.tga
+gfx/env/snowdn.tga
+gfx/env/snowft.tga
+gfx/env/snowlf.tga
+gfx/env/snowrt.tga
+gfx/env/snowup.tga
+halflife.wad
+maps/fy_snow.bsp
+models/player/guerilla/guerilla.mdl

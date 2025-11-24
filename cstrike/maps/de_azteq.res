@@ -1,0 +1,17 @@
+gfx/env/azteqbk.tga
+gfx/env/azteqdn.tga
+gfx/env/azteqft.tga
+gfx/env/azteqlf.tga
+gfx/env/azteqrt.tga
+gfx/env/aztequp.tga
+maps/de_azteq.bsp
+models/azteq/generator.mdl
+models/azteq/grate.mdl
+models/azteq/worklight.mdl
+models/pred_plant.mdl
+models/skeleton.mdl
+sound/ambience/wren1.wav
+sprites/azteq/flash.spr
+sprites/azteq/flash_big.spr
+sprites/ikgrass1.spr
+sprites/ikgrass3.spr

@@ -1,0 +1,18 @@
+de_amok by Uwe "Boblem" Lange
+boblem@web.de - www.boblem.de.vu
+
+Models by Hessi
+Textures by Valve, Boblem
+Sky by Boblem
+Sound by Sir Pepe, Valve
+Thanks to: Sklaventreiber, Talentfrei, slipi, crow,
+Laura, Runner, GeneralMotors, TMC-Deluxe, STFN,
+Daywalker, Dr_Evil, TimTaylor, Ringe, Inso
+
+Location: The castle of the omega-sect.
+
+Terrorists: Bomb one of two bombsites
+(holy omega statues).
+
+Counter-Terrorists: Prevent the Terrorists from
+bombing the statues.

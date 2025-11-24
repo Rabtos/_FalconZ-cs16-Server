@@ -1,0 +1,9 @@
+cs_747.wad
+cs_havana.wad
+de_vertigo.wad
+halflife.wad
+liquids.wad
+maps/paintball_map.bsp
+models/hostage.mdl
+models/player/guerilla/guerilla.mdl
+xeno.wad

@@ -1,0 +1,13 @@
+de_czl_arsenal - Defusion
+Custom map by Severin "Oblivion" Swinkle
+
+Counter-Terrorists: Prevent the terrorists from
+bombing the 2 chemical storage sites.
+
+Terrorists: Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical stashes. 
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)

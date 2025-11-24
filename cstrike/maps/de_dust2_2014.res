@@ -1,0 +1,16 @@
+cortes.wad
+de_arres.wad
+decals.wad
+dust2xxx.wad
+gfx/env/desert02bk.tga
+gfx/env/desert02dn.tga
+gfx/env/desert02ft.tga
+gfx/env/desert02lf.tga
+gfx/env/desert02rt.tga
+gfx/env/desert02up.tga
+maps/de_dust2_2014.bsp
+models/dust_brick.mdl
+models/dust_palmeira.mdl
+models/matodeserto.mdl
+models/player/arctic/arctic.mdl
+sound/ambience/helicopterxxx.wav

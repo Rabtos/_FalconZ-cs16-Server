@@ -1,0 +1,11 @@
+gfx/env/olybk.tga
+gfx/env/olydn.tga
+gfx/env/olyft.tga
+gfx/env/olylf.tga
+gfx/env/olyrt.tga
+gfx/env/olyup.tga
+maps/de_tenement2.bsp
+sound/ambience/tenebird.wav
+sound/ambience/ultrafall.wav
+sound/ambience/ultrawat.wav
+sprites/ultrasmoke.spr

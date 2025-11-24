@@ -1,0 +1,14 @@
+// overview description file for de_via.bsp 
+
+global 
+{ 
+	ZOOM	1.18 
+	ORIGIN	-876.00 -152.00 -385.00
+	ROTATED	1 
+} 
+
+layer 
+{ 
+	IMAGE	"overviews/de_via.bmp" 
+	HEIGHT	-185.00 
+} 

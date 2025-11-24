@@ -1,0 +1,14 @@
+// fichier de description de l'overview de de_52leon.bsp
+
+global 
+{
+	ZOOM	1.58
+	ORIGIN	851.69	 -955.69	-52.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_52leon.bmp"
+	HEIGHT	-725.00
+}

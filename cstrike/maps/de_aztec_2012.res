@@ -1,0 +1,14 @@
+de_aztec_cz.wad
+decals.wad
+dust_all.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+maps/de_aztec_2012.bsp
+models/skeleton.mdl
+podpis_by_spike.wad
+sprites/glow02.spr

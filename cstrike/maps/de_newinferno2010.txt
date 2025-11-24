@@ -1,0 +1,32 @@
+##################################################
+# NEW GENERATION 2010 | www.newgeneration2010.de #
+##################################################
+#                            #                   #
+# Map: de_newinferno2010     # ###    #  ####### #
+# Version: Final 1.1         # # ##   #  #       #
+# Author: Der Krapfenmann    # #  ##  #  #  #### #
+# -------------------------- # #   ## #  #  #  # #
+# Date: 12. Feb 2010         # #    ###  #     # #
+# Thomaskordes86@t-online.de # #     ##  ####### #
+#                            #                   #
+##################################################
+#                                                #
+# BOMB / DEFUSE                                  #
+# 36 - Spawn Points                              #
+#                                                #
+# 2 Bombspots (Tavern and Marketplace)           #
+#                                                #
+# Used textures from de_proost.                  #
+# Used sky from de_sunny.                        #
+# Used sounds from de_sunny and de_comicpirates. # 
+# Used tavern music from an famous MMO ;)        #
+#                                                #
+# Got Questions? Want a map made for HL/HL2?     #
+# Feel free to write me a E-mail.                #
+# This map was made for my clan!                 #
+#                                                #
+##################################################
+
+
+
+

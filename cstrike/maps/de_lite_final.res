@@ -1,0 +1,11 @@
+gfx/env/skytedbk.tga
+gfx/env/skyteddn.tga
+gfx/env/skytedft.tga
+gfx/env/skytedlf.tga
+gfx/env/skytedrt.tga
+gfx/env/skytedup.tga
+halflife.wad
+maps/de_lite_final.bsp
+models/player/guerilla/guerilla.mdl
+sprites/flare1.spr
+sprites/glow01.spr

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.04
+	ORIGIN	512	512	-1041
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_petra.bmp"
+	HEIGHT	-1041
+}

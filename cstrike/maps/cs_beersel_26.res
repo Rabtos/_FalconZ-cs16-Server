@@ -1,0 +1,16 @@
+gfx/env/drkgbk.tga
+gfx/env/drkgdn.tga
+gfx/env/drkgft.tga
+gfx/env/drkglf.tga
+gfx/env/drkgrt.tga
+gfx/env/drkgup.tga
+halflife.wad
+itsitaly.wad
+maps/cs_beersel_26.bsp
+models/hostage.mdl
+sound/snd_beersel/be_Cbirds.wav
+sound/snd_beersel/be_engine.wav
+sound/snd_beersel/be_flapbirds.wav
+sound/snd_beersel/be_owl.wav
+sound/snd_beersel/be_pigeon.wav
+sound/snd_beersel/be_thunder.wav

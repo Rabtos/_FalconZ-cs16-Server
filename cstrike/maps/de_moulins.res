@@ -1,0 +1,12 @@
+de_altstadt.wad
+decals.wad
+gfx/env/freakbk.tga
+gfx/env/freakdn.tga
+gfx/env/freakft.tga
+gfx/env/freaklf.tga
+gfx/env/freakrt.tga
+gfx/env/freakup.tga
+halflife.wad
+maps/de_moulins.bsp
+smallsoldiers.wad
+tol_oak.wad

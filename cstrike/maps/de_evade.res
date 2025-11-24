@@ -1,0 +1,13 @@
+cs_bdog.wad
+decals.wad
+gfx/env/duskbk.tga
+gfx/env/duskdn.tga
+gfx/env/duskft.tga
+gfx/env/dusklf.tga
+gfx/env/duskrt.tga
+gfx/env/duskup.tga
+halflife.wad
+maps/de_evade.bsp
+sound/ambience/mechwhine.wav
+sprites/3dmflaora.spr
+sprites/3dmflared.spr

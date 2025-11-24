@@ -1,0 +1,12 @@
+gfx/env/TROPbk.tga
+gfx/env/TROPdn.tga
+gfx/env/TROPft.tga
+gfx/env/TROPlf.tga
+gfx/env/TROPrt.tga
+gfx/env/TROPup.tga
+maps/de_port_royal.bsp
+models/lag_palm240_256.mdl
+models/lag_palmfam600_256.mdl
+sound/portroyale/Steeli.wav
+sound/portroyale/pa_ocean.wav
+sound/portroyale/pi_seagulls1.wav

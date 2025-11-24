@@ -1,0 +1,11 @@
+decals.wad
+gfx/env/cplbk.tga
+gfx/env/cpldn.tga
+gfx/env/cplft.tga
+gfx/env/cpllf.tga
+gfx/env/cplrt.tga
+gfx/env/cplup.tga
+halflife.wad
+maps/de_cpl-bomb2.bsp
+sound/ambience/waterfall2.wav
+sprites/wsplash3.spr

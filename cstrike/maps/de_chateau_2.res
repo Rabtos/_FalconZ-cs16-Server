@@ -1,0 +1,15 @@
+chateau.wad
+cs_bdog.wad
+cs_havana.wad
+cs_office.wad
+de_piranesi.wad
+gfx/env/city1bk.tga
+gfx/env/city1dn.tga
+gfx/env/city1ft.tga
+gfx/env/city1lf.tga
+gfx/env/city1rt.tga
+gfx/env/city1up.tga
+maps/de_chateau_2.bsp
+sound/ambience/flies.wav
+sprites/glow01.spr
+sprites/glow03.spr

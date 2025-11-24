@@ -1,0 +1,11 @@
+chateau.wad
+cs_747.wad
+de_piranesi.wad
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+maps/de_market.bsp
+models/player/guerilla/guerilla.mdl

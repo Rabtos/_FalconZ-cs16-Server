@@ -1,0 +1,15 @@
+// overview description file for 
+//de_joinet32.bsp
+
+global 
+{
+	ZOOM	1.17
+	ORIGIN	-1091.5 	-1348	240.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_joinet32.tga"
+	HEIGHT	-144
+}

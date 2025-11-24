@@ -1,0 +1,14 @@
+de_sirocco.wad
+decals.wad
+gfx/env/2desertbk.tga
+gfx/env/2desertdn.tga
+gfx/env/2desertft.tga
+gfx/env/2desertlf.tga
+gfx/env/2desertrt.tga
+gfx/env/2desertup.tga
+halflife.wad
+liquids.wad
+maps/de_sirocco2.bsp
+sound/ambience/drips.wav
+sound/ambience/waterfall3.wav
+xeno.wad

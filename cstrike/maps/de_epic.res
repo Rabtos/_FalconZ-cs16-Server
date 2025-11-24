@@ -1,0 +1,10 @@
+cs_office.wad
+de_inferno.wad
+decals.wad
+halflife.wad
+itsitaly.wad
+jnr.wad
+maps/de_epic.bsp
+mp5_wald.wad
+sound/ambience/tankidle1.wav
+wa_cathedral.wad

@@ -1,0 +1,14 @@
+// overview description file for de_skipton.bsp
+
+global 
+{
+	ZOOM	1.13
+	ORIGIN	295.59   124.16   -752
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_skipton.bmp"
+	HEIGHT	-1146
+}

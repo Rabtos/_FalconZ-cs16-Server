@@ -1,0 +1,26 @@
+DE_BURN
+
+----------------------
+Bomb/Defuse CS 1.6 map
+Based on de_inferno
+--------------------------
+Mapping : Vincent 'Ccf' Bailleul
+Texturing : Vincent 'Ccf' Bailleul
+Model from de_airstrip
+----------------------
+www.Ccf-mapping.info
+www.Team-aAa.com
+www.ESL.eu/fr/cs/
+--------------------------------------
+Counter-Terrorists: Prevent Terrorists
+from bombing targeted areas. Team
+members must defuse any bombs that
+threaten targeted areas.
+--------------------------------------
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets.
+------------------------
+[Press FIRE to continue]
+
+
+© 2010 Vincent "*aAa* Coucouoeuf Bailleul

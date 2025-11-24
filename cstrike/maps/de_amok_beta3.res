@@ -1,0 +1,12 @@
+gfx/env/scornbk.tga
+gfx/env/scorndn.tga
+gfx/env/scornft.tga
+gfx/env/scornlf.tga
+gfx/env/scornrt.tga
+gfx/env/scornup.tga
+maps/de_amok_beta3.bsp
+models/de_amok/hessi_baum02.mdl
+models/de_amok/hessi_baum05.mdl
+sound/ambience/alien_beacon.wav
+sound/de_amok/ambience.wav
+sprites/glow01.spr

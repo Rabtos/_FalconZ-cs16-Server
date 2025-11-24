@@ -1,0 +1,13 @@
+cs_cbble.wad
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+maps/de_cbble.bsp
+sound/ambience/cow.wav
+sound/ambience/crow.wav
+sound/ambience/sheep.wav
+sound/ambience/sparrow.wav

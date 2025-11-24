@@ -1,0 +1,26 @@
+ALPS - Bomb/Defuse
+ by Gimli         (www.gimli-maps.de)
+
+snowy textures/models/sky    
+ by Madness       (www.lightstorm3d.com)
+original textures            
+ by Voll da freak (www.piepmatz-studios.de)
+addtional mapping and advice 
+ by Lumpn         (www.lumpn.de)
+
+Terrorists: 
+Big companies found a huge deposit of
+natural ressources. It's your job to
+chase away the villagers who want to 
+prevent the exploitation. You can reach
+this goal by destroying one of the two
+water sources in this area.
+
+Counter-Terrorists: Prevent Terrorists
+from destroying the most important water
+sources. If they succeed, the whole 
+ecological system will be disturbed
+and the villagers will move away.
+
+
+(Press FIRE to continue)

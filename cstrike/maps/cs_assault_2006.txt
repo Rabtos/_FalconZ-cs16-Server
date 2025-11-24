@@ -1,0 +1,3 @@
+cs_assault_2006 by W0lgor - Happy fragging -
+
+Voici ma premiere map. Le but est le meme que cs_assault : les ct doivent delivrer les otages se trouvant dans le hangar.

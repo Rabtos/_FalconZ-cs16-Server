@@ -1,0 +1,17 @@
+gfx/env/xzenon_day_bk.tga
+gfx/env/xzenon_day_dn.tga
+gfx/env/xzenon_day_ft.tga
+gfx/env/xzenon_day_lf.tga
+gfx/env/xzenon_day_rt.tga
+gfx/env/xzenon_day_up.tga
+maps/de_parikia_b1.bsp
+models/de_parikia/de_parikia_v1.mdl
+sound/ambience/cat1.wav
+sound/ambience/flies.wav
+sound/de_parikia/aaaaa.wav
+sound/de_parikia/ahhuhh.wav
+sound/de_parikia/ambience.wav
+sound/de_parikia/horror.wav
+sound/de_parikia/kotelnia.wav
+sound/de_parikia/seashore.wav
+sprites/de_parikia/glow_light.spr

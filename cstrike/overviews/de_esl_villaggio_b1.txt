@@ -1,0 +1,13 @@
+// overview description file for de_esl_villaggio_b1.bmp
+global 
+{
+	ZOOM	1.62
+	ORIGIN	314.23  -366.57  392.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_esl_villaggio_b1.bmp"
+	HEIGHT	913.00
+}

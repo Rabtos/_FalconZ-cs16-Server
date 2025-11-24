@@ -1,0 +1,16 @@
+Map: Via - Bomb/Defuse
+by: NaitsirK
+Assets: Naitsirk
+	Bram Eulaers "backgroundpine"
+	Daank "cf_m_win1", ref."matt_outwooden"
+
+Theme: Life, in more ways then one.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the mansion or the light house.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the aforementioned areas.
+
+Other Notes: There are 2 bomb targets
+in the mission.

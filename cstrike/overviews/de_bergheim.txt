@@ -1,0 +1,15 @@
+// overview description file for de_bergheim.bsp
+
+global
+{
+	ZOOM	2.60
+	ORIGIN	-360.64 	550.83	168.00
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/de_bergheim.bmp"
+	HEIGHT	-263
+}
+

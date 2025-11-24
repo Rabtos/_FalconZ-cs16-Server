@@ -1,0 +1,15 @@
+cs_cbble.wad
+cs_office.wad
+decals.wad
+gfx/env/desbk.tga
+gfx/env/desdn.tga
+gfx/env/desft.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desup.tga
+halflife.wad
+itsitaly.wad
+liquids.wad
+maps/de_fixxxer.bsp
+models/skeleton.mdl
+models/uplant2.mdl

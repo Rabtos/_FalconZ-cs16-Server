@@ -1,0 +1,16 @@
+chateau.wad
+cs_havana.WAD
+gfx/env/greenbk.tga
+gfx/env/greendn.tga
+gfx/env/greenft.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenup.tga
+halflife.wad
+itsitaly.wad
+maps/de_sibyllenort_b1.bsp
+models/chick.mdl
+models/de_tuscan/tuscan_grass1a.mdl
+sound/ambience/lv_jubilee.wav
+sound/misc/killChicken.wav
+torntextures.wad

@@ -1,0 +1,11 @@
+de_jilemnice.wad
+decals.wad
+gfx/env/badlandsbk.tga
+gfx/env/badlandsdn.tga
+gfx/env/badlandsft.tga
+gfx/env/badlandslf.tga
+gfx/env/badlandsrt.tga
+gfx/env/badlandsup.tga
+halflife.wad
+maps/de_starkenbach.bsp
+sound/ambience/truck2.wav

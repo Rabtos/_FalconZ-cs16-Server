@@ -1,0 +1,21 @@
+The Mercenaries of a Gang have Hijacked a School.
+Their Demand is to Free 'JT', 
+The Leader of their Gang.
+some Members of the School Cleaning staff 
+have been held as a hostage.
+.
+A Special force unit which consists
+of highly trained officials capable of
+handling such situations has been assigned 
+from the district to rescue the hostages 
+and secure the place under the command 
+of MetalHeart.
+.
+Objectives :-
+Ts          - Eliminate the CTs
+            - Prevent the CTs from rescuing 
+	      the Hostages
+CTs         - Eliminate all the Ts
+            - Rescue the hostages
+.
+Press any key to continue 

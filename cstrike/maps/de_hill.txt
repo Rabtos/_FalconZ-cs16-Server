@@ -1,0 +1,13 @@
+Hill - Bomb/Defuse
+
+by Balun88 (EduardBezer@gmail.com)
+textures by Valve
+
+Counter-Terrorists: Prevent Terrorists
+from bombing Chemical Crate(A) and Fountain(B).
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the target. 
+

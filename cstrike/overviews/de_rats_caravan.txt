@@ -1,0 +1,14 @@
+// fichier de description de l'overview de de_rats_caravan.bsp
+
+global 
+{
+	ZOOM	2.43
+	ORIGIN	248.00 	-416.00	-62.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rats_caravan.bmp"
+	HEIGHT	-849.00
+}

@@ -1,0 +1,12 @@
+de_bretagne.wad
+decals.wad
+gfx/env/riverzcape1bk.tga
+gfx/env/riverzcape1dn.tga
+gfx/env/riverzcape1ft.tga
+gfx/env/riverzcape1lf.tga
+gfx/env/riverzcape1rt.tga
+gfx/env/riverzcape1up.tga
+halflife.wad
+maps/de_bretagne.bsp
+sound/ambience/crickets.wav
+sound/ambience/wind2.wav

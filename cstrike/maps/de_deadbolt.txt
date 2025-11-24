@@ -1,0 +1,33 @@
+Deadbolt - Defusion
+by Eric "dR. dirtY" Levins aka noobnumbertwo
+Copyrighted © 2004-2009 XPL xtreme professional league
+Credit to Textures
+Valve
+Brute
+Cashed
+Some custom by me
+Model to brute.
+
+Counter-Terrorists: Prevent Terrorist from bombing 
+two storage platforms.
+
+Terrorists: Destroy storage platforms to delay
+company progression.
+
+Other Notes: There are 2 targets 
+in this mission.
+
+
+Credits-The whole Xtina Vent for helping and participating with my many versions.
+Extra thanks goes out to
+Des,Supra,rcL for countless ideas for the map,eventually i did my own thing.
+but all the ideas helped me grow more as a map designer.
+Thanks to Frag Dominant Staff for support and testing the map.
+Thanks goes out to hello for providing me with webspace for fastdownload
+Thanks also goes out to Des for webspace for my dedicated server after my server died.
+credit to Karatekafer for the skybox.
+Also to anyone else that was forgotten.
+Thank you.
+
+
+(Press FIRE to continue)

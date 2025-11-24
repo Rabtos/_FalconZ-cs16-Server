@@ -1,0 +1,14 @@
+chateau.wad
+cs_bdog.wad
+cs_office.wad
+de_piranesi.wad
+de_vertigo.wad
+gfx/env/officebk.tga
+gfx/env/officedn.tga
+gfx/env/officeft.tga
+gfx/env/officelf.tga
+gfx/env/officert.tga
+gfx/env/officeup.tga
+halflife.wad
+maps/de_stalingrad.bsp
+torntextures.wad

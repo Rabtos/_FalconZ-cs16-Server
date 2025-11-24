@@ -1,0 +1,16 @@
+cs_747.wad
+cs_assault.wad
+de_aztec.wad
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+halflife.wad
+maps/de_overwork.bsp
+sound/was/boomer.wav
+sound/was/industrial2.wav
+sound/was/industrial4.wav
+sound/was/wind2.wav
+waste1234c.wad

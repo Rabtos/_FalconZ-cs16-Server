@@ -1,0 +1,16 @@
+/* Overview description file for de_lost.bsp  */
+/* By: Uros Milosevic, ->UrOS<- */
+/* Contact me: urosh93@hotmail.com */
+
+global 
+{
+	ZOOM	1.40
+	ORIGIN	64.00 	112.00	-1029.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_lost.bmp"
+	HEIGHT	-1029.00
+}

@@ -1,0 +1,10 @@
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+maps/de_zook.bsp
+sprites/glow01.spr
+sprites/glow02.spr
+zook.wad

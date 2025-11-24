@@ -1,0 +1,25 @@
+Factory (Zavod) - Bomb / Defuse
+Map Version: Final 2.0
+create map by -SpawN- (Polikarpov Anton Aleksandrovich)
+Home page maps:
+http://www.spawn-zone.by.ru
+http://cs-mapper2006.narod.ru
+
+E-mail:
+Cs-mapper2006@narod.ru
+
+==Game Play==
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes.
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission.
+
+Made in Russia.
+Finish Create by 2006 year

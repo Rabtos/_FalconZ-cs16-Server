@@ -1,0 +1,14 @@
+// overview description file for de_aisle_esl.bsp
+
+global 
+{
+	ZOOM	1.76
+	ORIGIN	330.81 	-1212.88  -353
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aisle_esl.bmp"
+	HEIGHT	-353
+}

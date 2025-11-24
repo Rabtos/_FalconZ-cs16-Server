@@ -1,0 +1,16 @@
+cs_assault.wad
+cs_office.wad
+cs_office_packed.wad
+de_vegas_cz_packed.wad
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+halflife.wad
+maps/de_ciel_b1.bsp
+models/player/guerilla/guerilla.mdl
+models/props/fan_ceiling.mdl
+sound/ambience/lv_neon.wav
+sprites/yelflare1.spr

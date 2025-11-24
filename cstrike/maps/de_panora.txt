@@ -1,0 +1,20 @@
+|>> de_panora <<|
+
+Idee: Smash
+Umsetzung: lister
+
+Wir wünschen euch viel spass in unserem kleinen griechichen Dorf.
+Als Terror ist es eure Aufgabe den Marktplatz (A) oder das Restaurant (B)
+zu sprengen! Die Karte hat 22 Spawnpoints und ist auf relativ schnelles
+Spielen ausgelegt, da man ziemlich schnell Feindkontakt hat, aber sich
+auch gut in Deckung bringen kann.
+
+Wir wünschen euch viele Schöne Stunden auf unserer kleinen feinen Map...
+
+MfG Smash & lister
+
+PS: Vielen Dank an die Community von www.lobosc.de die mit mir etliche
+Beta-Versionen durchgetestet haben und Bug für Bug gefunden haben.
+
+Danke auch an Bastor von www.tower-cs.de www.towerliga.de
+der mir reichlich Tipps zum verschönern gegeben hat!

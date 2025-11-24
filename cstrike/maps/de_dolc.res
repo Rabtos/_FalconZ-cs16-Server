@@ -1,0 +1,13 @@
+de_dolc.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+halflife.wad
+maps/de_dolc.bsp
+models/de_dolc/de_dolcgras.mdl
+models/de_dolc/de_dolctree.mdl
+models/de_dolc/du_car1.mdl
+torntextures.wad

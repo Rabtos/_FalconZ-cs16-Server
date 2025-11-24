@@ -1,0 +1,16 @@
+chateau.wad
+decals.wad
+gfx/env/morningdewbk.tga
+gfx/env/morningdewdn.tga
+gfx/env/morningdewft.tga
+gfx/env/morningdewlf.tga
+gfx/env/morningdewrt.tga
+gfx/env/morningdewup.tga
+halflife.wad
+itsitaly.wad
+maps/de_eldorado.bsp
+models/cuca/cactus.mdl
+models/cuca/desk.mdl
+models/cuca/pastis.mdl
+models/cuca/watertower2.mdl
+sound/cuca/eldorado.wav

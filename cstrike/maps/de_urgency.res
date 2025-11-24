@@ -1,0 +1,11 @@
+gfx/env/TrainYardbk.tga
+gfx/env/TrainYarddn.tga
+gfx/env/TrainYardft.tga
+gfx/env/TrainYardlf.tga
+gfx/env/TrainYardrt.tga
+gfx/env/TrainYardup.tga
+maps/de_urgency.bsp
+models/player/guerilla/guerilla.mdl
+models/urgency/hbm_palmtree.mdl
+models/urgency/lamppost.mdl
+sound/ambience/biggun2.wav

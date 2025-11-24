@@ -1,0 +1,13 @@
+Gelu - Bomb/Defuse
+by fr0st (fr0starchon@mail.ru)
+
+Counter-Terrorists: Prevent the Terrorists
+from bombing two areas.
+Team members must defuse any bombs that
+threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets.
+
+Other Notes: There are 2 bomb sites
+in the mission.

@@ -1,0 +1,14 @@
+De_Gas26 - Bomb/Defuse
+Map: beer hunter
+Layout: [xev]The Carpenter
+
+Terrorists :  blow up the gas processing
+station or eliminate the opposition.
+
+Counter Terrorists : prevent terrorists
+from blowing up the facility.
+
+Notes : there are two bomb zones and one
+hidden crate of beer.
+
+(Press FIRE to continue)

@@ -1,0 +1,14 @@
+//overview description file for de_inferno_winter.bsp
+
+global
+{
+	ZOOM	1.16 
+	ORIGIN	576	1184	480
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/de_inferno_winter.tga"
+	HEIGHT	-193
+} 

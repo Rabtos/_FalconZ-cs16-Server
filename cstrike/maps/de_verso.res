@@ -1,0 +1,13 @@
+de_contra.wad
+decals.wad
+fenley_park.wad
+gfx/env/trainyardbk.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardup.tga
+liquids.wad
+maps/de_verso.bsp
+sd_work.wad
+sprites/glow01.spr

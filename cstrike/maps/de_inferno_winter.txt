@@ -1,0 +1,17 @@
+de_inferno_winter - Bomb-Defuse
+(Final version from 25.10.08)
+
+by tonline_kms65 (tolya_koms65@mail.ru)
+Textures of the different authors
+
+Village Inferno in winter.
+Terrorist are attempting to blow up two critical
+gas pipeline through part of a small village.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the pipelines.
+
+Terrorists: Destroy the two gas pipelines.
+
+Other Notes: There are 2 bomb sites in this 
+mission, secrets, additional passages.

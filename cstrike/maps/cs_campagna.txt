@@ -1,0 +1,20 @@
+Campagna - Hostage Rescue 
+Mapping by:
+Gimli  (GimliW@gmx.net)
+Textures/Graphics by:
+Gimli (www.gimli-maps.de.vu)
+[00]Madness (www.clan00.de)
+Valve software
+X-Tender (xtender2k@gmx.de)
+The Hl-Rally Team (www.hlrally.net)
+Models by:
+TheDoenerKing (www.thedoenerking.de)
+
+Counter-Terrorists: Navigate your way
+around the italian villa and get those
+Hostages from the foreign Terrorists.
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the 4 Hostages.
+
+(Press FIRE to continue)
