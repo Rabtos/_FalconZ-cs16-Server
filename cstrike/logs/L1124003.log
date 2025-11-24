@@ -1,0 +1,46 @@
+L 11/24/2025 - 11:23:52: Log file started (file "logs\L1124003.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 11:23:52: Server cvar "sv_aim" = "0"
+L 11/24/2025 - 11:23:57: "Злюка<1><STEAM_0:1:4114688><>" entered the game
+L 11/24/2025 - 11:23:57: "Злюка<1><STEAM_0:1:4114688><>" joined team "TERRORIST"
+L 11/24/2025 - 11:23:57: "Злюка<1><STEAM_0:1:4114688><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 11:23:57: "Evropa7183<2><STEAM_0:1:5182720><>" entered the game
+L 11/24/2025 - 11:23:57: "Evropa7183<2><STEAM_0:1:5182720><>" joined team "CT"
+L 11/24/2025 - 11:23:57: World triggered "Game_Commencing"
+L 11/24/2025 - 11:23:57: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 11:23:57: World triggered "Round_End"
+L 11/24/2025 - 11:24:00: "Злюка<1><STEAM_0:1:4114688><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 11:24:00: World triggered "Round_Start"
+L 11/24/2025 - 11:24:20: "Evropa7183<2><STEAM_0:1:5182720><CT>" killed "Злюка<1><STEAM_0:1:4114688><TERRORIST>" with "usp"
+L 11/24/2025 - 11:24:20: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2025 - 11:24:20: World triggered "Round_End"
+L 11/24/2025 - 11:24:23: "Злюка<1><STEAM_0:1:4114688><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 11:24:23: World triggered "Round_Start"
+L 11/24/2025 - 11:24:34: "Falcon<3><STEAM_0:1:97036452><>" connected, address "84.159.156.244:27005"
+L 11/24/2025 - 11:24:35: "Falcon<3><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/24/2025 - 11:24:37: "Falcon<4><STEAM_0:1:97036452><>" connected, address "84.159.156.244:27005"
+L 11/24/2025 - 11:24:37: "Falcon<4><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/24/2025 - 11:24:41: "Falcon<4><STEAM_0:1:97036452><>" entered the game
+L 11/24/2025 - 11:24:43: "Falcon<4><STEAM_0:1:97036452><>" joined team "TERRORIST"
+L 11/24/2025 - 11:24:43: Kick: "Злюка<1><STEAM_0:0:0><>" was kicked by "Console"
+L 11/24/2025 - 11:24:43: "Злюка<1><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 11:24:43: "Злюка<1><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 11:24:56: "Evropa7183<2><BOT><CT>" disconnected
+L 11/24/2025 - 11:24:56: "Falcon<4><STEAM_0:1:97036452><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "9") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2025 - 11:24:56: "Falcon<4><STEAM_0:1:97036452><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2025 - 11:24:56: "Falcon<4><STEAM_0:1:97036452><TERRORIST>" triggered "time" (time "0:14")
+L 11/24/2025 - 11:24:56: "Falcon<4><STEAM_0:1:97036452><TERRORIST>" triggered "latency" (ping "0")
+L 11/24/2025 - 11:24:56: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 11:24:56: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 11:24:56: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 11:24:56: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 11:24:56: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 11:24:56: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 11:24:56: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 11:24:56: [META] dll: Updating plugins...
+L 11/24/2025 - 11:24:56: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 11:24:56: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 11:24:56: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 11:24:56: "Falcon<4><STEAM_0:1:97036452><TERRORIST>" disconnected
+L 11/24/2025 - 11:24:56: World triggered "Round_Draw" (CT "1") (T "0")
+L 11/24/2025 - 11:24:56: World triggered "Round_End"
+L 11/24/2025 - 11:24:56: Log file closed

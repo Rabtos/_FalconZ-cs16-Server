@@ -1,0 +1,155 @@
+L 11/24/2025 - 12:17:37: Log file started (file "logs\L1124013.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 12:17:37: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 12:17:37: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 12:17:37: Server cvar "sv_maxspeed" = "900"
+L 11/24/2025 - 12:17:37: Server cvar "amx_nextmap" = "de_dust2_2006"
+L 11/24/2025 - 12:17:37: Started map "de_dust2" (CRC "1159425449")
+L 11/24/2025 - 12:17:38: World triggered "Round_Start"
+L 11/24/2025 - 12:17:41: "BoOm<17><STEAM_0:1:2390016><>" entered the game
+L 11/24/2025 - 12:17:41: "BoOm<17><STEAM_0:1:2390016><>" joined team "CT"
+L 11/24/2025 - 12:17:41: "4y6aka<18><STEAM_0:1:12324352><>" entered the game
+L 11/24/2025 - 12:17:41: "4y6aka<18><STEAM_0:1:12324352><>" joined team "TERRORIST"
+L 11/24/2025 - 12:17:41: World triggered "Game_Commencing"
+L 11/24/2025 - 12:17:41: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 12:17:41: World triggered "Round_End"
+L 11/24/2025 - 12:17:44: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:17:44: World triggered "Round_Start"
+L 11/24/2025 - 12:18:27: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "deagle"
+L 11/24/2025 - 12:18:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/24/2025 - 12:18:27: World triggered "Round_End"
+L 11/24/2025 - 12:18:30: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:18:30: World triggered "Round_Start"
+L 11/24/2025 - 12:18:58: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "sg552"
+L 11/24/2025 - 12:18:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/24/2025 - 12:18:58: World triggered "Round_End"
+L 11/24/2025 - 12:19:01: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:19:01: World triggered "Round_Start"
+L 11/24/2025 - 12:19:28: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:19:28: "BoOm<17><STEAM_0:1:2390016><CT>" say "Come on 4y6aka,"
+L 11/24/2025 - 12:19:45: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "sg552"
+L 11/24/2025 - 12:19:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 11/24/2025 - 12:19:45: World triggered "Round_End"
+L 11/24/2025 - 12:19:48: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:19:48: World triggered "Round_Start"
+L 11/24/2025 - 12:20:08: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "sg552"
+L 11/24/2025 - 12:20:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 11/24/2025 - 12:20:08: World triggered "Round_End"
+L 11/24/2025 - 12:20:11: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:20:12: World triggered "Round_Start"
+L 11/24/2025 - 12:20:34: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "sg552"
+L 11/24/2025 - 12:20:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 11/24/2025 - 12:20:34: World triggered "Round_End"
+L 11/24/2025 - 12:20:34: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" say "you bot BoOm"
+L 11/24/2025 - 12:20:37: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:20:37: World triggered "Round_Start"
+L 11/24/2025 - 12:21:00: "BoOm<17><STEAM_0:1:2390016><CT>" killed "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" with "mp5navy"
+L 11/24/2025 - 12:21:00: Team "CT" triggered "CTs_Win" (CT "1") (T "5")
+L 11/24/2025 - 12:21:00: World triggered "Round_End"
+L 11/24/2025 - 12:21:03: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:21:03: World triggered "Round_Start"
+L 11/24/2025 - 12:21:29: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:21:29: "BoOm<17><STEAM_0:1:2390016><CT>" say "come on 4y6aka,"
+L 11/24/2025 - 12:21:45: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "ak47"
+L 11/24/2025 - 12:21:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 11/24/2025 - 12:21:45: World triggered "Round_End"
+L 11/24/2025 - 12:21:45: "BoOm<17><STEAM_0:1:2390016><CT>" say "4y6aka ggogogogooo!!" (dead)
+L 11/24/2025 - 12:21:48: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:21:48: World triggered "Round_Start"
+L 11/24/2025 - 12:22:08: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 12:22:09: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Got_The_Bomb"
+L 11/24/2025 - 12:22:30: "4y6aka<18><STEAM_0:1:12324352><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:22:30: "BoOm<17><STEAM_0:1:2390016><CT>" say "Come on 4y6aka,"
+L 11/24/2025 - 12:22:31: Kick: "4y6aka<18><STEAM_0:0:7><>" was kicked by "Console"
+L 11/24/2025 - 12:22:31: "4y6aka<18><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 12:22:31: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><>" entered the game
+L 11/24/2025 - 12:22:31: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><>" joined team "TERRORIST"
+L 11/24/2025 - 12:22:31: World triggered "Game_Commencing"
+L 11/24/2025 - 12:22:31: World triggered "Game_Commencing" (CT "1") (T "6")
+L 11/24/2025 - 12:22:31: World triggered "Round_End"
+L 11/24/2025 - 12:22:34: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:22:34: World triggered "Round_Start"
+L 11/24/2025 - 12:23:06: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:23:06: "BoOm<17><STEAM_0:1:2390016><CT>" say "Come on DarkDruid,"
+L 11/24/2025 - 12:23:51: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "1")
+L 11/24/2025 - 12:23:51: World triggered "Round_End"
+L 11/24/2025 - 12:23:54: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:23:54: World triggered "Round_Start"
+L 11/24/2025 - 12:24:28: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:24:28: "BoOm<17><STEAM_0:1:2390016><CT>" say "Come on DarkDruid,"
+L 11/24/2025 - 12:24:44: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "ak47"
+L 11/24/2025 - 12:24:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/24/2025 - 12:24:44: World triggered "Round_End"
+L 11/24/2025 - 12:24:47: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:24:47: World triggered "Round_Start"
+L 11/24/2025 - 12:25:19: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:25:19: "BoOm<17><STEAM_0:1:2390016><CT>" say "Comeo n [SMUT]DarkDruid,"
+L 11/24/2025 - 12:25:37: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "ak47"
+L 11/24/2025 - 12:25:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 11/24/2025 - 12:25:37: World triggered "Round_End"
+L 11/24/2025 - 12:25:40: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:25:40: World triggered "Round_Start"
+L 11/24/2025 - 12:26:03: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "ak47"
+L 11/24/2025 - 12:26:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 11/24/2025 - 12:26:03: World triggered "Round_End"
+L 11/24/2025 - 12:26:06: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:26:06: World triggered "Round_Start"
+L 11/24/2025 - 12:27:02: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" killed "BoOm<17><STEAM_0:1:2390016><CT>" with "ak47"
+L 11/24/2025 - 12:27:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 11/24/2025 - 12:27:02: World triggered "Round_End"
+L 11/24/2025 - 12:27:05: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:27:05: World triggered "Round_Start"
+L 11/24/2025 - 12:27:23: "BoOm<17><STEAM_0:1:2390016><CT>" killed "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" with "scout"
+L 11/24/2025 - 12:27:23: Team "CT" triggered "CTs_Win" (CT "1") (T "5")
+L 11/24/2025 - 12:27:23: World triggered "Round_End"
+L 11/24/2025 - 12:27:23: "BoOm<17><STEAM_0:1:2390016><CT>" say "DrkDruid, stupidd"
+L 11/24/2025 - 12:27:26: "[SMUT]DarkDruid<19><STEAM_0:1:8960512><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:27:26: World triggered "Round_Start"
+L 11/24/2025 - 12:27:48: Kick: "[SMUT]DarkDruid<19><STEAM_0:1:7><>" was kicked by "Console"
+L 11/24/2025 - 12:27:48: "[SMUT]DarkDruid<19><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 12:27:48: "[SMUT]DarkDruid<19><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 12:27:48: "l l l A M A<20><STEAM_0:1:14498816><>" entered the game
+L 11/24/2025 - 12:27:48: "l l l A M A<20><STEAM_0:1:14498816><>" joined team "TERRORIST"
+L 11/24/2025 - 12:27:48: World triggered "Game_Commencing"
+L 11/24/2025 - 12:27:48: World triggered "Game_Commencing" (CT "1") (T "5")
+L 11/24/2025 - 12:27:48: World triggered "Round_End"
+L 11/24/2025 - 12:27:51: "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:27:51: World triggered "Round_Start"
+L 11/24/2025 - 12:28:25: "BoOm<17><STEAM_0:1:2390016><CT>" killed "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" with "usp"
+L 11/24/2025 - 12:28:25: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2025 - 12:28:25: World triggered "Round_End"
+L 11/24/2025 - 12:28:28: "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:28:28: World triggered "Round_Start"
+L 11/24/2025 - 12:28:59: "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 12:28:59: "BoOm<17><STEAM_0:1:2390016><CT>" say "Come on l l l A M A,"
+L 11/24/2025 - 12:29:19: "BoOm<17><STEAM_0:1:2390016><CT>" killed "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" with "m4a1"
+L 11/24/2025 - 12:29:25: "BoOm<17><STEAM_0:1:2390016><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 11/24/2025 - 12:29:30: "BoOm<17><STEAM_0:1:2390016><CT>" triggered "Defused_The_Bomb"
+L 11/24/2025 - 12:29:30: Team "CT" triggered "Bomb_Defused" (CT "2") (T "0")
+L 11/24/2025 - 12:29:30: World triggered "Round_End"
+L 11/24/2025 - 12:29:33: "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:29:33: World triggered "Round_Start"
+L 11/24/2025 - 12:30:16: "BoOm<17><STEAM_0:1:2390016><CT>" killed "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" with "m4a1"
+L 11/24/2025 - 12:30:16: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 11/24/2025 - 12:30:16: World triggered "Round_End"
+L 11/24/2025 - 12:30:19: "l l l A M A<20><STEAM_0:1:14498816><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 12:30:19: World triggered "Round_Start"
+L 11/24/2025 - 12:30:31: Server cvar "amx_nextmap" = "de_dust2"
+L 11/24/2025 - 12:30:31: Server cvar "mp_chattime" = "11.000000"
+L 11/24/2025 - 12:30:41: Server cvar "mp_chattime" = "10.000000"
+L 11/24/2025 - 12:30:41: "BoOm<17><BOT><CT>" disconnected
+L 11/24/2025 - 12:30:41: "l l l A M A<20><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 12:30:41: "l l l A M A<20><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 12:30:41: World triggered "Round_Draw" (CT "3") (T "0")
+L 11/24/2025 - 12:30:41: World triggered "Round_End"
+L 11/24/2025 - 12:30:41: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 12:30:41: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 12:30:41: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 12:30:41: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 12:30:41: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 12:30:41: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 12:30:41: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 12:30:41: [META] dll: Updating plugins...
+L 11/24/2025 - 12:30:41: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 12:30:41: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 12:30:42: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 12:30:42: Log file closed

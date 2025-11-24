@@ -1,0 +1,38 @@
+L 11/24/2025 - 11:40:23: Log file started (file "logs\L1124007.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 11:40:23: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 11:40:23: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 11:40:23: Server cvar "amx_nextmap" = "de_dust2_2006"
+L 11/24/2025 - 11:40:23: Started map "de_dust2" (CRC "1159425449")
+L 11/24/2025 - 11:40:24: World triggered "Round_Start"
+L 11/24/2025 - 11:40:27: "BoOm<9><STEAM_0:1:2390016><>" entered the game
+L 11/24/2025 - 11:40:27: "BoOm<9><STEAM_0:1:2390016><>" joined team "TERRORIST"
+L 11/24/2025 - 11:40:27: "BoOm<9><STEAM_0:1:2390016><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 11:40:27: "unfineano<10><STEAM_0:1:5208064><>" entered the game
+L 11/24/2025 - 11:40:27: "unfineano<10><STEAM_0:1:5208064><>" joined team "CT"
+L 11/24/2025 - 11:40:27: World triggered "Game_Commencing"
+L 11/24/2025 - 11:40:27: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 11:40:27: World triggered "Round_End"
+L 11/24/2025 - 11:40:30: "BoOm<9><STEAM_0:1:2390016><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 11:40:30: World triggered "Round_Start"
+L 11/24/2025 - 11:41:33: "BoOm<9><STEAM_0:1:2390016><TERRORIST>" killed "unfineano<10><STEAM_0:1:5208064><CT>" with "usp"
+L 11/24/2025 - 11:41:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/24/2025 - 11:41:33: World triggered "Round_End"
+L 11/24/2025 - 11:41:36: "BoOm<9><STEAM_0:1:2390016><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 11:41:36: World triggered "Round_Start"
+L 11/24/2025 - 11:41:51: "BoOm<9><STEAM_0:1:2390016><TERRORIST>" killed "unfineano<10><STEAM_0:1:5208064><CT>" with "ak47"
+L 11/24/2025 - 11:45:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/24/2025 - 11:45:27: World triggered "Round_End"
+L 11/24/2025 - 11:45:28: "BoOm<9><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 11:45:28: "unfineano<10><BOT><CT>" disconnected
+L 11/24/2025 - 11:45:28: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 11:45:28: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 11:45:28: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 11:45:28: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 11:45:28: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 11:45:28: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 11:45:28: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 11:45:28: [META] dll: Updating plugins...
+L 11/24/2025 - 11:45:28: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 11:45:28: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 11:45:28: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 11:45:28: Log file closed

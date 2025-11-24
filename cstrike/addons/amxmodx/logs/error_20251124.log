@@ -1,0 +1,75 @@
+L 11/24/2025 - 11:23:51: Start of error session.
+L 11/24/2025 - 11:23:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 11:23:51: [AMXX] Plugin ("map_manager_admin_menu.amxx") is setting itself as failed.
+L 11/24/2025 - 11:23:51: [AMXX] Plugin says: Failed to open dictionary file 'mapmanager.txt', check its availability
+L 11/24/2025 - 11:23:51: [AMXX] Run time error 1 (plugin "map_manager_admin_menu.amxx") - forced exit
+L 11/24/2025 - 11:24:58: Start of error session.
+L 11/24/2025 - 11:24:58: Info (map "de_calendar") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 11:24:58: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:24:58: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:24:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:26:45: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:26:45: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:26:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:27:26: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:27:26: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:27:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:28:06: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:28:06: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:28:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:30:09: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:30:09: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:32:12: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:32:12: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:32:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:40:24: Start of error session.
+L 11/24/2025 - 11:40:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 11:40:24: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:40:24: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:40:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:45:30: Start of error session.
+L 11/24/2025 - 11:45:30: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 11:45:30: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:45:30: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:45:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 11:56:32: Start of error session.
+L 11/24/2025 - 11:56:32: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 11:56:32: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 11:56:32: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 11:56:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 12:17:38: Start of error session.
+L 11/24/2025 - 12:17:38: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 12:17:38: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 12:17:38: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 12:17:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 12:30:43: Start of error session.
+L 11/24/2025 - 12:30:43: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 12:30:43: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 12:30:43: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 12:30:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 12:46:01: Start of error session.
+L 11/24/2025 - 12:46:01: Info (map "de_dust2_2006") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 12:46:01: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 12:46:01: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 12:46:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 12:59:40: Start of error session.
+L 11/24/2025 - 12:59:40: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 12:59:40: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 12:59:40: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 12:59:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 13:20:21: Start of error session.
+L 11/24/2025 - 13:20:21: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 13:20:21: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 13:20:21: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 13:20:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 13:31:54: Start of error session.
+L 11/24/2025 - 13:31:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 13:31:54: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 13:31:54: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 13:31:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/24/2025 - 13:44:41: Start of error session.
+L 11/24/2025 - 13:44:41: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20251124.log")
+L 11/24/2025 - 13:44:41: [ENGINE] Invalid player 1 (not in-game)
+L 11/24/2025 - 13:44:41: [AMXX] Run time error 10 (plugin "weapon_spawns.amxx") (native "trace_line") - debug not enabled!
+L 11/24/2025 - 13:44:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
