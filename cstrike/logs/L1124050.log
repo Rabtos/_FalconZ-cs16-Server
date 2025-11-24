@@ -172,4 +172,272 @@ L 11/24/2025 - 18:40:57: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "moin"
 L 11/24/2025 - 18:41:01: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
 L 11/24/2025 - 18:41:04: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
 L 11/24/2025 - 18:41:05: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" with "m4a1"
-L 11/24/2025 - 18:41:07:
+L 11/24/2025 - 18:41:07: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:41:08: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:41:10: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:11: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Snip<10><STEAM_0:1:11894528><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:14: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "noob shinobi" (dead)
+L 11/24/2025 - 18:41:23: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:23: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 11/24/2025 - 18:41:23: World triggered "Round_End"
+L 11/24/2025 - 18:41:26: World triggered "Round_Start"
+L 11/24/2025 - 18:41:29: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:41:32: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:41:32: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:33: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:36: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Snip<10><STEAM_0:1:11894528><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:37: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:41:37: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" say "MarvinTa you bot"
+L 11/24/2025 - 18:41:40: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" say "Shinobi bot" (dead)
+L 11/24/2025 - 18:41:40: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:41:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 11/24/2025 - 18:41:40: World triggered "Round_End"
+L 11/24/2025 - 18:41:43: World triggered "Round_Start"
+L 11/24/2025 - 18:41:48: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:41:51: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:41:52: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:41:53: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:41:54: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:41:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 11/24/2025 - 18:41:54: World triggered "Round_End"
+L 11/24/2025 - 18:41:57: World triggered "Round_Start"
+L 11/24/2025 - 18:42:02: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:42:02: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:42:02: "pyr0`<11><STEAM_0:1:3635200><CT>" say "hahahaha"
+L 11/24/2025 - 18:42:03: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:42:03: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" say "pyr0` you bot"
+L 11/24/2025 - 18:42:04: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:42:11: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" say "noob Shinobi" (dead)
+L 11/24/2025 - 18:42:11: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:42:15: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:42:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 11/24/2025 - 18:42:15: World triggered "Round_End"
+L 11/24/2025 - 18:42:18: "??? Marsel???<12><STEAM_0:1:2925056><CT>" say "SHIT" (dead)
+L 11/24/2025 - 18:42:18: World triggered "Round_Start"
+L 11/24/2025 - 18:42:23: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:42:24: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:42:25: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:42:26: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:42:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 11/24/2025 - 18:42:26: World triggered "Round_End"
+L 11/24/2025 - 18:42:29: World triggered "Round_Start"
+L 11/24/2025 - 18:42:36: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:42:38: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:42:38: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:42:39: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:42:39: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" say "MarvinTa you bot"
+L 11/24/2025 - 18:42:39: "MarvinTa<9><STEAM_0:1:10619392><CT>" say "idiot" (dead)
+L 11/24/2025 - 18:42:40: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:42:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "7")
+L 11/24/2025 - 18:42:40: World triggered "Round_End"
+L 11/24/2025 - 18:42:43: World triggered "Round_Start"
+L 11/24/2025 - 18:42:47: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Snip<10><STEAM_0:1:11894528><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:42:51: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:42:52: "bobjones<14><STEAM_0:1:8321280><CT>" say "MarvinTa gogogogo" (dead)
+L 11/24/2025 - 18:42:52: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:42:53: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:43:04: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:43:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "8")
+L 11/24/2025 - 18:43:04: World triggered "Round_End"
+L 11/24/2025 - 18:43:07: World triggered "Round_Start"
+L 11/24/2025 - 18:43:12: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:43:12: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:43:13: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:43:14: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:43:14: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "hahahaha"
+L 11/24/2025 - 18:43:18: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:43:24: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:43:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "9")
+L 11/24/2025 - 18:43:24: World triggered "Round_End"
+L 11/24/2025 - 18:43:27: "??? Marsel???<12><STEAM_0:1:2925056><CT>" say "Snip noob" (dead)
+L 11/24/2025 - 18:43:27: World triggered "Round_Start"
+L 11/24/2025 - 18:43:31: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:43:33: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:43:37: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:43:42: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:43:42: "bobjones<14><STEAM_0:1:8321280><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:43:43: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" with "ak47"
+L 11/24/2025 - 18:43:43: "pyr0`<11><STEAM_0:1:3635200><CT>" say "Boofarkalielo, stupid"
+L 11/24/2025 - 18:43:44: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:43:44: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "pyr0` you bot"
+L 11/24/2025 - 18:43:45: "bobjones<14><STEAM_0:1:8321280><CT>" killed "Snip<10><STEAM_0:1:11894528><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:43:45: Team "CT" triggered "CTs_Win" (CT "2") (T "9")
+L 11/24/2025 - 18:43:45: World triggered "Round_End"
+L 11/24/2025 - 18:43:48: World triggered "Round_Start"
+L 11/24/2025 - 18:43:55: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:43:56: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:43:58: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:44:00: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:44:00: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" say "pyr0` you bot"
+L 11/24/2025 - 18:44:03: "??? Marsel???<12><STEAM_0:1:2925056><CT>" say "01:45 vs MarvinTa" (dead)
+L 11/24/2025 - 18:44:09: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:44:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "10")
+L 11/24/2025 - 18:44:09: World triggered "Round_End"
+L 11/24/2025 - 18:44:12: World triggered "Round_Start"
+L 11/24/2025 - 18:44:19: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:44:19: ".Ｃʏʙᴇʀ’Ｆｏχ<17><STEAM_0:1:97036452><>" connected, address "84.159.156.244:27005"
+L 11/24/2025 - 18:44:19: ".Ｃʏʙᴇʀ’Ｆｏχ<17><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/24/2025 - 18:44:19: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:44:22: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Snip<10><STEAM_0:1:11894528><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:44:23: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:44:23: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:44:26: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:44:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "11")
+L 11/24/2025 - 18:44:26: World triggered "Round_End"
+L 11/24/2025 - 18:44:28: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "HY Слесарь YOU DAMN CHEATER!!" (dead)
+L 11/24/2025 - 18:44:29: World triggered "Round_Start"
+L 11/24/2025 - 18:44:35: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:44:37: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:44:37: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:44:37: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" say "you bot ??? Marsel???"
+L 11/24/2025 - 18:44:41: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:44:44: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" say "i hate aim_1on1map" (dead)
+L 11/24/2025 - 18:44:44: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:44:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "12")
+L 11/24/2025 - 18:44:44: World triggered "Round_End"
+L 11/24/2025 - 18:44:48: World triggered "Round_Start"
+L 11/24/2025 - 18:44:54: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:44:55: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:44:55: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:44:55: "pyr0`<11><STEAM_0:1:3635200><CT>" say "01:52 vs MarvinTa" (dead)
+L 11/24/2025 - 18:44:58: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:44:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "13")
+L 11/24/2025 - 18:44:58: World triggered "Round_End"
+L 11/24/2025 - 18:45:01: World triggered "Round_Start"
+L 11/24/2025 - 18:45:10: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:45:11: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:45:11: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:45:12: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:45:20: "bobjones<14><STEAM_0:1:8321280><CT>" say "marvinta ggogogogooo!!" (dead)
+L 11/24/2025 - 18:45:24: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:45:24: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:45:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "14")
+L 11/24/2025 - 18:45:24: World triggered "Round_End"
+L 11/24/2025 - 18:45:26: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" say "gj" (dead)
+L 11/24/2025 - 18:45:27: World triggered "Round_Start"
+L 11/24/2025 - 18:45:33: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:45:34: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:45:35: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:45:35: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:45:35: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:45:39: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:45:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "15")
+L 11/24/2025 - 18:45:39: World triggered "Round_End"
+L 11/24/2025 - 18:45:40: "pyr0`<11><STEAM_0:1:3635200><CT>" say "snip gogogogo" (dead)
+L 11/24/2025 - 18:45:42: World triggered "Round_Start"
+L 11/24/2025 - 18:45:47: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:45:49: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:45:50: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:45:51: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:45:52: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:45:52: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "pyr0` you bot"
+L 11/24/2025 - 18:45:58: "bobjones<14><STEAM_0:1:8321280><CT>" say "MarvinTa bot" (dead)
+L 11/24/2025 - 18:46:00: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:46:04: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:46:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "16")
+L 11/24/2025 - 18:46:04: World triggered "Round_End"
+L 11/24/2025 - 18:46:07: World triggered "Round_Start"
+L 11/24/2025 - 18:46:14: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:46:14: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:46:14: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:46:15: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:46:17: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" say "01:50 left" (dead)
+L 11/24/2025 - 18:46:25: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:46:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "17")
+L 11/24/2025 - 18:46:25: World triggered "Round_End"
+L 11/24/2025 - 18:46:25: "Snip<10><STEAM_0:1:11894528><TERRORIST>" say "MarvinTa you bot"
+L 11/24/2025 - 18:46:28: World triggered "Round_Start"
+L 11/24/2025 - 18:46:33: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:46:40: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:46:40: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" say "hahahaha"
+L 11/24/2025 - 18:46:41: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:46:41: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:46:44: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:46:45: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:46:51: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" say "i hate aim_1on1map" (dead)
+L 11/24/2025 - 18:46:53: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:46:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "18")
+L 11/24/2025 - 18:46:53: World triggered "Round_End"
+L 11/24/2025 - 18:46:56: World triggered "Round_Start"
+L 11/24/2025 - 18:46:59: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Snip<10><STEAM_0:1:11894528><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:02: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:47:05: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:47:05: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:05: "pyr0`<11><STEAM_0:1:3635200><CT>" say "hahahaha"
+L 11/24/2025 - 18:47:06: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:47:11: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Viperion<15><STEAM_0:1:7286016><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:11: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:12: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:47:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "19")
+L 11/24/2025 - 18:47:12: World triggered "Round_End"
+L 11/24/2025 - 18:47:15: World triggered "Round_Start"
+L 11/24/2025 - 18:47:19: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:47:19: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" say "??? Marsel??? you bot"
+L 11/24/2025 - 18:47:21: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:22: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:22: "pyr0`<11><STEAM_0:1:3635200><CT>" say "hahahaha"
+L 11/24/2025 - 18:47:22: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:47:22: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" say "you bot pyr0`"
+L 11/24/2025 - 18:47:22: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:47:24: "Viperion<15><STEAM_0:1:7286016><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:47:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "20")
+L 11/24/2025 - 18:47:24: World triggered "Round_End"
+L 11/24/2025 - 18:47:27: World triggered "Round_Start"
+L 11/24/2025 - 18:47:32: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:47:32: "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:47:33: "pyr0`<11><STEAM_0:1:3635200><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:33: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:47:33: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" say "MarvinTa, stupid"
+L 11/24/2025 - 18:47:34: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:47:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "21")
+L 11/24/2025 - 18:47:34: World triggered "Round_End"
+L 11/24/2025 - 18:47:37: World triggered "Round_Start"
+L 11/24/2025 - 18:47:43: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:47:44: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:45: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:47:47: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:47:49: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "pyr0`<11><STEAM_0:1:3635200><CT>" with "m4a1"
+L 11/24/2025 - 18:47:52: "pyr0`<11><STEAM_0:1:3635200><CT>" say "noob MarvinTa" (dead)
+L 11/24/2025 - 18:47:58: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:47:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "22")
+L 11/24/2025 - 18:47:58: World triggered "Round_End"
+L 11/24/2025 - 18:48:01: World triggered "Round_Start"
+L 11/24/2025 - 18:48:07: Kick: "pyr0`<11><STEAM_0:0:4><>" was kicked by "Console"
+L 11/24/2025 - 18:48:07: "pyr0`<11><BOT><CT>" disconnected
+L 11/24/2025 - 18:48:07: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "bobjones<14><STEAM_0:1:8321280><CT>" with "m4a1"
+L 11/24/2025 - 18:48:07: "VoloV<18><STEAM_0:1:14165760><>" entered the game
+L 11/24/2025 - 18:48:07: "VoloV<18><STEAM_0:1:14165760><>" joined team "CT"
+L 11/24/2025 - 18:48:09: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" killed "VoloV<18><STEAM_0:1:14165760><CT>" with "m4a1"
+L 11/24/2025 - 18:48:09: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" say "you bot VoloV"
+L 11/24/2025 - 18:48:10: "??? Marsel???<12><STEAM_0:1:2925056><CT>" killed "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:48:10: "??? Marsel???<12><STEAM_0:1:2925056><CT>" say "лесарь, stupidd"
+L 11/24/2025 - 18:48:11: "Boofarkalielo<13><STEAM_0:1:15309312><TERRORIST>" killed "??? Marsel???<12><STEAM_0:1:2925056><CT>" with "m4a1"
+L 11/24/2025 - 18:48:11: Server cvar "amx_nextmap" = "de_dust2"
+L 11/24/2025 - 18:48:11: Server cvar "mp_chattime" = "11.000000"
+L 11/24/2025 - 18:48:16: "Слесарь<16><STEAM_0:1:3477760><TERRORIST>" say "01:45 vs Shinobi" (dead)
+L 11/24/2025 - 18:48:20: "MarvinTa<9><STEAM_0:1:10619392><CT>" killed "Shinobi<8><STEAM_0:1:2033408><TERRORIST>" with "m4a1"
+L 11/24/2025 - 18:48:21: "Snip<10><STEAM_0:1:11894528><TERRORIST>" killed "MarvinTa<9><STEAM_0:1:10619392><CT>" with "m4a1"
+L 11/24/2025 - 18:48:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "23")
+L 11/24/2025 - 18:48:21: World triggered "Round_End"
+L 11/24/2025 - 18:48:21: Server cvar "mp_chattime" = "10.000000"
+L 11/24/2025 - 18:48:22: "VoloV<18><BOT><CT>" disconnected
+L 11/24/2025 - 18:48:22: "Shinobi<8><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 18:48:22: "MarvinTa<9><BOT><CT>" disconnected
+L 11/24/2025 - 18:48:22: "Snip<10><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 18:48:22: "??? Marsel???<12><BOT><CT>" disconnected
+L 11/24/2025 - 18:48:22: "Boofarkalielo<13><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 18:48:22: "bobjones<14><BOT><CT>" disconnected
+L 11/24/2025 - 18:48:22: "Viperion<15><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 18:48:22: "Слесарь<16><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 18:48:22: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 18:48:22: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 18:48:22: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 18:48:22: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 18:48:22: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 18:48:22: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 18:48:22: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 18:48:22: [META] dll: Updating plugins...
+L 11/24/2025 - 18:48:22: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 18:48:22: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 18:48:22: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 18:48:22: Log file closed
