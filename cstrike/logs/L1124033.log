@@ -1,0 +1,117 @@
+L 11/24/2025 - 14:51:26: Log file started (file "logs\L1124033.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 14:51:26: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 14:51:26: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 14:51:26: Server cvar "sv_maxspeed" = "900"
+L 11/24/2025 - 14:51:26: Server cvar "amx_nextmap" = "de_dust2_2006"
+L 11/24/2025 - 14:51:26: Started map "de_dust2" (CRC "1159425449")
+L 11/24/2025 - 14:51:27: World triggered "Round_Start"
+L 11/24/2025 - 14:51:30: "shooterman<52><STEAM_0:1:9742592><>" entered the game
+L 11/24/2025 - 14:51:31: "shooterman<52><STEAM_0:1:9742592><>" joined team "CT"
+L 11/24/2025 - 14:51:31: "Lerika<53><STEAM_0:1:5805568><>" entered the game
+L 11/24/2025 - 14:51:31: "Lerika<53><STEAM_0:1:5805568><>" joined team "TERRORIST"
+L 11/24/2025 - 14:51:31: World triggered "Game_Commencing"
+L 11/24/2025 - 14:51:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 14:51:31: World triggered "Round_End"
+L 11/24/2025 - 14:51:34: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:51:34: World triggered "Round_Start"
+L 11/24/2025 - 14:52:03: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:52:05: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "mp5navy"
+L 11/24/2025 - 14:52:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/24/2025 - 14:52:05: World triggered "Round_End"
+L 11/24/2025 - 14:52:08: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:52:08: World triggered "Round_Start"
+L 11/24/2025 - 14:52:30: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "mp5navy"
+L 11/24/2025 - 14:52:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/24/2025 - 14:52:30: World triggered "Round_End"
+L 11/24/2025 - 14:52:33: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:52:33: World triggered "Round_Start"
+L 11/24/2025 - 14:53:10: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:53:10: "shooterman<52><STEAM_0:1:9742592><CT>" say "Come on Lerika,"
+L 11/24/2025 - 14:53:30: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "mp5navy"
+L 11/24/2025 - 14:53:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 11/24/2025 - 14:53:30: World triggered "Round_End"
+L 11/24/2025 - 14:53:33: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:53:34: World triggered "Round_Start"
+L 11/24/2025 - 14:54:09: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:54:09: "shooterman<52><STEAM_0:1:9742592><CT>" say "Come on Lerika,"
+L 11/24/2025 - 14:54:28: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/24/2025 - 14:54:29: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/24/2025 - 14:54:30: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/24/2025 - 14:54:32: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/24/2025 - 14:54:33: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "awp"
+L 11/24/2025 - 14:54:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 11/24/2025 - 14:54:33: World triggered "Round_End"
+L 11/24/2025 - 14:54:36: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:54:36: World triggered "Round_Start"
+L 11/24/2025 - 14:55:19: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:55:19: "shooterman<52><STEAM_0:1:9742592><CT>" say "Come on Lerika,"
+L 11/24/2025 - 14:55:41: "shooterman<52><STEAM_0:1:9742592><CT>" killed "Lerika<53><STEAM_0:1:5805568><TERRORIST>" with "m3"
+L 11/24/2025 - 14:55:42: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" say "gj" (dead)
+L 11/24/2025 - 14:55:51: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 11/24/2025 - 14:56:01: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Defused_The_Bomb"
+L 11/24/2025 - 14:56:01: Team "CT" triggered "Bomb_Defused" (CT "1") (T "4")
+L 11/24/2025 - 14:56:01: World triggered "Round_End"
+L 11/24/2025 - 14:56:04: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:56:04: World triggered "Round_Start"
+L 11/24/2025 - 14:56:44: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:56:44: "shooterman<52><STEAM_0:1:9742592><CT>" say "Come on Lerika,"
+L 11/24/2025 - 14:57:07: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "awp"
+L 11/24/2025 - 14:57:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 11/24/2025 - 14:57:07: World triggered "Round_End"
+L 11/24/2025 - 14:57:10: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:57:10: World triggered "Round_Start"
+L 11/24/2025 - 14:57:42: "shooterman<52><STEAM_0:1:9742592><CT>" killed "Lerika<53><STEAM_0:1:5805568><TERRORIST>" with "famas"
+L 11/24/2025 - 14:57:42: Team "CT" triggered "CTs_Win" (CT "2") (T "5")
+L 11/24/2025 - 14:57:42: World triggered "Round_End"
+L 11/24/2025 - 14:57:45: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:57:45: World triggered "Round_Start"
+L 11/24/2025 - 14:58:25: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:58:25: "shooterman<52><STEAM_0:1:9742592><CT>" say "Come on Lerika,"
+L 11/24/2025 - 14:58:35: "shooterman<52><STEAM_0:1:9742592><CT>" killed "Lerika<53><STEAM_0:1:5805568><TERRORIST>" with "deagle"
+L 11/24/2025 - 14:58:40: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 11/24/2025 - 14:58:45: "shooterman<52><STEAM_0:1:9742592><CT>" triggered "Defused_The_Bomb"
+L 11/24/2025 - 14:58:45: Team "CT" triggered "Bomb_Defused" (CT "3") (T "5")
+L 11/24/2025 - 14:58:45: World triggered "Round_End"
+L 11/24/2025 - 14:58:48: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:58:48: World triggered "Round_Start"
+L 11/24/2025 - 14:59:14: "shooterman<52><STEAM_0:1:9742592><CT>" killed "Lerika<53><STEAM_0:1:5805568><TERRORIST>" with "famas"
+L 11/24/2025 - 14:59:14: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 11/24/2025 - 14:59:14: World triggered "Round_End"
+L 11/24/2025 - 14:59:14: "shooterman<52><STEAM_0:1:9742592><CT>" say "Lerika, stupid"
+L 11/24/2025 - 14:59:17: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:59:17: World triggered "Round_Start"
+L 11/24/2025 - 14:59:49: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/24/2025 - 14:59:49: "shooterman<52><STEAM_0:1:9742592><CT>" say "Come on Lerika,"
+L 11/24/2025 - 14:59:55: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "galil"
+L 11/24/2025 - 14:59:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 11/24/2025 - 14:59:55: World triggered "Round_End"
+L 11/24/2025 - 14:59:58: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:59:58: World triggered "Round_Start"
+L 11/24/2025 - 15:00:26: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" killed "shooterman<52><STEAM_0:1:9742592><CT>" with "galil"
+L 11/24/2025 - 15:00:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "7")
+L 11/24/2025 - 15:00:26: World triggered "Round_End"
+L 11/24/2025 - 15:00:29: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 15:00:29: World triggered "Round_Start"
+L 11/24/2025 - 15:00:58: "shooterman<52><STEAM_0:1:9742592><CT>" killed "Lerika<53><STEAM_0:1:5805568><TERRORIST>" with "famas"
+L 11/24/2025 - 15:00:58: Team "CT" triggered "CTs_Win" (CT "5") (T "7")
+L 11/24/2025 - 15:00:58: World triggered "Round_End"
+L 11/24/2025 - 15:01:01: "Lerika<53><STEAM_0:1:5805568><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 15:01:01: World triggered "Round_Start"
+L 11/24/2025 - 15:01:35: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 15:01:35: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 15:01:35: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 15:01:35: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 15:01:35: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 15:01:35: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 15:01:35: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 15:01:35: [META] dll: Updating plugins...
+L 11/24/2025 - 15:01:35: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 15:01:35: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 15:01:35: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 15:01:35: "shooterman<-1><><CT>" disconnected
+L 11/24/2025 - 15:01:35: "Lerika<-1><><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 15:01:35: "Lerika<-1><><TERRORIST>" disconnected
+L 11/24/2025 - 15:01:35: World triggered "Round_Draw" (CT "5") (T "7")
+L 11/24/2025 - 15:01:35: World triggered "Round_End"
+L 11/24/2025 - 15:01:35: Server shutdown
+L 11/24/2025 - 15:01:35: Log file closed

@@ -1,0 +1,23 @@
+﻿  cs_blacksunday2 
+
+  Map Description: The police: to rescue the hostages to a safe location (school entrance). 
+
+           The culprits: stop the police rescue the hostages. 
+
+  Added: The police approached the hostages around, according to "E" key to rescue the hostages, 
+
+  And took him to the school gate. 
+
+  The way the police can repeatedly press 'E' button on the hostages to stop and walk. 
+
+  Radar blue points indicate the location of the hostages. 
+
+
+
+  by: 005junes@Gmail.com 
+                  
+  More maps to download please go to blog: 
+  http://b.pcgames.com.cn/005junes 
+
+      
+ 2009 10.1           

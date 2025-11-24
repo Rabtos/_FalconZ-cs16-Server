@@ -1,0 +1,14 @@
+// overview description file for css_westwood_hd.bsp
+
+global 
+{
+	ZOOM	1.97
+	ORIGIN	1072 	408	136
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/css_westwood_hd.bmp"
+	HEIGHT	-129
+}

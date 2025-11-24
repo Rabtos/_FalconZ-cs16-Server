@@ -1,0 +1,18 @@
+L 11/24/2025 - 17:41:07: Log file started (file "logs\L1124036.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 17:41:07: Server cvar "sv_uploadmax" = "7.77"
+L 11/24/2025 - 17:41:07: Server cvar "decalfrequency" = "3"
+L 11/24/2025 - 17:41:07: Server cvar "sv_maxrate" = "250000"
+L 11/24/2025 - 17:41:07: Server cvar "sv_minrate" = "25000"
+L 11/24/2025 - 17:41:07: Server cvar "sv_aim" = "0"
+L 11/24/2025 - 17:41:07: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 17:41:07: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 17:41:07: Server cvar "mp_roundtime" = "2"
+L 11/24/2025 - 17:41:07: Server cvar "mp_freezetime" = "0.5"
+L 11/24/2025 - 17:41:07: Server cvar "mp_friendlyfire" = "1"
+L 11/24/2025 - 17:41:07: Server cvar "sv_maxspeed" = "900"
+L 11/24/2025 - 17:41:07: Server cvar "amx_nextmap" = "de_dust2_2006"
+L 11/24/2025 - 17:41:08: Server cvar "sv_accelerate" = "5"
+L 11/24/2025 - 17:41:08: Server cvar "sv_stopspeed" = "75"
+L 11/24/2025 - 17:41:08: Started map "de_dust2" (CRC "1159425449")
+L 11/24/2025 - 17:41:08: Server cvar "sv_aim" = "1.000000"
+L 11/24/2025 - 17:41:08: Log file closed

@@ -1,0 +1,19 @@
+de_outrage
+____________________
+by Stroggos (www.stroggos.de)
+textures by Madness
+
+Counter-Terrorists
+____________________
+Prevent Terrorists from bombing 
+the bomb targets.
+Team members must defuse any bombs 
+that threaten the pipe stations.
+
+Terrorists
+____________________
+The Terrorist have to
+destroy the pipe stations or the market
+place.
+
+[Press FIRE to continue]

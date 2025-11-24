@@ -1,0 +1,12 @@
+gfx/env/cm_sea256_bk.tga
+gfx/env/cm_sea256_dn.tga
+gfx/env/cm_sea256_ft.tga
+gfx/env/cm_sea256_lf.tga
+gfx/env/cm_sea256_rt.tga
+gfx/env/cm_sea256_up.tga
+maps/de_abou.bsp
+models/strogg/l0bstar.mdl
+sound/ambience/birds9.wav
+sound/ambience/dj_voltage02.wav
+sound/ambience/seagull1.wav
+sound/ambience/strogg_ivy.wav

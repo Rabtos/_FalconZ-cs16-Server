@@ -1,0 +1,119 @@
+L 11/24/2025 - 14:14:58: Log file started (file "logs\L1124029.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 14:14:58: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 14:14:58: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 14:14:58: Server cvar "sv_maxspeed" = "900"
+L 11/24/2025 - 14:14:58: Server cvar "amx_nextmap" = "de_dust2_2014"
+L 11/24/2025 - 14:14:58: Started map "de_dust2_2006" (CRC "498999257")
+L 11/24/2025 - 14:14:59: World triggered "Round_Start"
+L 11/24/2025 - 14:15:02: "Butterfly<45><STEAM_0:1:4888320><>" entered the game
+L 11/24/2025 - 14:15:02: "Butterfly<45><STEAM_0:1:4888320><>" joined team "TERRORIST"
+L 11/24/2025 - 14:15:02: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:15:03: "TigerFoxyT<46><STEAM_0:1:15161344><>" entered the game
+L 11/24/2025 - 14:15:03: "TigerFoxyT<46><STEAM_0:1:15161344><>" joined team "CT"
+L 11/24/2025 - 14:15:03: World triggered "Game_Commencing"
+L 11/24/2025 - 14:15:03: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 14:15:03: World triggered "Round_End"
+L 11/24/2025 - 14:15:06: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:15:06: World triggered "Round_Start"
+L 11/24/2025 - 14:16:14: "TigerFoxyT<46><STEAM_0:1:15161344><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "usp"
+L 11/24/2025 - 14:16:14: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2025 - 14:16:14: World triggered "Round_End"
+L 11/24/2025 - 14:16:17: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:16:17: World triggered "Round_Start"
+L 11/24/2025 - 14:16:33: "TigerFoxyT<46><STEAM_0:1:15161344><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "m4a1"
+L 11/24/2025 - 14:16:33: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 11/24/2025 - 14:16:33: World triggered "Round_End"
+L 11/24/2025 - 14:16:33: "TigerFoxyT<46><STEAM_0:1:15161344><CT>" say "you bot butterfly"
+L 11/24/2025 - 14:16:36: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:16:36: World triggered "Round_Start"
+L 11/24/2025 - 14:18:36: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 11/24/2025 - 14:18:36: World triggered "Round_End"
+L 11/24/2025 - 14:18:39: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:18:39: World triggered "Round_Start"
+L 11/24/2025 - 14:20:20: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" killed "TigerFoxyT<46><STEAM_0:1:15161344><CT>" with "galil"
+L 11/24/2025 - 14:20:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 11/24/2025 - 14:20:20: World triggered "Round_End"
+L 11/24/2025 - 14:20:22: "TigerFoxyT<46><STEAM_0:1:15161344><CT>" say "00:17 vs Butterfly" (dead)
+L 11/24/2025 - 14:20:23: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:20:23: World triggered "Round_Start"
+L 11/24/2025 - 14:22:21: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" killed "TigerFoxyT<46><STEAM_0:1:15161344><CT>" with "galil"
+L 11/24/2025 - 14:22:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 11/24/2025 - 14:22:21: World triggered "Round_End"
+L 11/24/2025 - 14:22:24: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:22:24: World triggered "Round_Start"
+L 11/24/2025 - 14:22:36: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" killed "TigerFoxyT<46><STEAM_0:1:15161344><CT>" with "galil"
+L 11/24/2025 - 14:22:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 11/24/2025 - 14:22:36: World triggered "Round_End"
+L 11/24/2025 - 14:22:39: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:22:39: World triggered "Round_Start"
+L 11/24/2025 - 14:22:52: "TigerFoxyT<46><STEAM_0:1:15161344><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "mp5navy"
+L 11/24/2025 - 14:22:52: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 11/24/2025 - 14:22:52: World triggered "Round_End"
+L 11/24/2025 - 14:22:55: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:22:55: World triggered "Round_Start"
+L 11/24/2025 - 14:23:12: Kick: "TigerFoxyT<46><STEAM_0:0:21><>" was kicked by "Console"
+L 11/24/2025 - 14:23:12: "TigerFoxyT<46><BOT><CT>" disconnected
+L 11/24/2025 - 14:23:12: "chocolate<47><STEAM_0:1:10203136><>" entered the game
+L 11/24/2025 - 14:23:12: "chocolate<47><STEAM_0:1:10203136><>" joined team "CT"
+L 11/24/2025 - 14:23:12: World triggered "Game_Commencing"
+L 11/24/2025 - 14:23:12: World triggered "Game_Commencing" (CT "4") (T "3")
+L 11/24/2025 - 14:23:12: World triggered "Round_End"
+L 11/24/2025 - 14:23:15: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:23:15: World triggered "Round_Start"
+L 11/24/2025 - 14:23:31: "chocolate<47><STEAM_0:1:10203136><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "usp"
+L 11/24/2025 - 14:23:31: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2025 - 14:23:31: World triggered "Round_End"
+L 11/24/2025 - 14:23:31: "chocolate<47><STEAM_0:1:10203136><CT>" say "Butterfly, stupid"
+L 11/24/2025 - 14:23:34: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:23:34: World triggered "Round_Start"
+L 11/24/2025 - 14:25:34: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 11/24/2025 - 14:25:34: World triggered "Round_End"
+L 11/24/2025 - 14:25:37: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:25:37: World triggered "Round_Start"
+L 11/24/2025 - 14:26:23: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 14:26:24: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Got_The_Bomb"
+L 11/24/2025 - 14:26:29: "chocolate<47><STEAM_0:1:10203136><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "m4a1"
+L 11/24/2025 - 14:26:29: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 11/24/2025 - 14:26:29: World triggered "Round_End"
+L 11/24/2025 - 14:26:30: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" say "HEY chocolate YOU DAMN CHEATER!" (dead)
+L 11/24/2025 - 14:26:32: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:26:32: World triggered "Round_Start"
+L 11/24/2025 - 14:28:32: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 11/24/2025 - 14:28:32: World triggered "Round_End"
+L 11/24/2025 - 14:28:35: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:28:35: World triggered "Round_Start"
+L 11/24/2025 - 14:28:48: "chocolate<47><STEAM_0:1:10203136><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "m4a1"
+L 11/24/2025 - 14:28:48: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 11/24/2025 - 14:28:48: World triggered "Round_End"
+L 11/24/2025 - 14:28:51: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:28:51: World triggered "Round_Start"
+L 11/24/2025 - 14:30:00: "chocolate<47><STEAM_0:1:10203136><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "m4a1"
+L 11/24/2025 - 14:30:00: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 11/24/2025 - 14:30:00: World triggered "Round_End"
+L 11/24/2025 - 14:30:03: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:30:03: World triggered "Round_Start"
+L 11/24/2025 - 14:30:16: "chocolate<47><STEAM_0:1:10203136><CT>" killed "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" with "m4a1"
+L 11/24/2025 - 14:30:16: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 11/24/2025 - 14:30:16: World triggered "Round_End"
+L 11/24/2025 - 14:30:20: "Butterfly<45><STEAM_0:1:4888320><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/24/2025 - 14:30:20: World triggered "Round_Start"
+L 11/24/2025 - 14:31:12: Server cvar "amx_nextmap" = "de_dust2"
+L 11/24/2025 - 14:31:12: Server cvar "mp_chattime" = "11.000000"
+L 11/24/2025 - 14:31:22: Server cvar "mp_chattime" = "10.000000"
+L 11/24/2025 - 14:31:22: "Butterfly<45><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/24/2025 - 14:31:22: "Butterfly<45><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 14:31:22: "chocolate<47><BOT><CT>" disconnected
+L 11/24/2025 - 14:31:22: World triggered "Round_Draw" (CT "7") (T "0")
+L 11/24/2025 - 14:31:22: World triggered "Round_End"
+L 11/24/2025 - 14:31:22: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 14:31:22: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 14:31:22: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 14:31:22: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 14:31:22: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 14:31:22: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 14:31:22: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 14:31:22: [META] dll: Updating plugins...
+L 11/24/2025 - 14:31:22: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 14:31:22: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 14:31:22: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 14:31:22: Log file closed
