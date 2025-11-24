@@ -1,0 +1,20 @@
+L 11/10/2025 - 19:17:11: Log file started (file "logs\L1110018.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/10/2025 - 19:17:11: Server cvar "sv_uploadmax" = "7.77"
+L 11/10/2025 - 19:17:11: Server cvar "decalfrequency" = "3"
+L 11/10/2025 - 19:17:11: Server cvar "sv_maxrate" = "250000"
+L 11/10/2025 - 19:17:11: Server cvar "sv_minrate" = "25000"
+L 11/10/2025 - 19:17:11: Server cvar "sv_alltalk" = "1"
+L 11/10/2025 - 19:17:11: Server cvar "sv_aim" = "0"
+L 11/10/2025 - 19:17:11: Server cvar "sv_maxspeed" = "320"
+L 11/10/2025 - 19:17:11: Server cvar "mp_timelimit" = "15"
+L 11/10/2025 - 19:17:18: World triggered "Round_Start"
+L 11/10/2025 - 19:17:43: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/cs1.6 server/server/cstrike/addons/metamod/plugins.ini
+L 11/10/2025 - 19:17:43: [META] ini: Read plugin config for: AMX Mod X
+L 11/10/2025 - 19:17:43: [META] ini: Read plugin config for: Reunion
+L 11/10/2025 - 19:17:43: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/cs1.6 server/server/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 11/10/2025 - 19:17:43: [META] dll: Updating plugins...
+L 11/10/2025 - 19:17:43: [META] dll: Finished updating 4 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/10/2025 - 19:17:43: [META] dll: Rebuilding callbacks...
+L 11/10/2025 - 19:17:43: [META] dll: Callbacks rebuilded.
+L 11/10/2025 - 19:17:43: Server shutdown
+L 11/10/2025 - 19:17:43: Log file closed

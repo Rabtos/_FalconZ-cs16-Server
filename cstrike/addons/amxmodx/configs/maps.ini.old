@@ -1,0 +1,553 @@
+; Doc for Map Manager maplist ini file
+;
+; Format:
+; <map name> [min players, def 0] [max players, def 32] [priority, def 100]
+;
+; map name - map name as is
+; min players - lower range for "Online sorter" addon, valid values from 0 to 32
+; max player - higher range for "Online sorter" addon, valid values from 0 to 32, should be bigger than min players
+; priority - value for "Priority" addon, valid values from 1 to 100;
+;            with 1 map has 1% chance to be in vote list,
+;            with 100 map has no limits in "Priority" addon but can be blocked with another addon
+;
+; Examples:
+; de_nuke
+; de_dust 0 10
+; de_dust2 5 32 70
+
+
+de_dust2 0 32 100
+de_aztec 0 32 90
+de_nuke 0 32 90
+cs_assault 0 32 90
+de_inferno 0 32 25
+cs_office 0 32 25
+cs_italy 0 32 10
+cs_siege  0 32 10
+aim_99 1 4 5
+aim_ak-colt_pro 1 4 5
+aim_assault_puff 1 4 5
+aim_color 1 4 5
+aim_desert 1 4 5
+aim_duster 1 4 5
+aim_gsu_city 1 4 5
+aim_italy 1 4 5
+aim_kaadi 1 4 5
+aim_lambdalab 1 4 5
+aim_m4ak_2017 1 4 5
+aim_mainframe 1 4 5
+aim_redline 1 4 5
+aim_rooms 1 4 5
+aim_snow_dino 1 4 5
+aim_storehouse 1 4 5
+as_KVARTAL 1 4 5
+bhd_as 0 32 5
+bhd_convoy 0 32 5
+bhd_convoy2 0 32 5
+bhd_cs 0 32 5
+bhd_de 0 32 5
+blackhawkd_v2 0 32 5
+cf_area13 0 32 5
+cf_crossroad 0 32 5
+cf_egypt 0 32 5
+cf_fortrees 0 32 5
+cf_laboratory 0 32 5
+cf_mexico 0 32 5
+cf_monaco 0 32 5
+cf_nanomall 0 32 5
+cf_prison 0 32 5
+cf_ship 0 32 5
+cs_17b_assault 0 32 15
+cs_assault_2006 0 32 15
+cs_assault_hd 0 32 15
+cs_assault2002 0 32 15
+cs_assault2k 0 32 15
+cs_assaultfire 0 32 15
+cs_greatassault_b3 0 32 15
+cs_inferno_40cal 0 32 15
+cs_KVARTAL 0 32 15
+cs_mansion_maniac 0 32 50
+cs_metro 0 32 15
+cs_outrageous 0 32 15
+cs_wildwest_assault 0 32 15
+css_deagle 0 32 15
+css_dust2 0 32 15
+css_inferno 0 32 15
+css_overpass 0 32 15
+de_aztec_1337 0 32 15
+de_aztec_2012 0 32 15
+de_aztec_cz 0 32 15
+de_aztec_suncsm 0 32 15
+de_aztec_urban 0 32 15
+de_aztec2014 0 32 15
+de_azteq 0 32 15
+de_bidepot 0 32 15
+de_calendar 0 32 15
+de_ciel_b1 0 32 15
+de_container 0 32 15
+de_dust2_2006 0 32 15
+de_dust2_2014 0 32 15
+de_dust2_medieval 0 32 15
+de_dust2_suncsm 0 32 15
+de_dustroyal 0 32 15
+de_floricane 0 32 15
+de_indust2 0 32 15
+de_inferno_cz 0 32 15
+de_inferno_suncsm 0 32 15
+de_inferno_winter 0 32 15
+de_inferno2010 0 32 15
+de_infernold 0 32 15
+de_newinferno2010 0 32 15
+de_nust2 0 32 15
+de_perfect_inferno 0 32 15
+de_upd_aztec 0 32 15
+de_via 0 32 15
+de_zook 0 32 15
+es_KVARTAL 0 32 15
+fy_snow 0 8 15
+he_tennis 0 8 15
+lab_racing 0 8 15
+overclocked 0 8 15
+paintball_map 0 8 15
+shotgun_frenzy 0 8 15
+cs_17b_assault
+cs_747
+cs_arabstreets
+cs_assault
+cs_assault_1337
+cs_assault_2006
+cs_assault_hd
+cs_assault_upc
+cs_assault2002
+cs_assault2k
+cs_assaultfire
+cs_backalley
+cs_bank
+Cs_BBGv5
+cs_beersel_26
+cs_besiege
+cs_bier
+cs_bikini
+cs_boxoffice2k
+cs_campagna
+cs_cbblust
+cs_deagle5
+cs_estate
+cs_expo2011
+cs_fall_b6
+cs_foodmarket_b3
+cs_greatassault_b3
+cs_havana
+cs_hopeless
+cs_inferno_40cal
+cs_italy
+cs_italy2
+cs_krustykrab
+cs_KVARTAL
+cs_mansion
+cs_mansion_maniac
+cs_mansion09_mod_br
+cs_max
+cs_metro
+cs_militia
+cs_nmgas
+cs_nmhotel
+cs_nmtag
+cs_office
+cs_outrageous
+cs_petra
+cs_petra2
+cs_renovation
+cs_sch_28_morning_a270
+cs_siege
+cs_trailerpark
+cs_truckstop_b1
+cs_valleywhouse
+cs_wildwest_assault
+css_cache
+css_crane
+css_deagle
+css_dust2
+css_dust3
+css_india2
+css_inferno
+css_inferno2x2
+css_kabul2
+css_marine
+css_mirage2x2_go
+css_nuke2
+css_nuke2x2
+css_overpass
+css_port
+css_shorttrain
+css_westcoast
+de_17b_adventure
+de_17b_hacienda
+de_2rox
+de_3amok
+de_52lagranja
+de_52leon
+de_747
+de_abaddon
+de_airstrip
+de_aisle_esl
+de_aldi2k
+de_alexandra
+de_alsace_b1
+de_ambuscade_csz
+de_amr
+de_anal_v2
+de_anarchy
+de_anth
+de_apex
+de_aqueduct_beta
+de_arabica
+de_arizona
+de_austria
+de_avangard
+de_azraq
+de_aztec
+de_aztec_1337
+de_aztec_2012
+de_aztec_cz
+de_aztec_mini
+de_aztec_suncsm
+de_aztec_urban
+de_aztec_winter_z
+de_aztec2014
+de_azteq
+de_badcore
+de_bahrainv2
+de_bank_csgo
+de_barcelona
+de_bavaria2
+De_BBGv5
+de_beishan
+de_bergheim
+de_bidepot
+de_bikini
+de_blacksnow
+de_bled
+de_blue
+de_blue_b4
+de_botanica_street
+de_breakdown2
+de_bretagne
+de_bretonia
+de_bretonia_2013
+de_bright
+de_byfly2
+de_c4
+de_cache
+de_calendar
+de_callipolia
+de_canal_cz
+de_cbble
+de_cbf
+de_celtic
+de_cg_beta2
+de_chateau
+de_chateau_2
+de_ciel_b1
+de_clan1_mill
+de_classicsmix_b2
+de_cliff
+de_cocaine
+de_concrete_x
+de_container
+de_contra
+de_corruption
+de_corsica
+de_cotef
+de_cpl_bomb2
+de_cpl_mill
+de_cpl_mill_32
+de_cpl-bomb2
+de_crazytown
+de_crete_island
+de_crizatii
+de_crossfire_sector
+de_crush
+de_cup2_brutesmaps
+de_damage_village
+de_deadbolt
+de_deadcity
+de_deadlock
+de_deadlock_b3
+de_depot_b9
+de_devilz
+de_dice
+de_dinaunion
+de_dockland
+de_dolc
+de_dusferno2
+de_dust
+de_dust_2x2
+de_dust2
+de_dust2_2006
+de_dust2_2014
+de_dust2_2x2
+de_dust2_medieval
+de_dust2_mini
+de_dust2_remake
+de_dust2_snow
+de_dust2_suncsm
+de_dust2_thera_b5
+de_dust2_xmas
+de_dust2002
+de_dust2x2
+de_dust2x2_upd
+de_dust4ever
+de_dustier
+de_dustroyal
+de_dustt2
+de_dusttown_ex
+de_dustyaztec
+de_eggfart
+de_eldorado
+de_emir_2015
+de_emir_sv2015
+de_entra
+de_escalation
+de_esl_autumn
+de_evade
+de_fact
+de_floricane
+de_foption
+de_forge
+de_forge_v5
+de_gardenbrick
+de_gas26
+de_gelu
+de_giza_b5
+de_goodluck
+de_heat
+de_hell
+de_hell2
+de_hill
+de_hogwarts
+de_hollis
+de_hruk
+de_hyperzone
+de_in_30rus_zavod_v2
+de_indust2
+de_industro
+de_inferno
+de_inferno_2x2
+de_inferno_cz
+de_inferno_suncsm
+de_inferno_winter
+de_inferno2_z
+de_inferno2010
+de_inferno2se
+de_infernold
+de_infernoo
+de_invictus_v12
+de_isolation
+de_italy-dsk
+de_joinet32
+de_karachi01
+de_kd
+de_lake_csgo
+de_lan-z
+de_legato
+de_lexeich[final]
+de_lite_final
+de_littlehouse_b4
+de_lost
+de_lostparadise
+de_love_me
+de_mario_air
+de_market
+de_mini_city_s
+de_mirage
+de_mirage2
+de_mjolby6
+de_moulins
+de_mountainhamlet
+de_newinferno2010
+de_NewYork
+de_nuke
+de_nuke_2x2
+de_nuke_rarea
+de_nuke_underground
+de_nuke2x2
+de_nuke32
+de_nust2
+de_oC2
+de_onyx
+de_overwork
+de_pandemonium
+de_parikia_b1
+de_pasta
+de_perfect_inferno
+de_piranesi
+de_plaka
+de_pool_dust2
+de_port_royal
+de_potos
+de_pozitiv2
+de_prodigy
+de_rampz
+de_rats_caravan
+de_razzoon
+de_recover2
+de_remains
+de_rio2_cp
+de_roof
+de_russka
+de_safehouse_csgo
+de_sahara
+de_salt
+de_salt2
+de_sanayi2
+de_santorini
+de_sch_30_even_a276
+de_scheiterhaufen-f
+de_sf
+de_shell_a5
+de_sibyllenort_b1
+de_silentoperation
+de_sirocco2
+de_skidrow_2010
+de_sokaci
+de_springer
+de_stacja
+de_starkenbach
+de_storm
+de_sunny
+de_sunny32
+de_suntower
+de_suntower_mini
+de_survivor
+de_target_arena_b4
+de_templecats_2009
+de_tenement2
+de_tides_cz
+de_tmar
+de_tmar_winter
+de_tmar32
+de_tmtydj2
+de_torn
+de_toscana
+de_town_arco
+de_tpoint
+de_train
+de_transit1
+de_tuscan
+de_tuscan32
+de_upd_aztec
+de_urgency
+de_valpo2
+de_Vecindad
+de_verso
+de_vertigo
+de_vertigo_classic
+de_vertigo_cs2_v1
+de_via
+de_villazamis_cz
+de_virtuacom
+de_volare
+de_warfare2
+de_westtime
+de_westwood
+de_westwood_247cs
+de_westwood_big
+de_westwood3
+de_wilau
+de_zook
+de_zovine
+$2000$
+35hp_reborn
+aim_00_awp
+aim_99
+aim_ak_colt
+aim_ak-colt
+aim_ak-colt_pool
+aim_ak-colt_pro
+aim_ak-colt-cyber
+aim_aspect
+aim_assault_puff
+aim_aztec
+aim_color
+aim_crazyjump
+aim_crazyjump_1337
+aim_desert
+aim_devline
+aim_duster
+aim_duztec2
+aim_gamed_3
+aim_gsu_city
+aim_headshot
+aim_italy
+aim_japan_b2
+aim_kaadi
+aim_lambdalab
+aim_m4ak_2017
+aim_mainframe
+aim_map
+aim_map_2010
+aim_map_fair
+aim_parkingarage
+aim_redline
+aim_ritual3
+aim_rooms
+aim_sk_aug_sig
+aim_snow_dino
+aim_stone_night_b2
+aim_storehouse
+aim_thera_b1
+aim_usp
+ak-47_map
+as_KVARTAL
+as_oilrig
+as_parkinglot_b2
+awp_city
+awp_garden
+awp_india
+bhd_as
+bhd_convoy
+bhd_convoy2
+bhd_cs
+bhd_de
+blackhawkd_v2
+cf_area13
+cf_crossroad
+cf_egypt
+cf_fortrees
+cf_laboratory
+cf_mexico
+cf_monaco
+cf_nanomall
+cf_prison
+cf_ship
+deathrun_kyu_kic
+es_KVARTAL
+fun_matrix_reloaded
+fy_buzzkill2005
+fy_iceworld2k
+fy_iceworldx
+fy_pool_day
+fy_pool_day2
+fy_sch_01_a38
+fy_sch_02_afternoon
+fy_sch_02_morning
+fy_sch_29_noon_a280
+fy_simpsons
+fy_snow
+fy_snow_awp
+gg_inferno_r
+gg_mini_dust2
+go_vertigo_classic
+go_vertigo_classic_pub
+he_tennis
+jb_oasis
+ka_roadwars
+ka_roadwars_v2
+ka_roadwars_v3
+lab_racing
+mini_dust2
+overclocked
+paintball_map
+scoutzknivez
+shotgun_frenzy

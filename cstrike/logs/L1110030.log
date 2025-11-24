@@ -1,0 +1,45 @@
+L 11/10/2025 - 20:48:01: Log file started (file "logs\L1110030.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/10/2025 - 20:48:01: Server cvar "sv_uploadmax" = "7.77"
+L 11/10/2025 - 20:48:01: Server cvar "decalfrequency" = "3"
+L 11/10/2025 - 20:48:01: Server cvar "sv_maxrate" = "250000"
+L 11/10/2025 - 20:48:01: Server cvar "sv_minrate" = "25000"
+L 11/10/2025 - 20:48:01: Server cvar "sv_alltalk" = "1"
+L 11/10/2025 - 20:48:01: Server cvar "sv_aim" = "0"
+L 11/10/2025 - 20:48:01: Server cvar "sv_maxspeed" = "320"
+L 11/10/2025 - 20:48:01: Server cvar "mp_timelimit" = "15"
+L 11/10/2025 - 20:48:01: Server cvar "mp_forcechasecam" = "1"
+L 11/10/2025 - 20:48:01: Server cvar "mp_forcecamera" = "1"
+L 11/10/2025 - 20:48:08: World triggered "Round_Start"
+L 11/10/2025 - 20:48:47: "C<1><STEAM_0:1:97036452><>" connected, address "79.235.170.155:27005"
+L 11/10/2025 - 20:48:48: "C<1><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/10/2025 - 20:48:50: "C<1><STEAM_0:1:97036452><>" entered the game
+L 11/10/2025 - 20:48:54: "C<1><STEAM_0:1:97036452><>" joined team "TERRORIST"
+L 11/10/2025 - 20:48:54: "C<1><STEAM_0:1:97036452><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/10/2025 - 20:49:25: "! PGC | [ sGMMa ]<2><STEAM_0:0:649717197><>" connected, address "37.60.146.31:27005"
+L 11/10/2025 - 20:49:25: "! PGC | [ sGMMa ]<2><STEAM_0:0:649717197><>" STEAM USERID validated
+L 11/10/2025 - 20:49:35: "C<1><STEAM_0:1:97036452><TERRORIST>" triggered "Planted_The_Bomb"
+L 11/10/2025 - 20:50:03: "C<1><STEAM_0:1:97036452><TERRORIST>" changed name to "Cʏвer’Føχ"
+L 11/10/2025 - 20:50:20: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "0")
+L 11/10/2025 - 20:50:20: World triggered "Round_End"
+L 11/10/2025 - 20:50:25: "Cʏвer’Føχ<1><STEAM_0:1:97036452><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/10/2025 - 20:50:25: "Cʏвer’Føχ<1><STEAM_0:1:97036452><TERRORIST>" changed name to "Ｃｙｂｅｒ’Ｆｏχ"
+L 11/10/2025 - 20:50:31: World triggered "Round_Start"
+L 11/10/2025 - 20:50:33: "Ｃｙｂｅｒ’Ｆｏχ<1><STEAM_0:1:97036452><TERRORIST>" say "yo"
+L 11/10/2025 - 20:50:43: "Ｃｙｂｅｒ’Ｆｏχ<1><STEAM_0:1:97036452><TERRORIST>" changed name to "Ｃｙｂｅｒ’Fｏχ"
+L 11/10/2025 - 20:52:35: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/cs1.6 server/server/cstrike/addons/metamod/plugins.ini
+L 11/10/2025 - 20:52:35: [META] ini: Read plugin config for: AMX Mod X
+L 11/10/2025 - 20:52:35: [META] ini: Read plugin config for: Reunion
+L 11/10/2025 - 20:52:35: [META] ini: Read plugin config for: Revoice
+L 11/10/2025 - 20:52:35: [META] ini: Read plugin config for: Rechecker
+L 11/10/2025 - 20:52:35: [META] ini: Read plugin config for: ReSemiclip
+L 11/10/2025 - 20:52:35: [META] ini: Read plugin config for: HitBox Fix
+L 11/10/2025 - 20:52:35: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/cs1.6 server/server/cstrike/addons/metamod/plugins.ini; Found 6 plugins
+L 11/10/2025 - 20:52:35: [META] dll: Updating plugins...
+L 11/10/2025 - 20:52:35: [META] dll: Finished updating 10 plugins; kept 6, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/10/2025 - 20:52:35: [META] dll: Rebuilding callbacks...
+L 11/10/2025 - 20:52:35: [META] dll: Callbacks rebuilded.
+L 11/10/2025 - 20:52:35: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/10/2025 - 20:52:35: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><TERRORIST>" disconnected
+L 11/10/2025 - 20:52:35: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/10/2025 - 20:52:35: World triggered "Round_End"
+L 11/10/2025 - 20:52:35: Log file closed

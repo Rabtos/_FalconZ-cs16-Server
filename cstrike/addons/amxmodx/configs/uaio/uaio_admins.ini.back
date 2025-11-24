@@ -1,0 +1,46 @@
+;------------------------------------------------------------------------------------------
+;   uaio_admins.ini                     Version 1.50                      Date: DEC/20/2005
+;
+;   RS UAIO (Ultimate All-In-One) Admin Menu
+;   File: UAIO Admins File
+;
+;   Created By:    Rob Secord, B.Sc.
+;   Alias: xeroblood (aka; Achilles; sufferer)
+;   Email: xeroblood@msn.com
+;
+;   Updated By:    Dan Weeks
+;   Alias: $uicid3
+;   Email: suicid3m3@gmail.com
+;
+;------------------------------------------------------------------------------------------
+
+;---------------------------------------------------------------------------------------
+;       SteamID      Group(s)
+;---------------------------------------------------------------------------------------
+
+;---------------------------------------------------------------------------------------
+; Default Access (For non-admin players) -- Only Change Groups (If Required)!
+; Do Not Remove!
+; This Default Public-Admin IS Required, Remove Flags from Groups in uaio_groups.ini
+; To Restrict Access to Commands by Public Players!
+;---------------------------------------------------------------------------------------
+admin "default"     "grp_vote_public grp_good_public grp_evil_public grp_misc_public"
+
+
+;---------------------------------------------------------------------------------------
+; Registered (Official) Admins
+;---------------------------------------------------------------------------------------
+
+; These are YOU (YOUR SERVER) when using a ListenServer or LAN
+admin "STEAM_ID_PENDING"  "grp_vote_typeS grp_good_typeS grp_evil_typeS grp_misc_typeS"
+admin "VALVE_ID_LOOPBACK" "grp_vote_typeS grp_good_typeS grp_evil_typeS grp_misc_typeS"
+admin "127.0.0.1"         "grp_vote_typeS grp_good_typeS grp_evil_typeS grp_misc_typeS"
+admin "loopback"          "grp_vote_typeS grp_good_typeS grp_evil_typeS grp_misc_typeS"
+
+; Add Admins below here:
+
+; Me (xeroblood) (example only, remove if you want to ;)
+admin "1857286"     "grp_vote_typeS grp_good_typeS grp_evil_typeS grp_misc_typeS"
+
+;$uicid3 (Once again this is only an example of full admin for uaio)
+admin "1432421"     "grp_vote_typeS grp_good_typeS grp_evil_typeS grp_misc_typeS"

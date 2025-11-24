@@ -1,0 +1,239 @@
+L 11/11/2025 - 11:30:26: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 11:30:26: Error:
+L 11/11/2025 - 11:30:26: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 11:30:26: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 11:30:27: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 12:30:34: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 12:30:34: Error:
+L 11/11/2025 - 12:30:34: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 12:30:34: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 12:30:35: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 12:35:01: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 12:35:01: Error:
+L 11/11/2025 - 12:35:01: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 12:35:02: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 12:35:03: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 12:35:37: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:35:37: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:36:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/11/2025 - 12:36:15: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_mansion_maniac
+L 11/11/2025 - 12:36:20: [rockthevote_custom.amxx] Map will be changed to cs_mansion_maniac.
+L 11/11/2025 - 12:37:06: [admincmd.amxx] Cmd: "Falcon'Z Public Server<0><><>" changelevel "cs_mansion_maniac"
+L 11/11/2025 - 12:37:08: -------- Mapchange to cs_mansion_maniac --------
+L 11/11/2025 - 12:37:11: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:37:11: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:37:30: [admin.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:37:30: [admin_sql.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:56:56: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 12:56:56: Error:
+L 11/11/2025 - 12:56:56: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 12:56:56: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 12:56:56: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 12:57:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 12:57:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 12:58:48: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:58:48: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:58:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/11/2025 - 12:59:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_99
+L 11/11/2025 - 12:59:16: [rockthevote_custom.amxx] Map will be changed to aim_99.
+L 11/11/2025 - 12:59:52: [admincmd.amxx] Cmd: "Falcon'Z Public Server<0><><>" changelevel "aim_99"
+L 11/11/2025 - 12:59:54: -------- Mapchange to aim_99 --------
+L 11/11/2025 - 12:59:57: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 12:59:57: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:00:01: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '{NoV}Fishbulb'! Default Group Not Found!
+L 11/11/2025 - 13:00:01: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'ChRoNo'! Default Group Not Found!
+L 11/11/2025 - 13:00:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Shadow-Death'! Default Group Not Found!
+L 11/11/2025 - 13:00:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'pimpjuice'! Default Group Not Found!
+L 11/11/2025 - 13:00:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '(1)Chrono'! Default Group Not Found!
+L 11/11/2025 - 13:00:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Ender Wiggin'! Default Group Not Found!
+L 11/11/2025 - 13:00:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '8|@@d$h@t'! Default Group Not Found!
+L 11/11/2025 - 13:00:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'bjaren'! Default Group Not Found!
+L 11/11/2025 - 13:00:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Serial_Victim'! Default Group Not Found!
+L 11/11/2025 - 13:06:34: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'bobjones'! Default Group Not Found!
+L 11/11/2025 - 13:09:00: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'un4given'! Default Group Not Found!
+L 11/11/2025 - 13:11:00: -------- Mapchange to aim_99 --------
+L 11/11/2025 - 13:11:03: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:11:03: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:11:07: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '{NoV}Fishbulb'! Default Group Not Found!
+L 11/11/2025 - 13:11:07: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'bobjones'! Default Group Not Found!
+L 11/11/2025 - 13:11:07: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'un4given'! Default Group Not Found!
+L 11/11/2025 - 13:11:08: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'pimpjuice'! Default Group Not Found!
+L 11/11/2025 - 13:11:08: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '(1)Chrono'! Default Group Not Found!
+L 11/11/2025 - 13:11:09: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Ender Wiggin'! Default Group Not Found!
+L 11/11/2025 - 13:11:09: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '8|@@d$h@t'! Default Group Not Found!
+L 11/11/2025 - 13:11:09: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'bjaren'! Default Group Not Found!
+L 11/11/2025 - 13:11:10: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Serial_Victim'! Default Group Not Found!
+L 11/11/2025 - 13:17:29: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 13:17:29: Error:
+L 11/11/2025 - 13:17:29: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 13:17:29: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 13:17:29: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 13:17:36: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 13:17:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 13:17:42: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:17:42: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:26:17: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 13:26:17: Error:
+L 11/11/2025 - 13:26:17: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 13:26:17: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 13:26:17: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 13:26:19: [mapmanager.amxx] MapManager: mapchooser.amxx has been stopped.
+L 11/11/2025 - 13:26:19: [mapmanager.amxx] MapManager: nextmap.amxx has been stopped.
+L 11/11/2025 - 13:26:24: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Brandon'! Default Group Not Found!
+L 11/11/2025 - 13:26:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'bussemann'! Default Group Not Found!
+L 11/11/2025 - 13:26:27: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:26:27: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:28:18: -------- Mapchange to bhd_as --------
+L 11/11/2025 - 13:28:20: [mapmanager.amxx] MapManager: mapchooser.amxx has been stopped.
+L 11/11/2025 - 13:28:20: [mapmanager.amxx] MapManager: nextmap.amxx has been stopped.
+L 11/11/2025 - 13:28:21: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:28:21: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:28:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Brandon'! Default Group Not Found!
+L 11/11/2025 - 13:28:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'goat'! Default Group Not Found!
+L 11/11/2025 - 13:39:28: [mapsmenu.amxx] Cmd: "C<3><STEAM_0:1:97036452><>" changelevel "de_via"
+L 11/11/2025 - 13:39:30: -------- Mapchange to de_via --------
+L 11/11/2025 - 13:39:33: [mapmanager.amxx] MapManager: mapchooser.amxx has been stopped.
+L 11/11/2025 - 13:39:33: [mapmanager.amxx] MapManager: nextmap.amxx has been stopped.
+L 11/11/2025 - 13:39:33: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:39:33: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 13:39:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Brandon'! Default Group Not Found!
+L 11/11/2025 - 13:39:38: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Zachalicious'! Default Group Not Found!
+L 11/11/2025 - 14:38:05: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:38:05: Error:
+L 11/11/2025 - 14:38:05: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:38:05: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:38:05: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:38:13: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:38:13: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:38:14: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:38:14: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:38:28: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_via.
+L 11/11/2025 - 14:38:39: -------- Mapchange to de_via --------
+L 11/11/2025 - 14:38:41: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:38:41: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:38:45: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:38:46: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Serial_Victim'! Default Group Not Found!
+L 11/11/2025 - 14:41:13: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:41:13: Error:
+L 11/11/2025 - 14:41:13: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:41:13: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:41:13: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:41:21: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:41:21: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:41:22: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:41:22: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:41:49: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_via.
+L 11/11/2025 - 14:41:59: -------- Mapchange to de_via --------
+L 11/11/2025 - 14:42:02: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:42:02: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:42:05: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:42:06: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Wangmaste'! Default Group Not Found!
+L 11/11/2025 - 14:43:03: [admin.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:43:03: [admin_sql.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:43:05: [admin.amxx] Login: "C<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:43:05: [admin_sql.amxx] Login: "C<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:43:31: [admin.amxx] Login: "C<8><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:43:31: [admin_sql.amxx] Login: "C<8><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:45:37: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:45:37: Error:
+L 11/11/2025 - 14:45:37: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:45:37: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:45:37: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:45:44: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:45:45: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:46:19: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:46:19: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:46:49: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_via.
+L 11/11/2025 - 14:46:59: -------- Mapchange to de_via --------
+L 11/11/2025 - 14:47:02: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:47:02: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:47:05: [admin.amxx] Login: "C<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:47:05: [admin_sql.amxx] Login: "C<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:47:06: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:47:06: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'waeldreegia'! Default Group Not Found!
+L 11/11/2025 - 14:47:53: [map_manager_scheduler.amxx] [vote_finished]: nextmap is cs_mansion_maniac.
+L 11/11/2025 - 14:48:04: -------- Mapchange to cs_mansion_maniac --------
+L 11/11/2025 - 14:48:06: [admin.amxx] Login: "C<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:48:06: [admin_sql.amxx] Login: "C<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:48:09: [admin.amxx] Login: "C<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:48:09: [admin_sql.amxx] Login: "C<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:48:10: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'waeldreegia'! Default Group Not Found!
+L 11/11/2025 - 14:48:11: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'bob'! Default Group Not Found!
+L 11/11/2025 - 14:52:53: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:52:53: Error:
+L 11/11/2025 - 14:52:53: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:52:53: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:52:53: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:52:57: [admin.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:52:57: [admin_sql.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:53:00: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'shooterman'! Default Group Not Found!
+L 11/11/2025 - 14:53:39: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_aztec_1337.
+L 11/11/2025 - 14:53:50: -------- Mapchange to de_aztec_1337 --------
+L 11/11/2025 - 14:53:52: [admin.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:53:52: [admin_sql.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:53:54: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:53:54: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:53:56: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'shooterman'! Default Group Not Found!
+L 11/11/2025 - 14:53:57: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Slayin'! Default Group Not Found!
+L 11/11/2025 - 14:55:10: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:55:10: Error:
+L 11/11/2025 - 14:55:10: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:55:10: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:55:11: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:55:18: -------- Mapchange to de_aztec_1337 --------
+L 11/11/2025 - 14:55:21: [admin.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:55:21: [admin_sql.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:55:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '-|NoS|-'! Default Group Not Found!
+L 11/11/2025 - 14:55:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'dslodolce'! Default Group Not Found!
+L 11/11/2025 - 14:58:04: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:58:04: Error:
+L 11/11/2025 - 14:58:04: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:58:04: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:58:05: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:58:12: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:58:13: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:58:28: -------- Mapchange to de_aztec_1337 --------
+L 11/11/2025 - 14:58:34: [admin.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:58:34: [admin_sql.amxx] Login: "C<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:58:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:58:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:59:05: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/11/2025 - 14:59:05: Error:
+L 11/11/2025 - 14:59:05: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/11/2025 - 14:59:05: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/11/2025 - 14:59:05: -------- Mapchange to de_dust2 --------
+L 11/11/2025 - 14:59:12: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:59:13: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:59:19: -------- Mapchange to de_aztec_1337 --------
+L 11/11/2025 - 14:59:26: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '[SMUT]DarkDruid'! Default Group Not Found!
+L 11/11/2025 - 14:59:26: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 14:59:29: [admin.amxx] Login: "C<5><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:59:29: [admin_sql.amxx] Login: "C<5><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:59:31: [admin.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 14:59:31: [admin_sql.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:12:21: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/11/2025 - 15:12:36: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec_2012
+L 11/11/2025 - 15:13:31: [map_manager_scheduler.amxx] [checktime]: start vote, timeleft 58
+L 11/11/2025 - 15:13:35: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_perfect_inferno.
+L 11/11/2025 - 15:13:45: -------- Mapchange to de_perfect_inferno --------
+L 11/11/2025 - 15:13:46: [admin.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:13:50: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 15:13:50: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Texas'! Default Group Not Found!
+L 11/11/2025 - 15:26:30: -------- Mapchange to de_aztec_suncsm --------
+L 11/11/2025 - 15:26:31: [admin.amxx] Login: "C<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:26:33: [admin.amxx] Login: "C<9><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:26:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 15:26:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Nikolai'! Default Group Not Found!
+L 11/11/2025 - 15:27:59: [rockthevote_custom.amxx] There are no maps in the addons/amxmodx/configs/maps.ini.
+L 11/11/2025 - 15:28:05: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_aztec_urban.
+L 11/11/2025 - 15:28:17: -------- Mapchange to de_aztec_urban --------
+L 11/11/2025 - 15:28:17: [admin.amxx] Login: "C<9><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:28:21: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 15:28:22: [admin.amxx] Login: "C<13><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:28:22: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'The BiG SMUT'! Default Group Not Found!
+L 11/11/2025 - 15:38:09: [rockthevote_custom.amxx] There are no maps in the addons/amxmodx/configs/maps.ini.
+L 11/11/2025 - 15:38:21: [map_manager_scheduler.amxx] [vote_finished]: nextmap is cs_assault.
+L 11/11/2025 - 15:38:32: -------- Mapchange to cs_assault --------
+L 11/11/2025 - 15:38:33: [admin.amxx] Login: "C<13><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.18")
+L 11/11/2025 - 15:38:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Tator'! Default Group Not Found!
+L 11/11/2025 - 15:38:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'The BiG SMUT'! Default Group Not Found!

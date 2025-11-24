@@ -1,0 +1,139 @@
+L 11/10/2025 - 18:53:27: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 18:53:27: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 11/10/2025 - 18:54:35: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 18:55:46: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 18:58:57: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 19:06:22: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 19:08:39: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 19:17:09: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 19:30:05: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 19:43:05: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/10/2025 - 19:43:21: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 11/10/2025 - 19:45:15: -------- Mapchange to de_airstrip --------
+L 11/10/2025 - 19:45:15: [admin.amxx] Login: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 19:46:54: [mapsmenu.amxx] Cmd: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" changelevel "cs_siege"
+L 11/10/2025 - 19:46:56: -------- Mapchange to cs_siege --------
+L 11/10/2025 - 19:46:56: [admin.amxx] Login: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:06:02: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 20:06:10: [admin.amxx] Login: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:15:07: [mapsmenu.amxx] Cmd: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" changelevel "cs_assault"
+L 11/10/2025 - 20:15:09: -------- Mapchange to cs_assault --------
+L 11/10/2025 - 20:15:10: [admin.amxx] Login: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:48:00: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/10/2025 - 20:48:00: Error:
+L 11/10/2025 - 20:48:00: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/10/2025 - 20:48:00: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 20:48:47: [admin.amxx] Login: "C<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:50:03: [admin.amxx] Login: "Cʏвer’Føχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:50:25: [admin.amxx] Login: "Ｃｙｂｅｒ’Ｆｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:50:43: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 20:52:33: [mapsmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" changelevel "cs_747"
+L 11/10/2025 - 20:52:35: -------- Mapchange to cs_747 --------
+L 11/10/2025 - 20:52:35: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:00:53: -------- Mapchange to cs_747 --------
+L 11/10/2025 - 21:00:54: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:01:09: [mapsmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" changelevel "de_dust2"
+L 11/10/2025 - 21:01:11: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 21:01:12: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:02:00: [admincmd.amxx] Kick: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" kick "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" (reason "")
+L 11/10/2025 - 21:02:03: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:02:17: [admincmd.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" slap with 1 damage "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>"
+L 11/10/2025 - 21:02:18: [admincmd.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" slap with 1 damage "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>"
+L 11/10/2025 - 21:02:18: [admincmd.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" slap with 1 damage "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>"
+L 11/10/2025 - 21:03:41: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "CT")
+L 11/10/2025 - 21:03:59: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "TERRORIST")
+L 11/10/2025 - 21:04:06: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "CT")
+L 11/10/2025 - 21:04:24: [admincmd.amxx] Cmd: "Falcon'Z Public Server<0><><>" pause server
+L 11/10/2025 - 21:04:26: [admincmd.amxx] Cmd: "Falcon'Z Public Server<0><><>" unpause server
+L 11/10/2025 - 21:10:19: [pluginmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" set cvar (name "amx_freq_imessage") (value "1")
+L 11/10/2025 - 21:11:52: [mapsmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" changelevel "de_aztec"
+L 11/10/2025 - 21:11:54: -------- Mapchange to de_aztec --------
+L 11/10/2025 - 21:11:55: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:13:45: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" say "YO"
+L 11/10/2025 - 21:14:03: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:06: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:13: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:15: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:20: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:20: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:20: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:20: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:21: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:21: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:25: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:27: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:27: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:27: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:27: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:27: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:28: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:28: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:14:29: [adminchat.amxx] Chat: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" tsay "1 YO"
+L 11/10/2025 - 21:16:38: -------- Mapchange to de_aztec --------
+L 11/10/2025 - 21:17:14: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:28:05: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/10/2025 - 21:28:05: Error:
+L 11/10/2025 - 21:28:05: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/10/2025 - 21:28:05: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 21:28:41: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<10><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:41:05: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/10/2025 - 21:41:20: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 11/10/2025 - 21:43:24: -------- Mapchange to de_airstrip --------
+L 11/10/2025 - 21:43:24: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<10><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:47:32: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<10><STEAM_0:1:97036452><>" transfer "Brandon<19><BOT><>" (team "TERRORIST")
+L 11/10/2025 - 21:49:01: [mapsmenu.amxx] Vote: "Ｃｙｂｅｒ’Fｏχ<10><STEAM_0:1:97036452><>" vote maps (map#1 "cs_assault") (map#2 "de_dust2") (map#3 "") (map#4 "")
+L 11/10/2025 - 21:49:23: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to cs_assault
+L 11/10/2025 - 21:49:25: [mapsmenu.amxx] Vote: Result accepted
+L 11/10/2025 - 21:49:27: -------- Mapchange to cs_assault --------
+L 11/10/2025 - 21:49:30: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<10><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:53:48: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/10/2025 - 21:53:48: Error:
+L 11/10/2025 - 21:53:48: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/10/2025 - 21:53:49: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 21:53:53: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 21:54:06: [mapsmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" changelevel "cs_assault"
+L 11/10/2025 - 21:54:08: -------- Mapchange to cs_assault --------
+L 11/10/2025 - 21:54:09: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:26:02: [mapsmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" changelevel "de_dust2"
+L 11/10/2025 - 22:26:04: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 22:26:04: [fakefull_original.amxx] Unable to read file "addons/amxmodx/configs/botnames.txt", it is required to load bot names from
+L 11/10/2025 - 22:26:04: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<1><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:31:02: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/10/2025 - 22:31:02: Error:
+L 11/10/2025 - 22:31:02: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/10/2025 - 22:31:02: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 22:31:02: [fakefull_original.amxx] Unable to read file "addons/amxmodx/configs/botnames.txt", it is required to load bot names from
+L 11/10/2025 - 22:31:10: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:33:08: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/10/2025 - 22:33:08: Error:
+L 11/10/2025 - 22:33:08: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/10/2025 - 22:33:08: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/10/2025 - 22:33:09: -------- Mapchange to de_dust2 --------
+L 11/10/2025 - 22:33:09: [fakefull_original.amxx] Unable to read file "addons/amxmodx/configs/botnames.txt", it is required to load bot names from
+L 11/10/2025 - 22:33:19: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:33:19: [admin_sql.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:34:41: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "SPECTATOR")
+L 11/10/2025 - 22:34:45: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "TERRORIST")
+L 11/10/2025 - 22:35:08: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "CT")
+L 11/10/2025 - 22:35:16: [plmenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" transfer "Ｃｙｂｅｒ’Fｏχ<3><STEAM_0:1:97036452><>" (team "SPECTATOR")
+L 11/10/2025 - 22:42:48: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:42:48: [admin_sql.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 22:45:25: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:45:41: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:45:50: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Smok3<6><BOT><>"
+L 11/10/2025 - 22:45:57: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:46:13: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Smok3<6><BOT><>"
+L 11/10/2025 - 22:46:13: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:46:20: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:46:22: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:46:34: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:46:36: [telemenu.amxx] Cmd: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" teleport "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>"
+L 11/10/2025 - 22:55:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/10/2025 - 22:56:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map de_dust2 will be extended to next 15 minutes
+L 11/10/2025 - 23:10:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/10/2025 - 23:11:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 11/10/2025 - 23:13:06: -------- Mapchange to de_nuke --------
+L 11/10/2025 - 23:13:09: [admin.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 23:13:09: [admin_sql.amxx] Login: "Ｃｙｂｅｒ’Fｏχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.170.155")
+L 11/10/2025 - 23:45:08: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/10/2025 - 23:45:23: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana

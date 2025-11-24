@@ -1,0 +1,53 @@
+L 11/10/2025 - 20:06:03: Log file started (file "logs\L1110026.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/10/2025 - 20:06:03: Server cvar "sv_uploadmax" = "7.77"
+L 11/10/2025 - 20:06:03: Server cvar "decalfrequency" = "3"
+L 11/10/2025 - 20:06:03: Server cvar "sv_maxrate" = "250000"
+L 11/10/2025 - 20:06:03: Server cvar "sv_minrate" = "25000"
+L 11/10/2025 - 20:06:03: Server cvar "sv_alltalk" = "1"
+L 11/10/2025 - 20:06:03: Server cvar "sv_aim" = "0"
+L 11/10/2025 - 20:06:03: Server cvar "sv_maxspeed" = "320"
+L 11/10/2025 - 20:06:03: Server cvar "mp_timelimit" = "15"
+L 11/10/2025 - 20:06:10: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" connected, address "79.235.170.155:27005"
+L 11/10/2025 - 20:06:10: World triggered "Round_Start"
+L 11/10/2025 - 20:06:11: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/10/2025 - 20:06:13: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" entered the game
+L 11/10/2025 - 20:06:14: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><>" joined team "CT"
+L 11/10/2025 - 20:08:53: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say_team "Brauche Verstaerkung!"
+L 11/10/2025 - 20:09:13: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "timeleft"
+L 11/10/2025 - 20:09:15: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "timeleft"
+L 11/10/2025 - 20:09:30: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "rtv"
+L 11/10/2025 - 20:09:34: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "rockthevote"
+L 11/10/2025 - 20:09:37: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "nextmap"
+L 11/10/2025 - 20:09:40: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "votemap"
+L 11/10/2025 - 20:09:43: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "/votemap"
+L 11/10/2025 - 20:09:51: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "/rank"
+L 11/10/2025 - 20:09:54: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" say "/skill"
+L 11/10/2025 - 20:10:47: Rcon: "rcon 1615755696 "mischung420" swapteams" from "79.235.170.155:27005"
+L 11/10/2025 - 20:10:47: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><CT>" joined team "TERRORIST" (auto)
+L 11/10/2025 - 20:10:47: Server cvar "sv_restartround" = "1"
+L 11/10/2025 - 20:10:48: World triggered "Restart_Round_(1_second)"
+L 11/10/2025 - 20:10:48: Team "CT" scored "0" with "0" players
+L 11/10/2025 - 20:10:48: Team "TERRORIST" scored "0" with "1" players
+L 11/10/2025 - 20:10:48: Server cvar "sv_restartround" = "0"
+L 11/10/2025 - 20:10:49: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/10/2025 - 20:10:55: World triggered "Round_Start"
+L 11/10/2025 - 20:11:05: Rcon: "rcon 1615755696 "mischung420" endround" from "79.235.170.155:27005"
+L 11/10/2025 - 20:11:05: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/10/2025 - 20:11:05: World triggered "Round_End"
+L 11/10/2025 - 20:11:10: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/10/2025 - 20:11:16: World triggered "Round_Start"
+L 11/10/2025 - 20:11:40: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><TERRORIST>" say "timeleft"
+L 11/10/2025 - 20:14:52: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><TERRORIST>" say "シ"
+L 11/10/2025 - 20:15:09: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/cs1.6 server/server/cstrike/addons/metamod/plugins.ini
+L 11/10/2025 - 20:15:09: [META] ini: Read plugin config for: AMX Mod X
+L 11/10/2025 - 20:15:09: [META] ini: Read plugin config for: Reunion
+L 11/10/2025 - 20:15:09: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/cs1.6 server/server/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 11/10/2025 - 20:15:09: [META] dll: Updating plugins...
+L 11/10/2025 - 20:15:09: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/10/2025 - 20:15:09: [META] dll: Rebuilding callbacks...
+L 11/10/2025 - 20:15:09: [META] dll: Callbacks rebuilded.
+L 11/10/2025 - 20:15:09: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/10/2025 - 20:15:09: "Ｃʏʙᴇʀ’Foχ.<1><STEAM_0:1:97036452><TERRORIST>" disconnected
+L 11/10/2025 - 20:15:09: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/10/2025 - 20:15:09: World triggered "Round_End"
+L 11/10/2025 - 20:15:09: Log file closed
