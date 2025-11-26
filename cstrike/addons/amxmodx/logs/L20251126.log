@@ -1,0 +1,41 @@
+L 11/26/2025 - 13:12:41: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/26/2025 - 13:12:41: Error:
+L 11/26/2025 - 13:12:41: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/26/2025 - 13:12:42: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/26/2025 - 13:12:43: -------- Mapchange to de_dust2 --------
+L 11/26/2025 - 13:12:51: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Trend'! Default Group Not Found!
+L 11/26/2025 - 13:12:52: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'xUTxJackFrost'! Default Group Not Found!
+L 11/26/2025 - 13:12:57: [admin.amxx] Login: "Cʏвer'Fσχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:13:00: [admin.amxx] Login: "Cʏвer'Fσχ<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:13:07: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:13:09: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:14:37: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_map.
+L 11/26/2025 - 13:14:47: -------- Mapchange to aim_map --------
+L 11/26/2025 - 13:14:48: [admin.amxx] Login: "Cʏвer'Fσχ<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:14:48: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:14:49: [admin.amxx] Login: "Cʏвer'Fσχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:14:50: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:14:52: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'sashkin'! Default Group Not Found!
+L 11/26/2025 - 13:14:52: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Integra'! Default Group Not Found!
+L 11/26/2025 - 13:27:10: [map_manager_scheduler.amxx] [vote_finished]: nextmap is css_nuke2x2.
+L 11/26/2025 - 13:27:21: -------- Mapchange to css_nuke2x2 --------
+L 11/26/2025 - 13:27:21: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:27:21: [admin.amxx] Login: "Cʏвer'Fσχ<7><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:27:23: [admin.amxx] Login: "Cʏвer'Fσχ<11><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:27:24: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:27:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Dimozz'! Default Group Not Found!
+L 11/26/2025 - 13:27:26: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'ochkooo'! Default Group Not Found!
+L 11/26/2025 - 13:27:50: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_ak-colt.
+L 11/26/2025 - 13:28:00: -------- Mapchange to aim_ak-colt --------
+L 11/26/2025 - 13:28:01: [admin.amxx] Login: "Cʏвer'Fσχ<11><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:28:01: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:28:02: [admin.amxx] Login: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "79.235.174.70")
+L 11/26/2025 - 13:28:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Boss'! Default Group Not Found!
+L 11/26/2025 - 13:28:05: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'voron'! Default Group Not Found!
+L 11/26/2025 - 13:28:05: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Защемили_чтоли?'! Default Group Not Found!
+L 11/26/2025 - 13:39:10: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Kak Tak !?'! Default Group Not Found!
+L 11/26/2025 - 13:39:17: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Deadmau5'! Default Group Not Found!
+L 11/26/2025 - 13:39:39: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_99.
+L 11/26/2025 - 13:39:50: -------- Mapchange to aim_99 --------
+L 11/26/2025 - 13:39:54: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Kak Tak !?'! Default Group Not Found!
+L 11/26/2025 - 13:39:54: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Deadmau5'! Default Group Not Found!

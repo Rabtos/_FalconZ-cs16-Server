@@ -292,3 +292,56 @@ L 11/24/2025 - 19:42:25: [admincmd.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<96><STEA
 L 11/24/2025 - 19:42:40: [admincmd.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<96><STEAM_0:1:97036452><>" unban "23986766"
 L 11/24/2025 - 19:42:58: [admincmd.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<96><STEAM_0:1:97036452><>" unban "23986761"
 L 11/24/2025 - 19:43:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'MishaPavlov'! Default Group Not Found!
+L 11/24/2025 - 20:01:11: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/24/2025 - 20:01:11: Error:
+L 11/24/2025 - 20:01:11: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/24/2025 - 20:01:11: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/24/2025 - 20:01:12: -------- Mapchange to de_dust2 --------
+L 11/24/2025 - 20:01:17: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/24/2025 - 20:01:17: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/24/2025 - 20:01:21: -------- Mapchange to aim_glock --------
+L 11/24/2025 - 20:01:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/24/2025 - 20:01:25: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/24/2025 - 20:01:27: [admin.amxx] Login: ".Ｃʏʙᴇʀ’Ｆｏχ<5><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "84.159.156.244")
+L 11/24/2025 - 20:01:29: [admin.amxx] Login: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "84.159.156.244")
+L 11/24/2025 - 20:01:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 's|<1LL3D'! Default Group Not Found!
+L 11/24/2025 - 20:01:36: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 's|<1LL3D'! Default Group Not Found!
+L 11/24/2025 - 20:08:11: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:12: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:12: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:12: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:12: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:12: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:13: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:14: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:14: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:15: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:15: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:15: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:15: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:16: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:17: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:17: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:17: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:18: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage "s|<1LL3D<8><STEAM_0:1:23986766><>"
+L 11/24/2025 - 20:08:21: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:22: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:22: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:22: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:22: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:23: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:23: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:08:23: [plmenu.amxx] Cmd: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" slap with 0 damage ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>"
+L 11/24/2025 - 20:12:20: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '! FireStrike | [ sGMMa ]'! Default Group Not Found!
+L 11/24/2025 - 20:12:23: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '! FireStrike | [ sGMMa ]'! Default Group Not Found!
+L 11/24/2025 - 20:18:00: [map_manager_scheduler.amxx] [checktime]: start vote, timeleft 59
+L 11/24/2025 - 20:18:14: [map_manager_scheduler.amxx] [vote_finished]: nextmap is cs_17b_assault.
+L 11/24/2025 - 20:18:24: -------- Mapchange to cs_17b_assault --------
+L 11/24/2025 - 20:18:26: [admin.amxx] Login: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "84.159.156.244")
+L 11/24/2025 - 20:18:26: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 's|<1LL3D'! Default Group Not Found!
+L 11/24/2025 - 20:18:28: [admin.amxx] Login: ".Ｃʏʙᴇʀ’Ｆｏχ<11><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "84.159.156.244")
+L 11/24/2025 - 20:18:29: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 's|<1LL3D'! Default Group Not Found!
+L 11/24/2025 - 20:18:29: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Dave'! Default Group Not Found!
+L 11/24/2025 - 20:18:30: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'BigMann'! Default Group Not Found!
+L 11/24/2025 - 20:23:43: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'pillman'! Default Group Not Found!
+L 11/24/2025 - 20:24:55: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'John Dorian'! Default Group Not Found!

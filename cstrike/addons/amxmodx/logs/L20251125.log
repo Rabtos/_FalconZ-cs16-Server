@@ -1,0 +1,181 @@
+L 11/25/2025 - 19:16:53: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/25/2025 - 19:16:53: Error:
+L 11/25/2025 - 19:16:53: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/25/2025 - 19:16:53: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/25/2025 - 19:16:54: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 19:17:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/25/2025 - 19:17:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 19:31:13: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'роги'! Default Group Not Found!
+L 11/25/2025 - 19:39:13: [map_manager_scheduler.amxx] map changed to default[de_dust2]
+L 11/25/2025 - 19:39:23: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 19:39:28: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/25/2025 - 19:39:28: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'роги'! Default Group Not Found!
+L 11/25/2025 - 21:54:46: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/25/2025 - 21:54:46: Error:
+L 11/25/2025 - 21:54:46: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/25/2025 - 21:54:47: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/25/2025 - 21:54:48: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 21:54:56: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'psix'! Default Group Not Found!
+L 11/25/2025 - 21:54:57: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'venchik'! Default Group Not Found!
+L 11/25/2025 - 21:58:33: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'N1Ke'! Default Group Not Found!
+L 11/25/2025 - 22:01:17: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Екатерина'! Default Group Not Found!
+L 11/25/2025 - 22:06:33: [map_manager_scheduler.amxx] map changed to default[de_dust2]
+L 11/25/2025 - 22:06:43: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 22:06:47: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'psix'! Default Group Not Found!
+L 11/25/2025 - 22:06:48: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Екатерина'! Default Group Not Found!
+L 11/25/2025 - 22:13:18: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'WonderWorker'! Default Group Not Found!
+L 11/25/2025 - 22:18:44: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '47region'! Default Group Not Found!
+L 11/25/2025 - 22:21:18: [map_manager_scheduler.amxx] map changed to default[de_dust2]
+L 11/25/2025 - 22:21:28: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 22:21:32: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'WonderWorker'! Default Group Not Found!
+L 11/25/2025 - 22:21:32: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '47region'! Default Group Not Found!
+L 11/25/2025 - 22:24:06: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'AtoM'! Default Group Not Found!
+L 11/25/2025 - 22:29:08: [admin.amxx] Login: "Cʏвer'Fσχ<12><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:29:30: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Frants.Ionnikov'! Default Group Not Found!
+L 11/25/2025 - 22:30:11: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_map.
+L 11/25/2025 - 22:30:21: -------- Mapchange to aim_map --------
+L 11/25/2025 - 22:30:22: [admin.amxx] Login: "Cʏвer'Fσχ<12><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:30:25: [admin.amxx] Login: "Cʏвer'Fσχ<14><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:30:26: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Frants.Ionnikov'! Default Group Not Found!
+L 11/25/2025 - 22:30:26: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'alexs555'! Default Group Not Found!
+L 11/25/2025 - 22:30:59: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Pato#7'! Default Group Not Found!
+L 11/25/2025 - 22:31:00: [admin.amxx] Login: "Cʏвer'Fσχ<18><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:31:02: [admin.amxx] Login: "Cʏвer'Fσχ<19><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:31:39: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Pato＃7'! Default Group Not Found!
+L 11/25/2025 - 22:31:39: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'MINIVVky'! Default Group Not Found!
+L 11/25/2025 - 22:31:40: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'zanybil'! Default Group Not Found!
+L 11/25/2025 - 22:32:32: [admin.amxx] Login: "Cʏвer'Fσχ<23><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:32:33: [admin.amxx] Login: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:46:05: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/25/2025 - 22:46:05: Error:
+L 11/25/2025 - 22:46:05: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/25/2025 - 22:46:06: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/25/2025 - 22:46:06: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 22:46:11: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/25/2025 - 22:46:12: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 22:46:23: [admin.amxx] Login: "Cʏвer'Fσχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:46:24: [admin.amxx] Login: "Cʏвer'Fσχ<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:46:49: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_calendar.
+L 11/25/2025 - 22:46:59: -------- Mapchange to de_calendar --------
+L 11/25/2025 - 22:47:00: [admin.amxx] Login: "Cʏвer'Fσχ<4><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:47:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 22:47:04: [admin.amxx] Login: "Cʏвer'Fσχ<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:47:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '_FUNNY_FtX'! Default Group Not Found!
+L 11/25/2025 - 22:47:47: [AMXX] Module "cstrike\addons\amxmodx\modules\refreelook_amxx.dll" (version "1.8") returned an invalid code.
+L 11/25/2025 - 22:47:47: Error:
+L 11/25/2025 - 22:47:47: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\refreelook_amxx.dll")
+L 11/25/2025 - 22:47:47: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 11/25/2025 - 22:47:47: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 22:47:53: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/25/2025 - 22:47:53: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 22:47:59: [admin.amxx] Login: "Cʏвer'Fσχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:49:05: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 22:49:05: [admin.amxx] Login: "Cʏвer'Fσχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:49:09: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 22:49:09: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Hegdehog'! Default Group Not Found!
+L 11/25/2025 - 22:49:29: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_00.
+L 11/25/2025 - 22:49:40: -------- Mapchange to aim_00 --------
+L 11/25/2025 - 22:49:40: [admin.amxx] Login: "Cʏвer'Fσχ<3><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:49:43: [admin.amxx] Login: "Cʏвer'Fσχ<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:49:44: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 22:49:44: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Chris'! Default Group Not Found!
+L 11/25/2025 - 22:50:30: -------- Mapchange to aim_00 --------
+L 11/25/2025 - 22:50:30: [admin.amxx] Login: "Cʏвer'Fσχ<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:50:34: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'odothesed'! Default Group Not Found!
+L 11/25/2025 - 22:50:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Wulkan'! Default Group Not Found!
+L 11/25/2025 - 22:54:32: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_bretonia_2013.
+L 11/25/2025 - 22:54:42: -------- Mapchange to de_bretonia_2013 --------
+L 11/25/2025 - 22:54:43: [admin.amxx] Login: "Cʏвer'Fσχ<6><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:54:45: [admin.amxx] Login: "Cʏвer'Fσχ<11><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 22:54:50: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'smile'! Default Group Not Found!
+L 11/25/2025 - 22:54:51: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Colt'! Default Group Not Found!
+L 11/25/2025 - 22:54:51: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '-ultima-'! Default Group Not Found!
+L 11/25/2025 - 22:54:51: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Brennad Heart'! Default Group Not Found!
+L 11/25/2025 - 22:54:52: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'iKE'! Default Group Not Found!
+L 11/25/2025 - 22:54:52: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'R1zZ0'! Default Group Not Found!
+L 11/25/2025 - 22:54:53: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '8|@@d$h@t'! Default Group Not Found!
+L 11/25/2025 - 22:54:53: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'xXx'! Default Group Not Found!
+L 11/25/2025 - 22:54:53: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'kaosbob'! Default Group Not Found!
+L 11/25/2025 - 22:58:58: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Snip'! Default Group Not Found!
+L 11/25/2025 - 23:03:00: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'pik4z0r'! Default Group Not Found!
+L 11/25/2025 - 23:04:52: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Watambboamy'! Default Group Not Found!
+L 11/25/2025 - 23:09:02: [map_manager_scheduler.amxx] [checktime]: start vote, timeleft 52
+L 11/25/2025 - 23:09:23: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_rooms.
+L 11/25/2025 - 23:09:33: -------- Mapchange to aim_rooms --------
+L 11/25/2025 - 23:09:34: [admin.amxx] Login: "Cʏвer'Fσχ<11><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:09:35: [admin.amxx] Login: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:09:38: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'DI@BLO'! Default Group Not Found!
+L 11/25/2025 - 23:09:38: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'EssenceRec'! Default Group Not Found!
+L 11/25/2025 - 23:09:39: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:09:39: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'l l l A M A'! Default Group Not Found!
+L 11/25/2025 - 23:09:40: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'nov.Caut^vamp!rka'! Default Group Not Found!
+L 11/25/2025 - 23:09:40: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Misha'! Default Group Not Found!
+L 11/25/2025 - 23:09:40: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'AzLexx'! Default Group Not Found!
+L 11/25/2025 - 23:09:41: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'саша'! Default Group Not Found!
+L 11/25/2025 - 23:10:01: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:10:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Jam'! Default Group Not Found!
+L 11/25/2025 - 23:10:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'ch1kan'! Default Group Not Found!
+L 11/25/2025 - 23:10:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'venchik'! Default Group Not Found!
+L 11/25/2025 - 23:10:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'NAMREG-GM'! Default Group Not Found!
+L 11/25/2025 - 23:10:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Danger'! Default Group Not Found!
+L 11/25/2025 - 23:10:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Brennad Heart'! Default Group Not Found!
+L 11/25/2025 - 23:10:04: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Bonebreaker'! Default Group Not Found!
+L 11/25/2025 - 23:10:05: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Dmitriy.Gukov'! Default Group Not Found!
+L 11/25/2025 - 23:10:05: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'BHSbballer15'! Default Group Not Found!
+L 11/25/2025 - 23:10:23: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:10:23: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Jam'! Default Group Not Found!
+L 11/25/2025 - 23:10:23: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Bonebreaker'! Default Group Not Found!
+L 11/25/2025 - 23:11:08: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_dust2.
+L 11/25/2025 - 23:11:18: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 23:11:18: [admin.amxx] Login: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:11:22: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:11:22: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Jam'! Default Group Not Found!
+L 11/25/2025 - 23:11:33: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'NecroSkin'! Default Group Not Found!
+L 11/25/2025 - 23:11:34: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'sEmkA'! Default Group Not Found!
+L 11/25/2025 - 23:11:34: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'VATAMAN'! Default Group Not Found!
+L 11/25/2025 - 23:11:34: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'drch 2ea.follen'! Default Group Not Found!
+L 11/25/2025 - 23:11:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'The BiG SMUT'! Default Group Not Found!
+L 11/25/2025 - 23:11:35: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'SerraineSmida'! Default Group Not Found!
+L 11/25/2025 - 23:11:36: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'b0isya22vosem''! Default Group Not Found!
+L 11/25/2025 - 23:11:36: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Bland'! Default Group Not Found!
+L 11/25/2025 - 23:11:36: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Gosu'! Default Group Not Found!
+L 11/25/2025 - 23:11:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'VoloV'! Default Group Not Found!
+L 11/25/2025 - 23:11:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'caianic'! Default Group Not Found!
+L 11/25/2025 - 23:11:38: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'stathyobtaino'! Default Group Not Found!
+L 11/25/2025 - 23:11:38: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'P0D0N0K'! Default Group Not Found!
+L 11/25/2025 - 23:11:38: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Fat Matt'! Default Group Not Found!
+L 11/25/2025 - 23:11:39: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'sanek'! Default Group Not Found!
+L 11/25/2025 - 23:11:40: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'i_love_u'! Default Group Not Found!
+L 11/25/2025 - 23:11:40: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'N4K3d2h'! Default Group Not Found!
+L 11/25/2025 - 23:11:41: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Amati1'! Default Group Not Found!
+L 11/25/2025 - 23:11:41: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '-|NoS|-'! Default Group Not Found!
+L 11/25/2025 - 23:11:41: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'GambiT'! Default Group Not Found!
+L 11/25/2025 - 23:11:42: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Gu1de'! Default Group Not Found!
+L 11/25/2025 - 23:11:42: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User '4bone'! Default Group Not Found!
+L 11/25/2025 - 23:12:01: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'achtung'! Default Group Not Found!
+L 11/25/2025 - 23:12:01: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'Milan'! Default Group Not Found!
+L 11/25/2025 - 23:12:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'stroikaru'! Default Group Not Found!
+L 11/25/2025 - 23:12:02: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'gena2077'! Default Group Not Found!
+L 11/25/2025 - 23:13:22: [map_manager_scheduler.amxx] [vote_finished]: nextmap is aim_headshot.
+L 11/25/2025 - 23:13:32: -------- Mapchange to aim_headshot --------
+L 11/25/2025 - 23:13:33: [admin.amxx] Login: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:13:34: [admin.amxx] Login: "Cʏвer'Fσχ<74><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:13:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:13:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'sEmkA'! Default Group Not Found!
+L 11/25/2025 - 23:14:22: [map_manager_scheduler.amxx] [vote_finished]: nextmap is de_panettone.
+L 11/25/2025 - 23:14:32: -------- Mapchange to de_panettone --------
+L 11/25/2025 - 23:14:33: [admin.amxx] Login: "Cʏвer'Fσχ<74><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:14:35: [admin.amxx] Login: "Cʏвer'Fσχ<77><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:14:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:14:37: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'pik4z0r'! Default Group Not Found!
+L 11/25/2025 - 23:17:40: -------- Mapchange to de_panettone --------
+L 11/25/2025 - 23:17:41: [admin.amxx] Login: "Cʏвer'Fσχ<77><STEAM_0:1:97036452><>" became an admin (account "STEAM_0:1:97036452") (access "abcdefghijklmnopqrstuv") (address "87.146.21.23")
+L 11/25/2025 - 23:17:45: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'fanual'! Default Group Not Found!
+L 11/25/2025 - 23:17:45: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'waeldreegia'! Default Group Not Found!
+L 11/25/2025 - 23:22:03: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'ChRoNo'! Default Group Not Found!
+L 11/25/2025 - 23:26:18: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'zver'! Default Group Not Found!
+L 11/25/2025 - 23:29:41: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'adurrykal'! Default Group Not Found!
+L 11/25/2025 - 23:30:02: [map_manager_scheduler.amxx] map changed to default[de_dust2]
+L 11/25/2025 - 23:30:13: -------- Mapchange to de_dust2 --------
+L 11/25/2025 - 23:30:17: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'adurrykal'! Default Group Not Found!
+L 11/25/2025 - 23:30:17: [uaio_admin.amxx] [AMXX] UAIO (Admin Menu) Error: No Group For User 'zver'! Default Group Not Found!

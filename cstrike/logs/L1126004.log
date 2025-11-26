@@ -1,0 +1,514 @@
+L 11/26/2025 - 13:28:00: Log file started (file "logs\L1126004.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/26/2025 - 13:28:00: Loading map "aim_ak-colt"
+L 11/26/2025 - 13:28:00: Server cvars start
+L 11/26/2025 - 13:28:00: Server cvar "allow_spectators" = "1.0"
+L 11/26/2025 - 13:28:00: Server cvar "amx_client_languages" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "amx_language" = "en"
+L 11/26/2025 - 13:28:00: Server cvar "amx_nextmap" = "aim_ak-colt"
+L 11/26/2025 - 13:28:00: Server cvar "amxmodx_version" = "1.9.0.5294"
+L 11/26/2025 - 13:28:00: Server cvar "coop" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "deathmatch" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "decalfrequency" = "3"
+L 11/26/2025 - 13:28:00: Server cvar "edgefriction" = "2"
+L 11/26/2025 - 13:28:00: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 11/26/2025 - 13:28:00: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 11/26/2025 - 13:28:00: Server cvar "ff_damage_reduction_grenade_self" = "1.0"
+L 11/26/2025 - 13:28:00: Server cvar "ff_damage_reduction_other" = "0.35"
+L 11/26/2025 - 13:28:00: Server cvar "game_version" = "5.28.0.756-dev"
+L 11/26/2025 - 13:28:00: Server cvar "hbf_debug" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "hbf_enabled" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "humans_join_team" = "any"
+L 11/26/2025 - 13:28:00: Server cvar "jtp10181" = "gore,wa"
+L 11/26/2025 - 13:28:00: Server cvar "mapm_admin_menu_delay" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mapm_admin_menu_maplist" = "maps.ini"
+L 11/26/2025 - 13:28:00: Server cvar "mapm_version" = "3.3.1"
+L 11/26/2025 - 13:28:00: Server cvar "max_queries_sec" = "3.0"
+L 11/26/2025 - 13:28:00: Server cvar "max_queries_sec_global" = "30"
+L 11/26/2025 - 13:28:00: Server cvar "max_queries_window" = "60"
+L 11/26/2025 - 13:28:00: Server cvar "metamod_version" = "1.3.0.149"
+L 11/26/2025 - 13:28:00: Server cvar "mp_afk_bomb_drop_time" = "15"
+L 11/26/2025 - 13:28:00: Server cvar "mp_ammo_respawn_time" = "20"
+L 11/26/2025 - 13:28:00: Server cvar "mp_autokick" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_autokick_timeout" = "-1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_autoteambalance" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_buy_anywhere" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_buytime" = "1.5"
+L 11/26/2025 - 13:28:00: Server cvar "mp_c4timer" = "45"
+L 11/26/2025 - 13:28:00: Server cvar "mp_chattime" = "10.000000"
+L 11/26/2025 - 13:28:00: Server cvar "mp_consistency" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_fadetoblack" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_falldamage" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_flashlight" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_footsteps" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_forcecamera" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_forcechasecam" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_forcerespawn" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_fraglimit" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_fragsleft" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_freeforall" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_freezetime" = "0.5"
+L 11/26/2025 - 13:28:00: Server cvar "mp_friendlyfire" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_give_player_c4" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_hostage_hurtable" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_hostagepenalty" = "13"
+L 11/26/2025 - 13:28:00: Server cvar "mp_infinite_ammo" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_infinite_grenades" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_item_respawn_time" = "30"
+L 11/26/2025 - 13:28:00: Server cvar "mp_item_staytime" = "300"
+L 11/26/2025 - 13:28:00: Server cvar "mp_kickpercent" = "0.66"
+L 11/26/2025 - 13:28:00: Server cvar "mp_limitteams" = "2"
+L 11/26/2025 - 13:28:00: Server cvar "mp_logdetail" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_logfile" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_logmessages" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_mapvoteratio" = "0.66"
+L 11/26/2025 - 13:28:00: Server cvar "mp_maxmoney" = "32000"
+L 11/26/2025 - 13:28:00: Server cvar "mp_maxrounds" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_playerid" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_radio_maxinround" = "60"
+L 11/26/2025 - 13:28:00: Server cvar "mp_radio_timeout" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_respawn_immunity_effects" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_respawn_immunity_force_unset" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_respawn_immunitytime" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_round_infinite" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_round_restart_delay" = "3"
+L 11/26/2025 - 13:28:00: Server cvar "mp_roundover" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_roundtime" = "2"
+L 11/26/2025 - 13:28:00: Server cvar "mp_scoreboard_showdefkit" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_scoreboard_showhealth" = "5"
+L 11/26/2025 - 13:28:00: Server cvar "mp_scoreboard_showmoney" = "5"
+L 11/26/2025 - 13:28:00: Server cvar "mp_show_scenarioicon" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_startmoney" = "800"
+L 11/26/2025 - 13:28:00: Server cvar "mp_timeleft" = "14:28"
+L 11/26/2025 - 13:28:00: Server cvar "mp_timelimit" = "15"
+L 11/26/2025 - 13:28:00: Server cvar "mp_tkpunish" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "mp_weapon_respawn_time" = "20"
+L 11/26/2025 - 13:28:00: Server cvar "mp_weapons_allow_map_placed" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_windifference" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "mp_winlimit" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "pausable" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "resemiclip_version" = "2.4.3"
+L 11/26/2025 - 13:28:00: Server cvar "sv_accelerate" = "5"
+L 11/26/2025 - 13:28:00: Server cvar "sv_aim" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "sv_airaccelerate" = "10"
+L 11/26/2025 - 13:28:00: Server cvar "sv_allow_autoaim" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_allowupload" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_alltalk" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_bounce" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_cheats" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "sv_clienttrace" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_contact" = ""
+L 11/26/2025 - 13:28:00: Server cvar "sv_friction" = "4"
+L 11/26/2025 - 13:28:00: Server cvar "sv_gravity" = "800"
+L 11/26/2025 - 13:28:00: Server cvar "sv_logblocks" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "sv_maxrate" = "250000"
+L 11/26/2025 - 13:28:00: Server cvar "sv_maxspeed" = "900"
+L 11/26/2025 - 13:28:00: Server cvar "sv_minrate" = "25000"
+L 11/26/2025 - 13:28:00: Server cvar "sv_password" = ""
+L 11/26/2025 - 13:28:00: Server cvar "sv_proxies" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_restart" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "sv_restartround" = "0"
+L 11/26/2025 - 13:28:00: Server cvar "sv_stepsize" = "18"
+L 11/26/2025 - 13:28:00: Server cvar "sv_stopspeed" = "75"
+L 11/26/2025 - 13:28:00: Server cvar "sv_uploadmax" = "7.77"
+L 11/26/2025 - 13:28:00: Server cvar "sv_version" = "1.1.2.7/Stdio,48,4002"
+L 11/26/2025 - 13:28:00: Server cvar "sv_voiceenable" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "sv_wateraccelerate" = "10"
+L 11/26/2025 - 13:28:00: Server cvar "sv_waterfriction" = "1"
+L 11/26/2025 - 13:28:00: Server cvar "UAIO (Admin Menu)" = "1.50"
+L 11/26/2025 - 13:28:00: Server cvar "weaponarena_version" = "2.0.4"
+L 11/26/2025 - 13:28:00: Server cvar "yb_version" = "4.4.957"
+L 11/26/2025 - 13:28:00: Server cvars end
+L 11/26/2025 - 13:28:00: Server cvar "mp_timelimit" = "20"
+L 11/26/2025 - 13:28:00: Server cvar "sv_maxspeed" = "320"
+L 11/26/2025 - 13:28:00: Server cvar "mp_timelimit" = "15"
+L 11/26/2025 - 13:28:00: Server cvar "sv_maxspeed" = "900"
+L 11/26/2025 - 13:28:00: Server cvar "amx_nextmap" = "aim_ak-colt_pool"
+L 11/26/2025 - 13:28:01: Started map "aim_ak-colt" (CRC "-1819010972")
+L 11/26/2025 - 13:28:02: World triggered "Round_Start"
+L 11/26/2025 - 13:28:02: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><>" connected, address "79.235.174.70:27005"
+L 11/26/2025 - 13:28:02: "Boss<16><STEAM_0:1:33668689><>" connected, address "2.206.23.209:27005"
+L 11/26/2025 - 13:28:02: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/26/2025 - 13:28:02: "Boss<16><STEAM_0:1:33668689><>" STEAM USERID validated
+L 11/26/2025 - 13:28:04: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><>" entered the game
+L 11/26/2025 - 13:28:04: "Boss<16><STEAM_0:1:33668689><>" entered the game
+L 11/26/2025 - 13:28:05: "voron<17><STEAM_0:1:6941696><>" entered the game
+L 11/26/2025 - 13:28:05: "voron<17><STEAM_0:1:6941696><>" joined team "TERRORIST"
+L 11/26/2025 - 13:28:05: "Защемили_чтоли?<18><STEAM_0:1:1756672><>" entered the game
+L 11/26/2025 - 13:28:05: "Защемили_чтоли?<18><STEAM_0:1:1756672><>" joined team "CT"
+L 11/26/2025 - 13:28:05: World triggered "Game_Commencing"
+L 11/26/2025 - 13:28:05: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/26/2025 - 13:28:05: World triggered "Round_End"
+L 11/26/2025 - 13:28:06: "Boss<16><STEAM_0:1:33668689><>" joined team "CT"
+L 11/26/2025 - 13:28:06: Kick: "Защемили_чтоли?<18><STEAM_0:1:3><>" was kicked by "Console"
+L 11/26/2025 - 13:28:06: "Защемили_чтоли?<18><BOT><CT>" disconnected
+L 11/26/2025 - 13:28:08: World triggered "Round_Start"
+L 11/26/2025 - 13:28:09: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><>" joined team "TERRORIST"
+L 11/26/2025 - 13:28:10: Kick: "voron<17><STEAM_0:0:3><>" was kicked by "Console"
+L 11/26/2025 - 13:28:10: "voron<17><BOT><TERRORIST>" disconnected
+L 11/26/2025 - 13:28:10: World triggered "Game_Commencing"
+L 11/26/2025 - 13:28:10: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/26/2025 - 13:28:10: World triggered "Round_End"
+L 11/26/2025 - 13:28:12: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:28:13: World triggered "Round_Start"
+L 11/26/2025 - 13:28:18: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:28:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/26/2025 - 13:28:18: World triggered "Round_End"
+L 11/26/2025 - 13:28:21: World triggered "Round_Start"
+L 11/26/2025 - 13:28:31: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:28:31: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 11/26/2025 - 13:28:31: World triggered "Round_End"
+L 11/26/2025 - 13:28:34: World triggered "Round_Start"
+L 11/26/2025 - 13:28:42: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:28:42: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 11/26/2025 - 13:28:42: World triggered "Round_End"
+L 11/26/2025 - 13:28:45: World triggered "Round_Start"
+L 11/26/2025 - 13:28:52: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:28:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 11/26/2025 - 13:28:52: World triggered "Round_End"
+L 11/26/2025 - 13:28:55: World triggered "Round_Start"
+L 11/26/2025 - 13:28:59: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:28:59: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 11/26/2025 - 13:28:59: World triggered "Round_End"
+L 11/26/2025 - 13:29:02: World triggered "Round_Start"
+L 11/26/2025 - 13:29:06: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:29:06: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 11/26/2025 - 13:29:06: World triggered "Round_End"
+L 11/26/2025 - 13:29:09: World triggered "Round_Start"
+L 11/26/2025 - 13:29:15: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:29:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 11/26/2025 - 13:29:15: World triggered "Round_End"
+L 11/26/2025 - 13:29:18: World triggered "Round_Start"
+L 11/26/2025 - 13:29:21: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:29:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 11/26/2025 - 13:29:21: World triggered "Round_End"
+L 11/26/2025 - 13:29:24: World triggered "Round_Start"
+L 11/26/2025 - 13:29:26: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:29:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 11/26/2025 - 13:29:26: World triggered "Round_End"
+L 11/26/2025 - 13:29:29: World triggered "Round_Start"
+L 11/26/2025 - 13:29:33: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:29:33: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 11/26/2025 - 13:29:33: World triggered "Round_End"
+L 11/26/2025 - 13:29:36: World triggered "Round_Start"
+L 11/26/2025 - 13:29:41: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:29:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 11/26/2025 - 13:29:41: World triggered "Round_End"
+L 11/26/2025 - 13:29:44: World triggered "Round_Start"
+L 11/26/2025 - 13:29:47: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:29:47: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 11/26/2025 - 13:29:47: World triggered "Round_End"
+L 11/26/2025 - 13:29:50: World triggered "Round_Start"
+L 11/26/2025 - 13:29:59: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:29:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "7")
+L 11/26/2025 - 13:29:59: World triggered "Round_End"
+L 11/26/2025 - 13:30:02: World triggered "Round_Start"
+L 11/26/2025 - 13:30:07: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:30:07: Team "CT" triggered "CTs_Win" (CT "7") (T "7")
+L 11/26/2025 - 13:30:07: World triggered "Round_End"
+L 11/26/2025 - 13:30:10: World triggered "Round_Start"
+L 11/26/2025 - 13:30:13: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:30:13: Team "CT" triggered "CTs_Win" (CT "8") (T "7")
+L 11/26/2025 - 13:30:13: World triggered "Round_End"
+L 11/26/2025 - 13:30:16: World triggered "Round_Start"
+L 11/26/2025 - 13:30:23: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:30:23: Team "CT" triggered "CTs_Win" (CT "9") (T "7")
+L 11/26/2025 - 13:30:23: World triggered "Round_End"
+L 11/26/2025 - 13:30:26: World triggered "Round_Start"
+L 11/26/2025 - 13:30:29: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:30:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "8")
+L 11/26/2025 - 13:30:29: World triggered "Round_End"
+L 11/26/2025 - 13:30:32: World triggered "Round_Start"
+L 11/26/2025 - 13:30:37: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:30:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "9")
+L 11/26/2025 - 13:30:37: World triggered "Round_End"
+L 11/26/2025 - 13:30:40: World triggered "Round_Start"
+L 11/26/2025 - 13:30:46: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:30:46: Team "CT" triggered "CTs_Win" (CT "10") (T "9")
+L 11/26/2025 - 13:30:46: World triggered "Round_End"
+L 11/26/2025 - 13:30:50: World triggered "Round_Start"
+L 11/26/2025 - 13:30:54: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:30:54: Team "CT" triggered "CTs_Win" (CT "11") (T "9")
+L 11/26/2025 - 13:30:54: World triggered "Round_End"
+L 11/26/2025 - 13:30:58: World triggered "Round_Start"
+L 11/26/2025 - 13:31:00: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" committed suicide with "world"
+L 11/26/2025 - 13:31:00: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" joined team "CT"
+L 11/26/2025 - 13:31:07: "Boss<16><STEAM_0:1:33668689><CT>" committed suicide with "world"
+L 11/26/2025 - 13:31:07: World triggered "Round_Draw" (CT "11") (T "9")
+L 11/26/2025 - 13:31:07: World triggered "Round_End"
+L 11/26/2025 - 13:31:07: "Boss<16><STEAM_0:1:33668689><CT>" joined team "TERRORIST"
+L 11/26/2025 - 13:31:10: World triggered "Round_Start"
+L 11/26/2025 - 13:31:14: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:31:14: World triggered "Game_Commencing"
+L 11/26/2025 - 13:31:14: World triggered "Game_Commencing" (CT "11") (T "9")
+L 11/26/2025 - 13:31:14: World triggered "Round_End"
+L 11/26/2025 - 13:31:17: World triggered "Round_Start"
+L 11/26/2025 - 13:31:22: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:31:22: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/26/2025 - 13:31:22: World triggered "Round_End"
+L 11/26/2025 - 13:31:25: World triggered "Round_Start"
+L 11/26/2025 - 13:31:29: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:31:29: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 11/26/2025 - 13:31:29: World triggered "Round_End"
+L 11/26/2025 - 13:31:32: World triggered "Round_Start"
+L 11/26/2025 - 13:31:40: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:31:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 11/26/2025 - 13:31:40: World triggered "Round_End"
+L 11/26/2025 - 13:31:43: World triggered "Round_Start"
+L 11/26/2025 - 13:31:46: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:31:46: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 11/26/2025 - 13:31:46: World triggered "Round_End"
+L 11/26/2025 - 13:31:49: World triggered "Round_Start"
+L 11/26/2025 - 13:31:57: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:31:57: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 11/26/2025 - 13:31:57: World triggered "Round_End"
+L 11/26/2025 - 13:32:00: World triggered "Round_Start"
+L 11/26/2025 - 13:32:08: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:32:08: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 11/26/2025 - 13:32:08: World triggered "Round_End"
+L 11/26/2025 - 13:32:11: World triggered "Round_Start"
+L 11/26/2025 - 13:32:15: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:32:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 11/26/2025 - 13:32:15: World triggered "Round_End"
+L 11/26/2025 - 13:32:18: World triggered "Round_Start"
+L 11/26/2025 - 13:32:27: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:32:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 11/26/2025 - 13:32:27: World triggered "Round_End"
+L 11/26/2025 - 13:32:30: World triggered "Round_Start"
+L 11/26/2025 - 13:32:34: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:32:34: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 11/26/2025 - 13:32:34: World triggered "Round_End"
+L 11/26/2025 - 13:32:37: World triggered "Round_Start"
+L 11/26/2025 - 13:32:43: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:32:43: Team "CT" triggered "CTs_Win" (CT "7") (T "3")
+L 11/26/2025 - 13:32:43: World triggered "Round_End"
+L 11/26/2025 - 13:32:46: World triggered "Round_Start"
+L 11/26/2025 - 13:32:48: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:32:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "4")
+L 11/26/2025 - 13:32:48: World triggered "Round_End"
+L 11/26/2025 - 13:32:50: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" say "H e a d s h o T" (dead)
+L 11/26/2025 - 13:32:51: World triggered "Round_Start"
+L 11/26/2025 - 13:32:58: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:32:58: Team "CT" triggered "CTs_Win" (CT "8") (T "4")
+L 11/26/2025 - 13:32:58: World triggered "Round_End"
+L 11/26/2025 - 13:33:02: World triggered "Round_Start"
+L 11/26/2025 - 13:33:05: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:33:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "5")
+L 11/26/2025 - 13:33:05: World triggered "Round_End"
+L 11/26/2025 - 13:33:08: World triggered "Round_Start"
+L 11/26/2025 - 13:33:12: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:33:12: Team "CT" triggered "CTs_Win" (CT "9") (T "5")
+L 11/26/2025 - 13:33:12: World triggered "Round_End"
+L 11/26/2025 - 13:33:15: World triggered "Round_Start"
+L 11/26/2025 - 13:33:19: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:33:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "6")
+L 11/26/2025 - 13:33:19: World triggered "Round_End"
+L 11/26/2025 - 13:33:22: World triggered "Round_Start"
+L 11/26/2025 - 13:33:26: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:33:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "7")
+L 11/26/2025 - 13:33:26: World triggered "Round_End"
+L 11/26/2025 - 13:33:29: World triggered "Round_Start"
+L 11/26/2025 - 13:33:34: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:33:34: Team "CT" triggered "CTs_Win" (CT "10") (T "7")
+L 11/26/2025 - 13:33:34: World triggered "Round_End"
+L 11/26/2025 - 13:33:37: World triggered "Round_Start"
+L 11/26/2025 - 13:33:58: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" committed suicide with "world"
+L 11/26/2025 - 13:33:58: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" joined team "TERRORIST"
+L 11/26/2025 - 13:34:00: "Boss<16><STEAM_0:1:33668689><TERRORIST>" committed suicide with "world"
+L 11/26/2025 - 13:34:00: World triggered "Round_Draw" (CT "10") (T "7")
+L 11/26/2025 - 13:34:00: World triggered "Round_End"
+L 11/26/2025 - 13:34:00: "Boss<16><STEAM_0:1:33668689><TERRORIST>" joined team "CT"
+L 11/26/2025 - 13:34:03: World triggered "Round_Start"
+L 11/26/2025 - 13:34:07: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:34:07: World triggered "Game_Commencing"
+L 11/26/2025 - 13:34:07: World triggered "Game_Commencing" (CT "10") (T "7")
+L 11/26/2025 - 13:34:07: World triggered "Round_End"
+L 11/26/2025 - 13:34:10: World triggered "Round_Start"
+L 11/26/2025 - 13:34:14: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:34:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/26/2025 - 13:34:14: World triggered "Round_End"
+L 11/26/2025 - 13:34:17: World triggered "Round_Start"
+L 11/26/2025 - 13:34:24: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:34:24: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 11/26/2025 - 13:34:24: World triggered "Round_End"
+L 11/26/2025 - 13:34:27: World triggered "Round_Start"
+L 11/26/2025 - 13:34:33: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:34:33: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 11/26/2025 - 13:34:33: World triggered "Round_End"
+L 11/26/2025 - 13:34:36: World triggered "Round_Start"
+L 11/26/2025 - 13:34:42: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:34:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 11/26/2025 - 13:34:42: World triggered "Round_End"
+L 11/26/2025 - 13:34:45: World triggered "Round_Start"
+L 11/26/2025 - 13:34:47: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:34:47: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 11/26/2025 - 13:34:47: World triggered "Round_End"
+L 11/26/2025 - 13:34:50: World triggered "Round_Start"
+L 11/26/2025 - 13:34:54: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:34:54: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 11/26/2025 - 13:34:54: World triggered "Round_End"
+L 11/26/2025 - 13:34:57: World triggered "Round_Start"
+L 11/26/2025 - 13:35:01: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:35:01: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 11/26/2025 - 13:35:01: World triggered "Round_End"
+L 11/26/2025 - 13:35:04: World triggered "Round_Start"
+L 11/26/2025 - 13:35:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:35:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 11/26/2025 - 13:35:10: World triggered "Round_End"
+L 11/26/2025 - 13:35:13: World triggered "Round_Start"
+L 11/26/2025 - 13:35:16: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:35:16: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 11/26/2025 - 13:35:16: World triggered "Round_End"
+L 11/26/2025 - 13:35:19: World triggered "Round_Start"
+L 11/26/2025 - 13:35:23: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:35:23: Team "CT" triggered "CTs_Win" (CT "7") (T "3")
+L 11/26/2025 - 13:35:23: World triggered "Round_End"
+L 11/26/2025 - 13:35:26: World triggered "Round_Start"
+L 11/26/2025 - 13:35:34: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:35:34: Team "CT" triggered "CTs_Win" (CT "8") (T "3")
+L 11/26/2025 - 13:35:34: World triggered "Round_End"
+L 11/26/2025 - 13:35:37: World triggered "Round_Start"
+L 11/26/2025 - 13:35:42: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:35:42: Team "CT" triggered "CTs_Win" (CT "9") (T "3")
+L 11/26/2025 - 13:35:42: World triggered "Round_End"
+L 11/26/2025 - 13:35:45: World triggered "Round_Start"
+L 11/26/2025 - 13:35:49: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" killed "Boss<16><STEAM_0:1:33668689><CT>" with "ak47"
+L 11/26/2025 - 13:35:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "4")
+L 11/26/2025 - 13:35:49: World triggered "Round_End"
+L 11/26/2025 - 13:35:52: World triggered "Round_Start"
+L 11/26/2025 - 13:35:56: "Boss<16><STEAM_0:1:33668689><CT>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:35:56: Team "CT" triggered "CTs_Win" (CT "10") (T "4")
+L 11/26/2025 - 13:35:56: World triggered "Round_End"
+L 11/26/2025 - 13:35:59: World triggered "Round_Start"
+L 11/26/2025 - 13:36:09: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" committed suicide with "world"
+L 11/26/2025 - 13:36:09: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><TERRORIST>" joined team "CT"
+L 11/26/2025 - 13:36:11: "Boss<16><STEAM_0:1:33668689><CT>" committed suicide with "world"
+L 11/26/2025 - 13:36:11: World triggered "Round_Draw" (CT "10") (T "4")
+L 11/26/2025 - 13:36:11: World triggered "Round_End"
+L 11/26/2025 - 13:36:11: "Boss<16><STEAM_0:1:33668689><CT>" joined team "TERRORIST"
+L 11/26/2025 - 13:36:14: World triggered "Round_Start"
+L 11/26/2025 - 13:36:23: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:36:23: World triggered "Game_Commencing"
+L 11/26/2025 - 13:36:23: World triggered "Game_Commencing" (CT "10") (T "4")
+L 11/26/2025 - 13:36:23: World triggered "Round_End"
+L 11/26/2025 - 13:36:26: World triggered "Round_Start"
+L 11/26/2025 - 13:36:33: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:36:33: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/26/2025 - 13:36:33: World triggered "Round_End"
+L 11/26/2025 - 13:36:36: World triggered "Round_Start"
+L 11/26/2025 - 13:36:40: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:36:40: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 11/26/2025 - 13:36:40: World triggered "Round_End"
+L 11/26/2025 - 13:36:43: World triggered "Round_Start"
+L 11/26/2025 - 13:36:45: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:36:45: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 11/26/2025 - 13:36:45: World triggered "Round_End"
+L 11/26/2025 - 13:36:48: World triggered "Round_Start"
+L 11/26/2025 - 13:37:02: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:37:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 11/26/2025 - 13:37:02: World triggered "Round_End"
+L 11/26/2025 - 13:37:05: World triggered "Round_Start"
+L 11/26/2025 - 13:37:10: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:37:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 11/26/2025 - 13:37:10: World triggered "Round_End"
+L 11/26/2025 - 13:37:13: World triggered "Round_Start"
+L 11/26/2025 - 13:37:20: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:37:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 11/26/2025 - 13:37:20: World triggered "Round_End"
+L 11/26/2025 - 13:37:23: World triggered "Round_Start"
+L 11/26/2025 - 13:37:29: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:37:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 11/26/2025 - 13:37:29: World triggered "Round_End"
+L 11/26/2025 - 13:37:32: World triggered "Round_Start"
+L 11/26/2025 - 13:37:38: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:37:38: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 11/26/2025 - 13:37:38: World triggered "Round_End"
+L 11/26/2025 - 13:37:41: World triggered "Round_Start"
+L 11/26/2025 - 13:37:56: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:37:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 11/26/2025 - 13:37:56: World triggered "Round_End"
+L 11/26/2025 - 13:37:59: World triggered "Round_Start"
+L 11/26/2025 - 13:38:04: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:38:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 11/26/2025 - 13:38:04: World triggered "Round_End"
+L 11/26/2025 - 13:38:07: World triggered "Round_Start"
+L 11/26/2025 - 13:38:12: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:38:12: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 11/26/2025 - 13:38:12: World triggered "Round_End"
+L 11/26/2025 - 13:38:15: World triggered "Round_Start"
+L 11/26/2025 - 13:38:20: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:38:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 11/26/2025 - 13:38:20: World triggered "Round_End"
+L 11/26/2025 - 13:38:24: World triggered "Round_Start"
+L 11/26/2025 - 13:38:27: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:38:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 11/26/2025 - 13:38:27: World triggered "Round_End"
+L 11/26/2025 - 13:38:30: World triggered "Round_Start"
+L 11/26/2025 - 13:38:33: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:38:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 11/26/2025 - 13:38:33: World triggered "Round_End"
+L 11/26/2025 - 13:38:36: World triggered "Round_Start"
+L 11/26/2025 - 13:38:39: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" killed "Boss<16><STEAM_0:1:33668689><TERRORIST>" with "m4a1"
+L 11/26/2025 - 13:38:39: Team "CT" triggered "CTs_Win" (CT "6") (T "9")
+L 11/26/2025 - 13:38:39: World triggered "Round_End"
+L 11/26/2025 - 13:38:42: World triggered "Round_Start"
+L 11/26/2025 - 13:38:46: "Boss<16><STEAM_0:1:33668689><TERRORIST>" killed "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/26/2025 - 13:38:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "10")
+L 11/26/2025 - 13:38:46: World triggered "Round_End"
+L 11/26/2025 - 13:38:49: World triggered "Round_Start"
+L 11/26/2025 - 13:38:59: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" say "aim"
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" triggered "weaponstats" (weapon "m4a1") (shots "335") (hits "96") (kills "16") (headshots "3") (tks "0") (damage "2696") (deaths "19")
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "8") (stomach "18") (leftarm "34") (rightarm "2") (leftleg "17") (rightleg "14")
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" triggered "weaponstats" (weapon "ak47") (shots "220") (hits "63") (kills "13") (headshots "2") (tks "0") (damage "2176") (deaths "23")
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "8") (stomach "15") (leftarm "19") (rightarm "4") (leftleg "7") (rightleg "8")
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" triggered "time" (time "11:06")
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" triggered "latency" (ping "11")
+L 11/26/2025 - 13:39:10: "Cʏвer'Fσχ<15><STEAM_0:1:97036452><CT>" disconnected
+L 11/26/2025 - 13:39:10: "Kak Tak !?<19><STEAM_0:1:15204352><>" entered the game
+L 11/26/2025 - 13:39:10: "Kak Tak !?<19><STEAM_0:1:15204352><>" joined team "CT"
+L 11/26/2025 - 13:39:10: World triggered "Game_Commencing"
+L 11/26/2025 - 13:39:10: World triggered "Game_Commencing" (CT "6") (T "10")
+L 11/26/2025 - 13:39:10: World triggered "Round_End"
+L 11/26/2025 - 13:39:14: World triggered "Round_Start"
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "248") (hits "90") (kills "23") (headshots "11") (tks "0") (damage "3403") (deaths "13")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "11") (chest "13") (stomach "10") (leftarm "35") (rightarm "13") (leftleg "2") (rightleg "6")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "326") (hits "93") (kills "19") (headshots "5") (tks "0") (damage "3498") (deaths "16")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "5") (chest "14") (stomach "15") (leftarm "40") (rightarm "5") (leftleg "4") (rightleg "10")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "time" (time "11:12")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" triggered "latency" (ping "33")
+L 11/26/2025 - 13:39:16: "Boss<16><STEAM_0:1:33668689><TERRORIST>" disconnected
+L 11/26/2025 - 13:39:17: "Deadmau5<20><STEAM_0:1:9083648><>" entered the game
+L 11/26/2025 - 13:39:17: "Deadmau5<20><STEAM_0:1:9083648><>" joined team "TERRORIST"
+L 11/26/2025 - 13:39:17: World triggered "Game_Commencing"
+L 11/26/2025 - 13:39:17: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/26/2025 - 13:39:17: World triggered "Round_End"
+L 11/26/2025 - 13:39:20: World triggered "Round_Start"
+L 11/26/2025 - 13:39:28: "Deadmau5<20><STEAM_0:1:9083648><TERRORIST>" killed "Kak Tak !?<19><STEAM_0:1:15204352><CT>" with "ak47"
+L 11/26/2025 - 13:39:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/26/2025 - 13:39:28: World triggered "Round_End"
+L 11/26/2025 - 13:39:31: World triggered "Round_Start"
+L 11/26/2025 - 13:39:38: "Deadmau5<20><STEAM_0:1:9083648><TERRORIST>" killed "Kak Tak !?<19><STEAM_0:1:15204352><CT>" with "ak47"
+L 11/26/2025 - 13:39:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/26/2025 - 13:39:38: World triggered "Round_End"
+L 11/26/2025 - 13:39:39: Server cvar "amx_nextmap" = "aim_99"
+L 11/26/2025 - 13:39:39: Server cvar "mp_chattime" = "11.000000"
+L 11/26/2025 - 13:39:41: World triggered "Round_Start"
+L 11/26/2025 - 13:39:48: "Deadmau5<20><STEAM_0:1:9083648><TERRORIST>" killed "Kak Tak !?<19><STEAM_0:1:15204352><CT>" with "ak47"
+L 11/26/2025 - 13:39:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 11/26/2025 - 13:39:48: World triggered "Round_End"
+L 11/26/2025 - 13:39:50: Server cvar "mp_chattime" = "10.000000"
+L 11/26/2025 - 13:39:50: "Kak Tak !?<19><BOT><CT>" disconnected
+L 11/26/2025 - 13:39:50: "Deadmau5<20><BOT><TERRORIST>" disconnected
+L 11/26/2025 - 13:39:50: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/26/2025 - 13:39:50: [META] ini: Read plugin config for: AMX Mod X
+L 11/26/2025 - 13:39:50: [META] ini: Read plugin config for: Rechecker
+L 11/26/2025 - 13:39:50: [META] ini: Read plugin config for: ReSemiclip
+L 11/26/2025 - 13:39:50: [META] ini: Read plugin config for: HitBox Fix
+L 11/26/2025 - 13:39:50: [META] ini: Read plugin config for: YaPB
+L 11/26/2025 - 13:39:50: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/26/2025 - 13:39:50: [META] dll: Updating plugins...
+L 11/26/2025 - 13:39:50: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/26/2025 - 13:39:50: [META] dll: Rebuilding callbacks...
+L 11/26/2025 - 13:39:50: [META] dll: Callbacks rebuilded.
+L 11/26/2025 - 13:39:50: Log file closed

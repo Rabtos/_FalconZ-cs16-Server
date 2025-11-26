@@ -1,0 +1,572 @@
+L 11/24/2025 - 20:01:20: Log file started (file "logs\L1124062.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/24/2025 - 20:01:20: Loading map "aim_glock"
+L 11/24/2025 - 20:01:20: Server cvars start
+L 11/24/2025 - 20:01:20: Server cvar "allow_spectators" = "1.0"
+L 11/24/2025 - 20:01:20: Server cvar "amx_client_languages" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "amx_language" = "en"
+L 11/24/2025 - 20:01:20: Server cvar "amx_nextmap" = "de_dust2002"
+L 11/24/2025 - 20:01:20: Server cvar "amxmodx_version" = "1.9.0.5294"
+L 11/24/2025 - 20:01:20: Server cvar "coop" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "deathmatch" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "decalfrequency" = "3"
+L 11/24/2025 - 20:01:20: Server cvar "edgefriction" = "2"
+L 11/24/2025 - 20:01:20: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 11/24/2025 - 20:01:20: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 11/24/2025 - 20:01:20: Server cvar "ff_damage_reduction_grenade_self" = "1.0"
+L 11/24/2025 - 20:01:20: Server cvar "ff_damage_reduction_other" = "0.35"
+L 11/24/2025 - 20:01:20: Server cvar "game_version" = "5.28.0.756-dev"
+L 11/24/2025 - 20:01:20: Server cvar "hbf_debug" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "hbf_enabled" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "humans_join_team" = "any"
+L 11/24/2025 - 20:01:20: Server cvar "jtp10181" = "gore,wa"
+L 11/24/2025 - 20:01:20: Server cvar "mapm_version" = "3.3.1"
+L 11/24/2025 - 20:01:20: Server cvar "max_queries_sec" = "3.0"
+L 11/24/2025 - 20:01:20: Server cvar "max_queries_sec_global" = "30"
+L 11/24/2025 - 20:01:20: Server cvar "max_queries_window" = "60"
+L 11/24/2025 - 20:01:20: Server cvar "metamod_version" = "1.3.0.149"
+L 11/24/2025 - 20:01:20: Server cvar "mp_afk_bomb_drop_time" = "15"
+L 11/24/2025 - 20:01:20: Server cvar "mp_ammo_respawn_time" = "20"
+L 11/24/2025 - 20:01:20: Server cvar "mp_autokick" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_autokick_timeout" = "-1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_autoteambalance" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_buy_anywhere" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_buytime" = "1.5"
+L 11/24/2025 - 20:01:20: Server cvar "mp_c4timer" = "45"
+L 11/24/2025 - 20:01:20: Server cvar "mp_chattime" = "10"
+L 11/24/2025 - 20:01:20: Server cvar "mp_consistency" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_fadetoblack" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_falldamage" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_flashlight" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_footsteps" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_forcecamera" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_forcechasecam" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_forcerespawn" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_fraglimit" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_fragsleft" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_freeforall" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_freezetime" = "0.5"
+L 11/24/2025 - 20:01:20: Server cvar "mp_friendlyfire" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_give_player_c4" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_hostage_hurtable" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_hostagepenalty" = "13"
+L 11/24/2025 - 20:01:20: Server cvar "mp_infinite_ammo" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_infinite_grenades" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_item_respawn_time" = "30"
+L 11/24/2025 - 20:01:20: Server cvar "mp_item_staytime" = "300"
+L 11/24/2025 - 20:01:20: Server cvar "mp_kickpercent" = "0.66"
+L 11/24/2025 - 20:01:20: Server cvar "mp_limitteams" = "2"
+L 11/24/2025 - 20:01:20: Server cvar "mp_logdetail" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_logfile" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_logmessages" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_mapvoteratio" = "0.66"
+L 11/24/2025 - 20:01:20: Server cvar "mp_maxmoney" = "32000"
+L 11/24/2025 - 20:01:20: Server cvar "mp_maxrounds" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_playerid" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_radio_maxinround" = "60"
+L 11/24/2025 - 20:01:20: Server cvar "mp_radio_timeout" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_respawn_immunity_effects" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_respawn_immunity_force_unset" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_respawn_immunitytime" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_round_infinite" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_round_restart_delay" = "3"
+L 11/24/2025 - 20:01:20: Server cvar "mp_roundover" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_roundtime" = "2"
+L 11/24/2025 - 20:01:20: Server cvar "mp_scoreboard_showdefkit" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_scoreboard_showhealth" = "5"
+L 11/24/2025 - 20:01:20: Server cvar "mp_scoreboard_showmoney" = "5"
+L 11/24/2025 - 20:01:20: Server cvar "mp_show_scenarioicon" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_startmoney" = "800"
+L 11/24/2025 - 20:01:20: Server cvar "mp_timeleft" = "14:59"
+L 11/24/2025 - 20:01:20: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 20:01:20: Server cvar "mp_tkpunish" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "mp_weapon_respawn_time" = "20"
+L 11/24/2025 - 20:01:20: Server cvar "mp_weapons_allow_map_placed" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_windifference" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "mp_winlimit" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "pausable" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "resemiclip_version" = "2.4.3"
+L 11/24/2025 - 20:01:20: Server cvar "sv_accelerate" = "5"
+L 11/24/2025 - 20:01:20: Server cvar "sv_aim" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "sv_airaccelerate" = "10"
+L 11/24/2025 - 20:01:20: Server cvar "sv_allow_autoaim" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_allowupload" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_alltalk" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_bounce" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_cheats" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "sv_clienttrace" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_contact" = ""
+L 11/24/2025 - 20:01:20: Server cvar "sv_friction" = "4"
+L 11/24/2025 - 20:01:20: Server cvar "sv_gravity" = "800"
+L 11/24/2025 - 20:01:20: Server cvar "sv_logblocks" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "sv_maxrate" = "250000"
+L 11/24/2025 - 20:01:20: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 20:01:20: Server cvar "sv_minrate" = "25000"
+L 11/24/2025 - 20:01:20: Server cvar "sv_password" = ""
+L 11/24/2025 - 20:01:20: Server cvar "sv_proxies" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_restart" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "sv_restartround" = "0"
+L 11/24/2025 - 20:01:20: Server cvar "sv_stepsize" = "18"
+L 11/24/2025 - 20:01:20: Server cvar "sv_stopspeed" = "75"
+L 11/24/2025 - 20:01:20: Server cvar "sv_uploadmax" = "7.77"
+L 11/24/2025 - 20:01:20: Server cvar "sv_version" = "1.1.2.7/Stdio,48,4002"
+L 11/24/2025 - 20:01:20: Server cvar "sv_voiceenable" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "sv_wateraccelerate" = "10"
+L 11/24/2025 - 20:01:20: Server cvar "sv_waterfriction" = "1"
+L 11/24/2025 - 20:01:20: Server cvar "UAIO (Admin Menu)" = "1.50"
+L 11/24/2025 - 20:01:20: Server cvar "weaponarena_version" = "2.0.4"
+L 11/24/2025 - 20:01:20: Server cvar "yb_version" = "4.4.957"
+L 11/24/2025 - 20:01:20: Server cvars end
+L 11/24/2025 - 20:01:21: Server cvar "sv_maxspeed" = "900"
+L 11/24/2025 - 20:01:21: Server cvar "mp_timelimit" = "20"
+L 11/24/2025 - 20:01:21: Server cvar "mapm_admin_menu_maplist" = "maps.ini"
+L 11/24/2025 - 20:01:21: Server cvar "mapm_admin_menu_delay" = "1"
+L 11/24/2025 - 20:01:21: Server cvar "sv_maxspeed" = "320"
+L 11/24/2025 - 20:01:21: Server cvar "mp_timelimit" = "15"
+L 11/24/2025 - 20:01:21: Server cvar "sv_maxspeed" = "900"
+L 11/24/2025 - 20:01:21: Server cvar "amx_nextmap" = "aim_gsu_city"
+L 11/24/2025 - 20:01:21: Started map "aim_glock" (CRC "-202702122")
+L 11/24/2025 - 20:01:22: World triggered "Round_Start"
+L 11/24/2025 - 20:01:25: "DI@BLO<3><STEAM_0:1:9095168><>" entered the game
+L 11/24/2025 - 20:01:25: "DI@BLO<3><STEAM_0:1:9095168><>" joined team "CT"
+L 11/24/2025 - 20:01:25: "odothesed<4><STEAM_0:1:15636992><>" entered the game
+L 11/24/2025 - 20:01:25: "odothesed<4><STEAM_0:1:15636992><>" joined team "TERRORIST"
+L 11/24/2025 - 20:01:26: World triggered "Game_Commencing"
+L 11/24/2025 - 20:01:26: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 20:01:26: World triggered "Round_End"
+L 11/24/2025 - 20:01:27: ".Ｃʏʙᴇʀ’Ｆｏχ<5><STEAM_0:1:97036452><>" connected, address "84.159.156.244:27005"
+L 11/24/2025 - 20:01:28: ".Ｃʏʙᴇʀ’Ｆｏχ<5><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/24/2025 - 20:01:29: World triggered "Round_Start"
+L 11/24/2025 - 20:01:29: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" connected, address "84.159.156.244:27005"
+L 11/24/2025 - 20:01:29: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/24/2025 - 20:01:31: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" entered the game
+L 11/24/2025 - 20:01:33: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><>" joined team "TERRORIST"
+L 11/24/2025 - 20:01:33: Kick: "odothesed<4><STEAM_0:1:1><>" was kicked by "Console"
+L 11/24/2025 - 20:01:33: "odothesed<4><BOT><TERRORIST>" disconnected
+L 11/24/2025 - 20:01:33: World triggered "Game_Commencing"
+L 11/24/2025 - 20:01:33: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 20:01:33: World triggered "Round_End"
+L 11/24/2025 - 20:01:35: "s|<1LL3D<7><STEAM_0:1:23986766><>" connected, address "178.26.154.106:27005"
+L 11/24/2025 - 20:01:35: "s|<1LL3D<7><STEAM_0:1:23986766><>" STEAM USERID validated
+L 11/24/2025 - 20:01:36: "s|<1LL3D<8><STEAM_0:1:23986766><>" connected, address "178.26.154.106:27005"
+L 11/24/2025 - 20:01:36: World triggered "Round_Start"
+L 11/24/2025 - 20:01:36: "s|<1LL3D<8><STEAM_0:1:23986766><>" STEAM USERID validated
+L 11/24/2025 - 20:01:38: "s|<1LL3D<8><STEAM_0:1:23986766><>" entered the game
+L 11/24/2025 - 20:01:40: "s|<1LL3D<8><STEAM_0:1:23986766><>" joined team "CT"
+L 11/24/2025 - 20:01:40: Kick: "DI@BLO<3><STEAM_0:0:1><>" was kicked by "Console"
+L 11/24/2025 - 20:01:40: "DI@BLO<3><BOT><CT>" disconnected
+L 11/24/2025 - 20:01:40: World triggered "Game_Commencing"
+L 11/24/2025 - 20:01:40: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2025 - 20:01:40: World triggered "Round_End"
+L 11/24/2025 - 20:01:43: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "glock18"
+L 11/24/2025 - 20:01:43: World triggered "Round_Start"
+L 11/24/2025 - 20:01:50: "s|<1LL3D<8><STEAM_0:1:23986766><CT>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:01:50: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2025 - 20:01:50: World triggered "Round_End"
+L 11/24/2025 - 20:01:53: World triggered "Round_Start"
+L 11/24/2025 - 20:02:14: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "knife"
+L 11/24/2025 - 20:02:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 11/24/2025 - 20:02:14: World triggered "Round_End"
+L 11/24/2025 - 20:02:17: World triggered "Round_Start"
+L 11/24/2025 - 20:02:26: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "glock18"
+L 11/24/2025 - 20:02:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 11/24/2025 - 20:02:26: World triggered "Round_End"
+L 11/24/2025 - 20:02:29: World triggered "Round_Start"
+L 11/24/2025 - 20:02:45: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "glock18"
+L 11/24/2025 - 20:02:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 11/24/2025 - 20:02:45: World triggered "Round_End"
+L 11/24/2025 - 20:02:48: World triggered "Round_Start"
+L 11/24/2025 - 20:02:58: "s|<1LL3D<8><STEAM_0:1:23986766><CT>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:02:58: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 11/24/2025 - 20:02:58: World triggered "Round_End"
+L 11/24/2025 - 20:03:01: World triggered "Round_Start"
+L 11/24/2025 - 20:03:10: "s|<1LL3D<8><STEAM_0:1:23986766><CT>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:03:10: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 11/24/2025 - 20:03:10: World triggered "Round_End"
+L 11/24/2025 - 20:03:13: World triggered "Round_Start"
+L 11/24/2025 - 20:03:17: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "glock18"
+L 11/24/2025 - 20:03:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 11/24/2025 - 20:03:17: World triggered "Round_End"
+L 11/24/2025 - 20:03:20: World triggered "Round_Start"
+L 11/24/2025 - 20:03:28: "s|<1LL3D<8><STEAM_0:1:23986766><CT>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:03:28: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 11/24/2025 - 20:03:28: World triggered "Round_End"
+L 11/24/2025 - 20:03:31: World triggered "Round_Start"
+L 11/24/2025 - 20:03:36: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "glock18"
+L 11/24/2025 - 20:03:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 11/24/2025 - 20:03:36: World triggered "Round_End"
+L 11/24/2025 - 20:03:39: World triggered "Round_Start"
+L 11/24/2025 - 20:03:48: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" killed "s|<1LL3D<8><STEAM_0:1:23986766><CT>" with "glock18"
+L 11/24/2025 - 20:03:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 11/24/2025 - 20:03:48: World triggered "Round_End"
+L 11/24/2025 - 20:03:50: "s|<1LL3D<8><STEAM_0:1:23986766><CT>" joined team "TERRORIST"
+L 11/24/2025 - 20:03:51: World triggered "Round_Start"
+L 11/24/2025 - 20:03:55: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:03:56: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><TERRORIST>" joined team "CT"
+L 11/24/2025 - 20:03:56: World triggered "Game_Commencing"
+L 11/24/2025 - 20:03:56: World triggered "Game_Commencing" (CT "4") (T "6")
+L 11/24/2025 - 20:03:56: World triggered "Round_End"
+L 11/24/2025 - 20:03:59: World triggered "Round_Start"
+L 11/24/2025 - 20:04:06: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:04:06: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/24/2025 - 20:04:06: World triggered "Round_End"
+L 11/24/2025 - 20:04:09: World triggered "Round_Start"
+L 11/24/2025 - 20:04:27: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:04:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 11/24/2025 - 20:04:27: World triggered "Round_End"
+L 11/24/2025 - 20:04:30: World triggered "Round_Start"
+L 11/24/2025 - 20:04:44: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:04:44: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 11/24/2025 - 20:04:44: World triggered "Round_End"
+L 11/24/2025 - 20:04:47: World triggered "Round_Start"
+L 11/24/2025 - 20:04:56: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:04:56: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 11/24/2025 - 20:04:56: World triggered "Round_End"
+L 11/24/2025 - 20:04:59: World triggered "Round_Start"
+L 11/24/2025 - 20:05:04: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:05:04: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 11/24/2025 - 20:05:04: World triggered "Round_End"
+L 11/24/2025 - 20:05:07: World triggered "Round_Start"
+L 11/24/2025 - 20:05:14: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:05:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 11/24/2025 - 20:05:14: World triggered "Round_End"
+L 11/24/2025 - 20:05:17: World triggered "Round_Start"
+L 11/24/2025 - 20:05:28: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:05:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 11/24/2025 - 20:05:28: World triggered "Round_End"
+L 11/24/2025 - 20:05:31: World triggered "Round_Start"
+L 11/24/2025 - 20:05:37: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:05:37: Team "CT" triggered "CTs_Win" (CT "5") (T "3")
+L 11/24/2025 - 20:05:37: World triggered "Round_End"
+L 11/24/2025 - 20:05:40: World triggered "Round_Start"
+L 11/24/2025 - 20:05:56: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:05:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "4")
+L 11/24/2025 - 20:05:56: World triggered "Round_End"
+L 11/24/2025 - 20:05:59: World triggered "Round_Start"
+L 11/24/2025 - 20:06:07: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:06:07: Team "CT" triggered "CTs_Win" (CT "6") (T "4")
+L 11/24/2025 - 20:06:07: World triggered "Round_End"
+L 11/24/2025 - 20:06:10: World triggered "Round_Start"
+L 11/24/2025 - 20:06:14: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:06:14: Team "CT" triggered "CTs_Win" (CT "7") (T "4")
+L 11/24/2025 - 20:06:14: World triggered "Round_End"
+L 11/24/2025 - 20:06:17: World triggered "Round_Start"
+L 11/24/2025 - 20:06:22: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:06:22: Team "CT" triggered "CTs_Win" (CT "8") (T "4")
+L 11/24/2025 - 20:06:22: World triggered "Round_End"
+L 11/24/2025 - 20:06:25: World triggered "Round_Start"
+L 11/24/2025 - 20:06:33: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:06:33: Team "CT" triggered "CTs_Win" (CT "9") (T "4")
+L 11/24/2025 - 20:06:33: World triggered "Round_End"
+L 11/24/2025 - 20:06:36: World triggered "Round_Start"
+L 11/24/2025 - 20:06:42: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:06:42: Team "CT" triggered "CTs_Win" (CT "10") (T "4")
+L 11/24/2025 - 20:06:42: World triggered "Round_End"
+L 11/24/2025 - 20:06:45: World triggered "Round_Start"
+L 11/24/2025 - 20:06:55: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:06:55: Team "CT" triggered "CTs_Win" (CT "11") (T "4")
+L 11/24/2025 - 20:06:55: World triggered "Round_End"
+L 11/24/2025 - 20:06:58: World triggered "Round_Start"
+L 11/24/2025 - 20:07:05: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:07:05: Team "CT" triggered "CTs_Win" (CT "12") (T "4")
+L 11/24/2025 - 20:07:05: World triggered "Round_End"
+L 11/24/2025 - 20:07:08: World triggered "Round_Start"
+L 11/24/2025 - 20:07:18: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:07:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "5")
+L 11/24/2025 - 20:07:18: World triggered "Round_End"
+L 11/24/2025 - 20:07:19: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "H e a d s h o T" (dead)
+L 11/24/2025 - 20:07:21: World triggered "Round_Start"
+L 11/24/2025 - 20:07:29: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:07:29: Team "CT" triggered "CTs_Win" (CT "13") (T "5")
+L 11/24/2025 - 20:07:29: World triggered "Round_End"
+L 11/24/2025 - 20:07:32: World triggered "Round_Start"
+L 11/24/2025 - 20:07:38: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:07:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "6")
+L 11/24/2025 - 20:07:38: World triggered "Round_End"
+L 11/24/2025 - 20:07:41: World triggered "Round_Start"
+L 11/24/2025 - 20:07:52: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:07:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "7")
+L 11/24/2025 - 20:07:52: World triggered "Round_End"
+L 11/24/2025 - 20:07:55: World triggered "Round_Start"
+L 11/24/2025 - 20:08:01: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:08:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "8")
+L 11/24/2025 - 20:08:01: World triggered "Round_End"
+L 11/24/2025 - 20:08:04: World triggered "Round_Start"
+L 11/24/2025 - 20:08:26: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:08:26: Team "CT" triggered "CTs_Win" (CT "14") (T "8")
+L 11/24/2025 - 20:08:26: World triggered "Round_End"
+L 11/24/2025 - 20:08:29: World triggered "Round_Start"
+L 11/24/2025 - 20:08:34: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:08:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "9")
+L 11/24/2025 - 20:08:34: World triggered "Round_End"
+L 11/24/2025 - 20:08:37: World triggered "Round_Start"
+L 11/24/2025 - 20:09:11: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:09:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "10")
+L 11/24/2025 - 20:09:11: World triggered "Round_End"
+L 11/24/2025 - 20:09:14: World triggered "Round_Start"
+L 11/24/2025 - 20:09:19: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:09:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "11")
+L 11/24/2025 - 20:09:19: World triggered "Round_End"
+L 11/24/2025 - 20:09:22: World triggered "Round_Start"
+L 11/24/2025 - 20:09:31: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:09:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "12")
+L 11/24/2025 - 20:09:31: World triggered "Round_End"
+L 11/24/2025 - 20:09:34: World triggered "Round_Start"
+L 11/24/2025 - 20:09:43: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:09:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "13")
+L 11/24/2025 - 20:09:43: World triggered "Round_End"
+L 11/24/2025 - 20:09:46: World triggered "Round_Start"
+L 11/24/2025 - 20:09:51: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:09:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "14")
+L 11/24/2025 - 20:09:51: World triggered "Round_End"
+L 11/24/2025 - 20:09:54: World triggered "Round_Start"
+L 11/24/2025 - 20:09:54: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "Operational vector collapsed into hyperbolic manifold of negligible causal efficacy."
+L 11/24/2025 - 20:10:04: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "knife"
+L 11/24/2025 - 20:10:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "15")
+L 11/24/2025 - 20:10:04: World triggered "Round_End"
+L 11/24/2025 - 20:10:06: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "H e a d s h o T" (dead)
+L 11/24/2025 - 20:10:07: World triggered "Round_Start"
+L 11/24/2025 - 20:10:16: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:10:16: Team "CT" triggered "CTs_Win" (CT "15") (T "15")
+L 11/24/2025 - 20:10:16: World triggered "Round_End"
+L 11/24/2025 - 20:10:19: World triggered "Round_Start"
+L 11/24/2025 - 20:10:27: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:10:27: Team "CT" triggered "CTs_Win" (CT "16") (T "15")
+L 11/24/2025 - 20:10:27: World triggered "Round_End"
+L 11/24/2025 - 20:10:30: World triggered "Round_Start"
+L 11/24/2025 - 20:10:42: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:10:42: Team "CT" triggered "CTs_Win" (CT "17") (T "15")
+L 11/24/2025 - 20:10:42: World triggered "Round_End"
+L 11/24/2025 - 20:10:45: World triggered "Round_Start"
+L 11/24/2025 - 20:10:52: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:10:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "16")
+L 11/24/2025 - 20:10:52: World triggered "Round_End"
+L 11/24/2025 - 20:10:55: World triggered "Round_Start"
+L 11/24/2025 - 20:11:03: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:11:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "17")
+L 11/24/2025 - 20:11:03: World triggered "Round_End"
+L 11/24/2025 - 20:11:06: World triggered "Round_Start"
+L 11/24/2025 - 20:11:10: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:11:10: Team "CT" triggered "CTs_Win" (CT "18") (T "17")
+L 11/24/2025 - 20:11:10: World triggered "Round_End"
+L 11/24/2025 - 20:11:13: World triggered "Round_Start"
+L 11/24/2025 - 20:11:19: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:11:19: Team "CT" triggered "CTs_Win" (CT "19") (T "17")
+L 11/24/2025 - 20:11:19: World triggered "Round_End"
+L 11/24/2025 - 20:11:22: World triggered "Round_Start"
+L 11/24/2025 - 20:11:29: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:11:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "18")
+L 11/24/2025 - 20:11:29: World triggered "Round_End"
+L 11/24/2025 - 20:11:32: World triggered "Round_Start"
+L 11/24/2025 - 20:11:36: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:11:36: Team "CT" triggered "CTs_Win" (CT "20") (T "18")
+L 11/24/2025 - 20:11:36: World triggered "Round_End"
+L 11/24/2025 - 20:11:39: World triggered "Round_Start"
+L 11/24/2025 - 20:11:45: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:11:45: Team "CT" triggered "CTs_Win" (CT "21") (T "18")
+L 11/24/2025 - 20:11:45: World triggered "Round_End"
+L 11/24/2025 - 20:11:49: World triggered "Round_Start"
+L 11/24/2025 - 20:11:52: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:11:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "19")
+L 11/24/2025 - 20:11:52: World triggered "Round_End"
+L 11/24/2025 - 20:11:55: World triggered "Round_Start"
+L 11/24/2025 - 20:11:58: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:11:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "20")
+L 11/24/2025 - 20:11:58: World triggered "Round_End"
+L 11/24/2025 - 20:12:01: World triggered "Round_Start"
+L 11/24/2025 - 20:12:08: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:12:08: Team "CT" triggered "CTs_Win" (CT "22") (T "20")
+L 11/24/2025 - 20:12:08: World triggered "Round_End"
+L 11/24/2025 - 20:12:11: World triggered "Round_Start"
+L 11/24/2025 - 20:12:15: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:12:15: Team "CT" triggered "CTs_Win" (CT "23") (T "20")
+L 11/24/2025 - 20:12:15: World triggered "Round_End"
+L 11/24/2025 - 20:12:18: World triggered "Round_Start"
+L 11/24/2025 - 20:12:19: "! FireStrike | [ sGMMa ]<9><STEAM_0:0:649717197><>" connected, address "46.43.108.188:27005"
+L 11/24/2025 - 20:12:20: "! FireStrike | [ sGMMa ]<9><STEAM_0:0:649717197><>" STEAM USERID validated
+L 11/24/2025 - 20:12:23: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><>" connected, address "46.43.108.188:27005"
+L 11/24/2025 - 20:12:23: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><>" STEAM USERID validated
+L 11/24/2025 - 20:12:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:12:24: Team "CT" triggered "CTs_Win" (CT "24") (T "20")
+L 11/24/2025 - 20:12:24: World triggered "Round_End"
+L 11/24/2025 - 20:12:27: World triggered "Round_Start"
+L 11/24/2025 - 20:12:32: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:12:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "21")
+L 11/24/2025 - 20:12:32: World triggered "Round_End"
+L 11/24/2025 - 20:12:33: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><>" entered the game
+L 11/24/2025 - 20:12:35: World triggered "Round_Start"
+L 11/24/2025 - 20:12:37: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><>" joined team "TERRORIST"
+L 11/24/2025 - 20:12:40: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:12:41: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "اه"
+L 11/24/2025 - 20:12:42: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "h"
+L 11/24/2025 - 20:12:43: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "hi"
+L 11/24/2025 - 20:12:44: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:12:44: Team "CT" triggered "CTs_Win" (CT "25") (T "21")
+L 11/24/2025 - 20:12:44: World triggered "Round_End"
+L 11/24/2025 - 20:12:47: World triggered "Round_Start"
+L 11/24/2025 - 20:12:48: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "WTF BLOOD :VV"
+L 11/24/2025 - 20:12:54: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:12:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "22")
+L 11/24/2025 - 20:12:54: World triggered "Round_End"
+L 11/24/2025 - 20:12:57: World triggered "Round_Start"
+L 11/24/2025 - 20:12:58: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "hi"
+L 11/24/2025 - 20:13:00: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "nice addon"
+L 11/24/2025 - 20:13:06: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:13:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "23")
+L 11/24/2025 - 20:13:06: World triggered "Round_End"
+L 11/24/2025 - 20:13:09: World triggered "Round_Start"
+L 11/24/2025 - 20:13:09: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "/vm"
+L 11/24/2025 - 20:13:12: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "/vm"
+L 11/24/2025 - 20:13:20: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:13:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "24")
+L 11/24/2025 - 20:13:20: World triggered "Round_End"
+L 11/24/2025 - 20:13:23: World triggered "Round_Start"
+L 11/24/2025 - 20:13:30: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:13:32: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:13:32: Team "CT" triggered "CTs_Win" (CT "26") (T "24")
+L 11/24/2025 - 20:13:32: World triggered "Round_End"
+L 11/24/2025 - 20:13:35: World triggered "Round_Start"
+L 11/24/2025 - 20:13:39: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "wasssupü"
+L 11/24/2025 - 20:13:40: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:13:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "25")
+L 11/24/2025 - 20:13:40: World triggered "Round_End"
+L 11/24/2025 - 20:13:43: World triggered "Round_Start"
+L 11/24/2025 - 20:13:43: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "did you ask your friend ?"
+L 11/24/2025 - 20:13:46: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:13:49: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "THE SHIT"
+L 11/24/2025 - 20:13:50: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:13:50: Team "CT" triggered "CTs_Win" (CT "27") (T "25")
+L 11/24/2025 - 20:13:50: World triggered "Round_End"
+L 11/24/2025 - 20:13:53: World triggered "Round_Start"
+L 11/24/2025 - 20:13:55: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" say "i'am busy theese 2 days man"
+L 11/24/2025 - 20:14:01: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "44") (hits "7") (kills "3") (headshots "3") (tks "0") (damage "338") (deaths "1")
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "3") (chest "1") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" triggered "time" (time "1:32")
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" triggered "latency" (ping "80")
+L 11/24/2025 - 20:14:05: "! FireStrike | [ sGMMa ]<10><STEAM_0:0:649717197><TERRORIST>" disconnected
+L 11/24/2025 - 20:14:06: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:14:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "26")
+L 11/24/2025 - 20:14:06: World triggered "Round_End"
+L 11/24/2025 - 20:14:09: World triggered "Round_Start"
+L 11/24/2025 - 20:14:16: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:14:16: Team "CT" triggered "CTs_Win" (CT "28") (T "26")
+L 11/24/2025 - 20:14:16: World triggered "Round_End"
+L 11/24/2025 - 20:14:19: World triggered "Round_Start"
+L 11/24/2025 - 20:14:26: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:14:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "27")
+L 11/24/2025 - 20:14:26: World triggered "Round_End"
+L 11/24/2025 - 20:14:29: World triggered "Round_Start"
+L 11/24/2025 - 20:14:34: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:14:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "28")
+L 11/24/2025 - 20:14:34: World triggered "Round_End"
+L 11/24/2025 - 20:14:37: World triggered "Round_Start"
+L 11/24/2025 - 20:14:45: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:14:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "29")
+L 11/24/2025 - 20:14:45: World triggered "Round_End"
+L 11/24/2025 - 20:14:48: World triggered "Round_Start"
+L 11/24/2025 - 20:15:00: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:15:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "30")
+L 11/24/2025 - 20:15:00: World triggered "Round_End"
+L 11/24/2025 - 20:15:03: World triggered "Round_Start"
+L 11/24/2025 - 20:15:10: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:15:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "31")
+L 11/24/2025 - 20:15:10: World triggered "Round_End"
+L 11/24/2025 - 20:15:13: World triggered "Round_Start"
+L 11/24/2025 - 20:15:27: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:15:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "32")
+L 11/24/2025 - 20:15:27: World triggered "Round_End"
+L 11/24/2025 - 20:15:30: World triggered "Round_Start"
+L 11/24/2025 - 20:15:35: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:15:35: Team "CT" triggered "CTs_Win" (CT "29") (T "32")
+L 11/24/2025 - 20:15:35: World triggered "Round_End"
+L 11/24/2025 - 20:15:38: World triggered "Round_Start"
+L 11/24/2025 - 20:15:48: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:15:48: Team "CT" triggered "CTs_Win" (CT "30") (T "32")
+L 11/24/2025 - 20:15:48: World triggered "Round_End"
+L 11/24/2025 - 20:15:51: World triggered "Round_Start"
+L 11/24/2025 - 20:16:06: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:16:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "30") (T "33")
+L 11/24/2025 - 20:16:06: World triggered "Round_End"
+L 11/24/2025 - 20:16:09: World triggered "Round_Start"
+L 11/24/2025 - 20:16:17: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:16:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "30") (T "34")
+L 11/24/2025 - 20:16:17: World triggered "Round_End"
+L 11/24/2025 - 20:16:21: World triggered "Round_Start"
+L 11/24/2025 - 20:16:25: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:16:25: Team "CT" triggered "CTs_Win" (CT "31") (T "34")
+L 11/24/2025 - 20:16:25: World triggered "Round_End"
+L 11/24/2025 - 20:16:28: World triggered "Round_Start"
+L 11/24/2025 - 20:16:34: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:16:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "31") (T "35")
+L 11/24/2025 - 20:16:34: World triggered "Round_End"
+L 11/24/2025 - 20:16:37: World triggered "Round_Start"
+L 11/24/2025 - 20:16:40: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:16:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "31") (T "36")
+L 11/24/2025 - 20:16:40: World triggered "Round_End"
+L 11/24/2025 - 20:16:41: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" say "H e a d s h o T" (dead)
+L 11/24/2025 - 20:16:43: World triggered "Round_Start"
+L 11/24/2025 - 20:16:57: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:16:57: Team "CT" triggered "CTs_Win" (CT "32") (T "36")
+L 11/24/2025 - 20:16:57: World triggered "Round_End"
+L 11/24/2025 - 20:17:00: World triggered "Round_Start"
+L 11/24/2025 - 20:17:09: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:17:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "32") (T "37")
+L 11/24/2025 - 20:17:09: World triggered "Round_End"
+L 11/24/2025 - 20:17:12: World triggered "Round_Start"
+L 11/24/2025 - 20:17:17: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:17:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "32") (T "38")
+L 11/24/2025 - 20:17:17: World triggered "Round_End"
+L 11/24/2025 - 20:17:20: World triggered "Round_Start"
+L 11/24/2025 - 20:17:27: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:17:27: Team "CT" triggered "CTs_Win" (CT "33") (T "38")
+L 11/24/2025 - 20:17:27: World triggered "Round_End"
+L 11/24/2025 - 20:17:30: World triggered "Round_Start"
+L 11/24/2025 - 20:17:34: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:17:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "39")
+L 11/24/2025 - 20:17:34: World triggered "Round_End"
+L 11/24/2025 - 20:17:37: World triggered "Round_Start"
+L 11/24/2025 - 20:17:41: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:17:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "40")
+L 11/24/2025 - 20:17:41: World triggered "Round_End"
+L 11/24/2025 - 20:17:44: World triggered "Round_Start"
+L 11/24/2025 - 20:17:49: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" killed "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" with "glock18"
+L 11/24/2025 - 20:17:49: Team "CT" triggered "CTs_Win" (CT "34") (T "40")
+L 11/24/2025 - 20:17:49: World triggered "Round_End"
+L 11/24/2025 - 20:17:52: World triggered "Round_Start"
+L 11/24/2025 - 20:18:12: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" killed ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" with "glock18"
+L 11/24/2025 - 20:18:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "34") (T "41")
+L 11/24/2025 - 20:18:12: World triggered "Round_End"
+L 11/24/2025 - 20:18:14: Server cvar "amx_nextmap" = "cs_17b_assault"
+L 11/24/2025 - 20:18:14: Server cvar "mp_chattime" = "11.000000"
+L 11/24/2025 - 20:18:15: World triggered "Round_Start"
+L 11/24/2025 - 20:18:24: Server cvar "mp_chattime" = "10.000000"
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "867") (hits "196") (kills "42") (headshots "26") (tks "1") (damage "6902") (deaths "38")
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "56") (chest "18") (stomach "6") (leftarm "54") (rightarm "55") (leftleg "4") (rightleg "3")
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "265") (deaths "2")
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" triggered "time" (time "16:46")
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" triggered "latency" (ping "31")
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" triggered "weaponstats" (weapon "glock18") (shots "890") (hits "212") (kills "44") (headshots "23") (tks "0") (damage "6872") (deaths "45")
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" triggered "weaponstats2" (weapon "glock18") (head "41") (chest "36") (stomach "9") (leftarm "72") (rightarm "43") (leftleg "9") (rightleg "2")
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" triggered "time" (time "16:52")
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" triggered "latency" (ping "7")
+L 11/24/2025 - 20:18:24: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/24/2025 - 20:18:24: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2025 - 20:18:24: [META] ini: Read plugin config for: Rechecker
+L 11/24/2025 - 20:18:24: [META] ini: Read plugin config for: ReSemiclip
+L 11/24/2025 - 20:18:24: [META] ini: Read plugin config for: HitBox Fix
+L 11/24/2025 - 20:18:24: [META] ini: Read plugin config for: YaPB
+L 11/24/2025 - 20:18:24: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/24/2025 - 20:18:24: [META] dll: Updating plugins...
+L 11/24/2025 - 20:18:24: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2025 - 20:18:24: [META] dll: Rebuilding callbacks...
+L 11/24/2025 - 20:18:24: [META] dll: Callbacks rebuilded.
+L 11/24/2025 - 20:18:24: "s|<1LL3D<8><STEAM_0:1:23986766><TERRORIST>" disconnected
+L 11/24/2025 - 20:18:24: ".Ｃʏʙᴇʀ’Ｆｏχ<6><STEAM_0:1:97036452><CT>" disconnected
+L 11/24/2025 - 20:18:24: World triggered "Round_Draw" (CT "34") (T "41")
+L 11/24/2025 - 20:18:24: World triggered "Round_End"
+L 11/24/2025 - 20:18:24: Log file closed

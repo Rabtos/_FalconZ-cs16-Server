@@ -1,0 +1,278 @@
+L 11/25/2025 - 23:09:33: Log file started (file "logs\L1125017.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/25/2025 - 23:09:33: Loading map "aim_rooms"
+L 11/25/2025 - 23:09:33: Server cvars start
+L 11/25/2025 - 23:09:33: Server cvar "allow_spectators" = "1.0"
+L 11/25/2025 - 23:09:33: Server cvar "amx_client_languages" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "amx_language" = "en"
+L 11/25/2025 - 23:09:33: Server cvar "amx_nextmap" = "aim_rooms"
+L 11/25/2025 - 23:09:33: Server cvar "amxmodx_version" = "1.9.0.5294"
+L 11/25/2025 - 23:09:33: Server cvar "coop" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "deathmatch" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "decalfrequency" = "3"
+L 11/25/2025 - 23:09:33: Server cvar "edgefriction" = "2"
+L 11/25/2025 - 23:09:33: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 11/25/2025 - 23:09:33: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 11/25/2025 - 23:09:33: Server cvar "ff_damage_reduction_grenade_self" = "1.0"
+L 11/25/2025 - 23:09:33: Server cvar "ff_damage_reduction_other" = "0.35"
+L 11/25/2025 - 23:09:33: Server cvar "game_version" = "5.28.0.756-dev"
+L 11/25/2025 - 23:09:33: Server cvar "hbf_debug" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "hbf_enabled" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "humans_join_team" = "any"
+L 11/25/2025 - 23:09:33: Server cvar "jtp10181" = "gore,wa"
+L 11/25/2025 - 23:09:33: Server cvar "mapm_admin_menu_delay" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mapm_admin_menu_maplist" = "maps.ini"
+L 11/25/2025 - 23:09:33: Server cvar "mapm_version" = "3.3.1"
+L 11/25/2025 - 23:09:33: Server cvar "max_queries_sec" = "3.0"
+L 11/25/2025 - 23:09:33: Server cvar "max_queries_sec_global" = "30"
+L 11/25/2025 - 23:09:33: Server cvar "max_queries_window" = "60"
+L 11/25/2025 - 23:09:33: Server cvar "metamod_version" = "1.3.0.149"
+L 11/25/2025 - 23:09:33: Server cvar "mp_afk_bomb_drop_time" = "15"
+L 11/25/2025 - 23:09:33: Server cvar "mp_ammo_respawn_time" = "20"
+L 11/25/2025 - 23:09:33: Server cvar "mp_autokick" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_autokick_timeout" = "-1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_autoteambalance" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_buy_anywhere" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_buytime" = "1.5"
+L 11/25/2025 - 23:09:33: Server cvar "mp_c4timer" = "45"
+L 11/25/2025 - 23:09:33: Server cvar "mp_chattime" = "10.000000"
+L 11/25/2025 - 23:09:33: Server cvar "mp_consistency" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_fadetoblack" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_falldamage" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_flashlight" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_footsteps" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_forcecamera" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_forcechasecam" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_forcerespawn" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_fraglimit" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_fragsleft" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_freeforall" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_freezetime" = "0.5"
+L 11/25/2025 - 23:09:33: Server cvar "mp_friendlyfire" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_give_player_c4" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_hostage_hurtable" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_hostagepenalty" = "13"
+L 11/25/2025 - 23:09:33: Server cvar "mp_infinite_ammo" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_infinite_grenades" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_item_respawn_time" = "30"
+L 11/25/2025 - 23:09:33: Server cvar "mp_item_staytime" = "300"
+L 11/25/2025 - 23:09:33: Server cvar "mp_kickpercent" = "0.66"
+L 11/25/2025 - 23:09:33: Server cvar "mp_limitteams" = "2"
+L 11/25/2025 - 23:09:33: Server cvar "mp_logdetail" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_logfile" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_logmessages" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_mapvoteratio" = "0.66"
+L 11/25/2025 - 23:09:33: Server cvar "mp_maxmoney" = "32000"
+L 11/25/2025 - 23:09:33: Server cvar "mp_maxrounds" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_playerid" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_radio_maxinround" = "60"
+L 11/25/2025 - 23:09:33: Server cvar "mp_radio_timeout" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_respawn_immunity_effects" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_respawn_immunity_force_unset" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_respawn_immunitytime" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_round_infinite" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_round_restart_delay" = "3"
+L 11/25/2025 - 23:09:33: Server cvar "mp_roundover" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_roundtime" = "2"
+L 11/25/2025 - 23:09:33: Server cvar "mp_scoreboard_showdefkit" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_scoreboard_showhealth" = "5"
+L 11/25/2025 - 23:09:33: Server cvar "mp_scoreboard_showmoney" = "5"
+L 11/25/2025 - 23:09:33: Server cvar "mp_show_scenarioicon" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_startmoney" = "800"
+L 11/25/2025 - 23:09:33: Server cvar "mp_timeleft" = "00:20"
+L 11/25/2025 - 23:09:33: Server cvar "mp_timelimit" = "15"
+L 11/25/2025 - 23:09:33: Server cvar "mp_tkpunish" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "mp_weapon_respawn_time" = "20"
+L 11/25/2025 - 23:09:33: Server cvar "mp_weapons_allow_map_placed" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_windifference" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "mp_winlimit" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "pausable" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "resemiclip_version" = "2.4.3"
+L 11/25/2025 - 23:09:33: Server cvar "sv_accelerate" = "5"
+L 11/25/2025 - 23:09:33: Server cvar "sv_aim" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "sv_airaccelerate" = "10"
+L 11/25/2025 - 23:09:33: Server cvar "sv_allow_autoaim" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_allowupload" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_alltalk" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_bounce" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_cheats" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "sv_clienttrace" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_contact" = ""
+L 11/25/2025 - 23:09:33: Server cvar "sv_friction" = "4"
+L 11/25/2025 - 23:09:33: Server cvar "sv_gravity" = "800"
+L 11/25/2025 - 23:09:33: Server cvar "sv_logblocks" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "sv_maxrate" = "250000"
+L 11/25/2025 - 23:09:33: Server cvar "sv_maxspeed" = "900"
+L 11/25/2025 - 23:09:33: Server cvar "sv_minrate" = "25000"
+L 11/25/2025 - 23:09:33: Server cvar "sv_password" = ""
+L 11/25/2025 - 23:09:33: Server cvar "sv_proxies" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_restart" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "sv_restartround" = "0"
+L 11/25/2025 - 23:09:33: Server cvar "sv_stepsize" = "18"
+L 11/25/2025 - 23:09:33: Server cvar "sv_stopspeed" = "75"
+L 11/25/2025 - 23:09:33: Server cvar "sv_uploadmax" = "7.77"
+L 11/25/2025 - 23:09:33: Server cvar "sv_version" = "1.1.2.7/Stdio,48,4002"
+L 11/25/2025 - 23:09:33: Server cvar "sv_voiceenable" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "sv_wateraccelerate" = "10"
+L 11/25/2025 - 23:09:33: Server cvar "sv_waterfriction" = "1"
+L 11/25/2025 - 23:09:33: Server cvar "UAIO (Admin Menu)" = "1.50"
+L 11/25/2025 - 23:09:33: Server cvar "weaponarena_version" = "2.0.4"
+L 11/25/2025 - 23:09:33: Server cvar "yb_version" = "4.4.957"
+L 11/25/2025 - 23:09:33: Server cvars end
+L 11/25/2025 - 23:09:33: Server cvar "mp_timelimit" = "20"
+L 11/25/2025 - 23:09:33: Server cvar "sv_maxspeed" = "320"
+L 11/25/2025 - 23:09:33: Server cvar "mp_timelimit" = "15"
+L 11/25/2025 - 23:09:33: Server cvar "sv_maxspeed" = "900"
+L 11/25/2025 - 23:09:33: Server cvar "amx_nextmap" = "aim_sk_aug_sig"
+L 11/25/2025 - 23:09:34: Started map "aim_rooms" (CRC "1148691351")
+L 11/25/2025 - 23:09:35: World triggered "Round_Start"
+L 11/25/2025 - 23:09:35: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" connected, address "87.146.21.23:27005"
+L 11/25/2025 - 23:09:36: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" STEAM USERID validated
+L 11/25/2025 - 23:09:38: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" entered the game
+L 11/25/2025 - 23:09:38: "DI@BLO<25><STEAM_0:1:9095168><>" entered the game
+L 11/25/2025 - 23:09:38: "DI@BLO<25><STEAM_0:1:9095168><>" joined team "CT"
+L 11/25/2025 - 23:09:38: "EssenceRec<26><STEAM_0:1:9419776><>" entered the game
+L 11/25/2025 - 23:09:38: "EssenceRec<26><STEAM_0:1:9419776><>" joined team "TERRORIST"
+L 11/25/2025 - 23:09:38: World triggered "Game_Commencing"
+L 11/25/2025 - 23:09:38: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/25/2025 - 23:09:38: World triggered "Round_End"
+L 11/25/2025 - 23:09:39: "fanual<27><STEAM_0:1:11397120><>" entered the game
+L 11/25/2025 - 23:09:39: "fanual<27><STEAM_0:1:11397120><>" joined team "TERRORIST"
+L 11/25/2025 - 23:09:39: "l l l A M A<28><STEAM_0:1:14498816><>" entered the game
+L 11/25/2025 - 23:09:39: "l l l A M A<28><STEAM_0:1:14498816><>" joined team "CT"
+L 11/25/2025 - 23:09:39: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><>" joined team "CT"
+L 11/25/2025 - 23:09:40: "nov.Caut^vamp!rka<29><STEAM_0:1:4806400><>" entered the game
+L 11/25/2025 - 23:09:40: "nov.Caut^vamp!rka<29><STEAM_0:1:4806400><>" joined team "TERRORIST"
+L 11/25/2025 - 23:09:40: "Misha<30><STEAM_0:1:3029760><>" entered the game
+L 11/25/2025 - 23:09:40: "Misha<30><STEAM_0:1:3029760><>" joined team "TERRORIST"
+L 11/25/2025 - 23:09:40: "AzLexx<31><STEAM_0:1:15170816><>" entered the game
+L 11/25/2025 - 23:09:40: "AzLexx<31><STEAM_0:1:15170816><>" joined team "CT"
+L 11/25/2025 - 23:09:41: "саша<32><STEAM_0:1:16501248><>" entered the game
+L 11/25/2025 - 23:09:41: "саша<32><STEAM_0:1:16501248><>" joined team "TERRORIST"
+L 11/25/2025 - 23:09:41: World triggered "Round_Start"
+L 11/25/2025 - 23:09:42: "fanual<27><STEAM_0:1:11397120><TERRORIST>" say "moin"
+L 11/25/2025 - 23:09:42: "Misha<30><STEAM_0:1:3029760><TERRORIST>" say "hi"
+L 11/25/2025 - 23:09:42: "саша<32><STEAM_0:1:16501248><TERRORIST>" say "moinsen"
+L 11/25/2025 - 23:09:44: "l l l A M A<28><STEAM_0:1:14498816><CT>" killed "саша<32><STEAM_0:1:16501248><TERRORIST>" with "m4a1"
+L 11/25/2025 - 23:09:44: "EssenceRec<26><STEAM_0:1:9419776><TERRORIST>" killed "l l l A M A<28><STEAM_0:1:14498816><CT>" with "ak47"
+L 11/25/2025 - 23:09:45: "DI@BLO<25><STEAM_0:1:9095168><CT>" killed "EssenceRec<26><STEAM_0:1:9419776><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:09:45: "AzLexx<31><STEAM_0:1:15170816><CT>" killed "nov.Caut^vamp!rka<29><STEAM_0:1:4806400><TERRORIST>" with "m4a1"
+L 11/25/2025 - 23:09:48: "fanual<27><STEAM_0:1:11397120><TERRORIST>" killed "DI@BLO<25><STEAM_0:1:9095168><CT>" with "ak47"
+L 11/25/2025 - 23:09:50: Kick: "EssenceRec<26><STEAM_0:1:10><>" was kicked by "Console"
+L 11/25/2025 - 23:09:50: "EssenceRec<26><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:09:50: Kick: "DI@BLO<25><STEAM_0:0:10><>" was kicked by "Console"
+L 11/25/2025 - 23:09:50: "DI@BLO<25><BOT><CT>" disconnected
+L 11/25/2025 - 23:09:50: Kick: "nov.Caut^vamp!rka<29><STEAM_0:0:12><>" was kicked by "Console"
+L 11/25/2025 - 23:09:50: "nov.Caut^vamp!rka<29><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:09:51: Kick: "l l l A M A<28><STEAM_0:1:11><>" was kicked by "Console"
+L 11/25/2025 - 23:09:51: "l l l A M A<28><BOT><CT>" disconnected
+L 11/25/2025 - 23:09:51: Kick: "саша<32><STEAM_0:1:13><>" was kicked by "Console"
+L 11/25/2025 - 23:09:51: "саша<32><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:09:52: Kick: "Misha<30><STEAM_0:1:12><>" was kicked by "Console"
+L 11/25/2025 - 23:09:52: "Misha<30><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:09:52: Kick: "AzLexx<31><STEAM_0:0:13><>" was kicked by "Console"
+L 11/25/2025 - 23:09:52: "AzLexx<31><BOT><CT>" disconnected
+L 11/25/2025 - 23:09:59: Kick: "fanual<27><STEAM_0:0:11><>" was kicked by "Console"
+L 11/25/2025 - 23:09:59: "fanual<27><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:10:01: "fanual<33><STEAM_0:1:11397120><>" entered the game
+L 11/25/2025 - 23:10:01: "fanual<33><STEAM_0:1:11397120><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:01: World triggered "Game_Commencing"
+L 11/25/2025 - 23:10:01: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/25/2025 - 23:10:01: World triggered "Round_End"
+L 11/25/2025 - 23:10:02: "Jam<34><STEAM_0:1:15912192><>" entered the game
+L 11/25/2025 - 23:10:02: "Jam<34><STEAM_0:1:15912192><>" joined team "CT"
+L 11/25/2025 - 23:10:02: "ch1kan<35><STEAM_0:1:1682944><>" entered the game
+L 11/25/2025 - 23:10:02: "ch1kan<35><STEAM_0:1:1682944><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:03: "venchik<36><STEAM_0:1:3495168><>" entered the game
+L 11/25/2025 - 23:10:03: "venchik<36><STEAM_0:1:3495168><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:03: "NAMREG-GM<37><STEAM_0:1:8477952><>" entered the game
+L 11/25/2025 - 23:10:03: "NAMREG-GM<37><STEAM_0:1:8477952><>" joined team "CT"
+L 11/25/2025 - 23:10:03: "Danger<38><STEAM_0:1:16006656><>" entered the game
+L 11/25/2025 - 23:10:03: "Danger<38><STEAM_0:1:16006656><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:04: "Brennad Heart<39><STEAM_0:1:5584384><>" entered the game
+L 11/25/2025 - 23:10:04: "Brennad Heart<39><STEAM_0:1:5584384><>" joined team "CT"
+L 11/25/2025 - 23:10:04: "Bonebreaker<40><STEAM_0:1:11855616><>" entered the game
+L 11/25/2025 - 23:10:04: "Bonebreaker<40><STEAM_0:1:11855616><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:04: World triggered "Round_Start"
+L 11/25/2025 - 23:10:05: "Dmitriy.Gukov<41><STEAM_0:1:15658752><>" entered the game
+L 11/25/2025 - 23:10:05: "Dmitriy.Gukov<41><STEAM_0:1:15658752><>" joined team "CT"
+L 11/25/2025 - 23:10:05: "BHSbballer15<42><STEAM_0:1:16333568><>" entered the game
+L 11/25/2025 - 23:10:05: "BHSbballer15<42><STEAM_0:1:16333568><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:05: "fanual<33><STEAM_0:1:11397120><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/25/2025 - 23:10:08: "Jam<34><STEAM_0:1:15912192><CT>" killed "BHSbballer15<42><STEAM_0:1:16333568><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:10:08: "Jam<34><STEAM_0:1:15912192><CT>" say "BHSbballer15, stupid"
+L 11/25/2025 - 23:10:09: "Bonebreaker<40><STEAM_0:1:11855616><TERRORIST>" killed "NAMREG-GM<37><STEAM_0:1:8477952><CT>" with "m4a1"
+L 11/25/2025 - 23:10:09: "Bonebreaker<40><STEAM_0:1:11855616><TERRORIST>" killed "Jam<34><STEAM_0:1:15912192><CT>" with "m4a1"
+L 11/25/2025 - 23:10:12: "Brennad Heart<39><STEAM_0:1:5584384><CT>" killed "Bonebreaker<40><STEAM_0:1:11855616><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:10:21: Kick: "fanual<33><STEAM_0:0:14><>" was kicked by "Console"
+L 11/25/2025 - 23:10:21: "fanual<33><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:10:22: Kick: "Jam<34><STEAM_0:1:14><>" was kicked by "Console"
+L 11/25/2025 - 23:10:22: "Jam<34><BOT><CT>" disconnected
+L 11/25/2025 - 23:10:22: Kick: "Bonebreaker<40><STEAM_0:1:17><>" was kicked by "Console"
+L 11/25/2025 - 23:10:22: "Bonebreaker<40><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:10:23: "fanual<43><STEAM_0:1:11397120><>" entered the game
+L 11/25/2025 - 23:10:23: "fanual<43><STEAM_0:1:11397120><>" joined team "CT"
+L 11/25/2025 - 23:10:23: "Jam<44><STEAM_0:1:15912192><>" entered the game
+L 11/25/2025 - 23:10:23: "Jam<44><STEAM_0:1:15912192><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:23: "Bonebreaker<45><STEAM_0:1:11855616><>" entered the game
+L 11/25/2025 - 23:10:23: "Bonebreaker<45><STEAM_0:1:11855616><>" joined team "TERRORIST"
+L 11/25/2025 - 23:10:25: "Jam<44><STEAM_0:1:15912192><TERRORIST>" killed "fanual<43><STEAM_0:1:11397120><CT>" with "m4a1"
+L 11/25/2025 - 23:10:28: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" killed "Bonebreaker<45><STEAM_0:1:11855616><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:10:31: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" killed "Jam<44><STEAM_0:1:15912192><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:10:31: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" say "Jam, stupid"
+L 11/25/2025 - 23:10:32: "fanual<43><STEAM_0:1:11397120><CT>" say "Cʏвer'Fσχ bot" (dead)
+L 11/25/2025 - 23:10:35: "Danger<38><STEAM_0:1:16006656><TERRORIST>" killed "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" with "ak47"
+L 11/25/2025 - 23:10:38: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" killed "Danger<38><STEAM_0:1:16006656><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:10:39: "Bonebreaker<45><STEAM_0:1:11855616><TERRORIST>" say "change aim_rooms please!" (dead)
+L 11/25/2025 - 23:10:39: "ch1kan<35><STEAM_0:1:1682944><TERRORIST>" killed "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" with "ak47"
+L 11/25/2025 - 23:10:42: "ch1kan<35><STEAM_0:1:1682944><TERRORIST>" committed suicide with "ak47" (world)
+L 11/25/2025 - 23:10:42: "venchik<36><STEAM_0:1:3495168><TERRORIST>" committed suicide with "m4a1" (world)
+L 11/25/2025 - 23:10:42: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/25/2025 - 23:10:42: World triggered "Round_End"
+L 11/25/2025 - 23:10:42: "Brennad Heart<39><STEAM_0:1:5584384><CT>" committed suicide with "ak47" (world)
+L 11/25/2025 - 23:10:43: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" say "ok" (dead)
+L 11/25/2025 - 23:10:45: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" say "i change" (dead)
+L 11/25/2025 - 23:10:45: "Jam<44><STEAM_0:1:15912192><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/25/2025 - 23:10:45: World triggered "Round_Start"
+L 11/25/2025 - 23:10:47: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" killed "venchik<36><STEAM_0:1:3495168><TERRORIST>" with "m4a1"
+L 11/25/2025 - 23:10:47: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" killed "Bonebreaker<45><STEAM_0:1:11855616><TERRORIST>" with "m4a1"
+L 11/25/2025 - 23:10:49: "Danger<38><STEAM_0:1:16006656><TERRORIST>" killed "NAMREG-GM<37><STEAM_0:1:8477952><CT>" with "ak47"
+L 11/25/2025 - 23:10:49: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" killed "ch1kan<35><STEAM_0:1:1682944><TERRORIST>" with "m4a1"
+L 11/25/2025 - 23:10:50: "Danger<38><STEAM_0:1:16006656><TERRORIST>" killed "fanual<43><STEAM_0:1:11397120><CT>" with "ak47"
+L 11/25/2025 - 23:10:53: "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" killed "Danger<38><STEAM_0:1:16006656><TERRORIST>" with "ak47"
+L 11/25/2025 - 23:10:55: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" say "de_dust2"
+L 11/25/2025 - 23:10:58: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" killed "Dmitriy.Gukov<41><STEAM_0:1:15658752><CT>" with "ak47"
+L 11/25/2025 - 23:10:59: "venchik<36><STEAM_0:1:3495168><TERRORIST>" say "BHSbballer15 bot" (dead)
+L 11/25/2025 - 23:11:04: "Bonebreaker<45><STEAM_0:1:11855616><TERRORIST>" say "fuck you man" (dead)
+L 11/25/2025 - 23:11:06: "Danger<38><STEAM_0:1:16006656><TERRORIST>" say "Sniping is all they can do." (dead)
+L 11/25/2025 - 23:11:08: Server cvar "amx_nextmap" = "de_dust2"
+L 11/25/2025 - 23:11:08: Server cvar "mp_chattime" = "11.000000"
+L 11/25/2025 - 23:11:18: Server cvar "mp_chattime" = "10.000000"
+L 11/25/2025 - 23:11:18: "fanual<43><BOT><CT>" disconnected
+L 11/25/2025 - 23:11:18: "Jam<44><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:11:18: "ch1kan<35><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:11:18: "venchik<36><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:11:18: "NAMREG-GM<37><BOT><CT>" disconnected
+L 11/25/2025 - 23:11:18: "Danger<38><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:11:18: "Brennad Heart<39><BOT><CT>" disconnected
+L 11/25/2025 - 23:11:18: "Bonebreaker<45><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:11:18: "Dmitriy.Gukov<41><BOT><CT>" disconnected
+L 11/25/2025 - 23:11:18: "BHSbballer15<42><BOT><TERRORIST>" disconnected
+L 11/25/2025 - 23:11:18: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/25/2025 - 23:11:18: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/25/2025 - 23:11:18: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" triggered "time" (time "1:40")
+L 11/25/2025 - 23:11:18: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" triggered "latency" (ping "10")
+L 11/25/2025 - 23:11:18: [META] ini: Begin re-reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/25/2025 - 23:11:18: [META] ini: Read plugin config for: AMX Mod X
+L 11/25/2025 - 23:11:18: [META] ini: Read plugin config for: Rechecker
+L 11/25/2025 - 23:11:18: [META] ini: Read plugin config for: ReSemiclip
+L 11/25/2025 - 23:11:18: [META] ini: Read plugin config for: HitBox Fix
+L 11/25/2025 - 23:11:18: [META] ini: Read plugin config for: YaPB
+L 11/25/2025 - 23:11:18: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins
+L 11/25/2025 - 23:11:18: [META] dll: Updating plugins...
+L 11/25/2025 - 23:11:18: [META] dll: Finished updating 16 plugins; kept 5, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/25/2025 - 23:11:18: [META] dll: Rebuilding callbacks...
+L 11/25/2025 - 23:11:18: [META] dll: Callbacks rebuilded.
+L 11/25/2025 - 23:11:18: "Cʏвer'Fσχ<24><STEAM_0:1:97036452><CT>" disconnected
+L 11/25/2025 - 23:11:18: World triggered "Round_Draw" (CT "1") (T "0")
+L 11/25/2025 - 23:11:18: World triggered "Round_End"
+L 11/25/2025 - 23:11:18: Log file closed
