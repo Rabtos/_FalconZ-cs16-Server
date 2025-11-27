@@ -1,0 +1,2 @@
+L 11/27/2025 - 13:06:31: Log file started (file "logs\L1127002.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/27/2025 - 13:06:32: FATAL ERROR (shutting down): NET_OpenIP: Couldn't allocate dedicated server IP port 27015.

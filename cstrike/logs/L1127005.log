@@ -1,0 +1,76 @@
+L 11/27/2025 - 17:42:40: Log file started (file "logs\L1127005.log") (game "cstrike") (version "48/1.1.2.7/Stdio/4002")
+L 11/27/2025 - 17:42:40: [META] Recognized game 'cstrike'; using dllfile 'mp.dll'
+L 11/27/2025 - 17:42:40: [META] Game DLL for 'Counter-Strike 1.6' loaded successfully
+L 11/27/2025 - 17:42:40: [META] ini: Begin reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini
+L 11/27/2025 - 17:42:40: [META] ini: Read plugin config for: <amxmodx_mm.dll>
+L 11/27/2025 - 17:42:40: [META] ini: Read plugin config for: <rechecker_mm.dll>
+L 11/27/2025 - 17:42:40: [META] ini: Read plugin config for: <resemiclip_mm.dll>
+L 11/27/2025 - 17:42:40: [META] ini: Read plugin config for: <hitbox_fix_mm.dll>
+L 11/27/2025 - 17:42:40: [META] ini: Read plugin config for: <yapb.dll>
+L 11/27/2025 - 17:42:40: [META] ini: Finished reading plugins list: c:/~dl/sonstz/gameshit/cs 1.6 shit/_falconz-cs16-server/cstrike/addons/metamod/plugins.ini; Found 5 plugins to load
+L 11/27/2025 - 17:42:40: [META] dll: Loading plugins...
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'MySQL': MySQL v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'SQLite': SQLite v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'ReAPI': ReAPI v5.26.0.338-dev Mar 28 2025, Asmodai & s1lent
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'ReFreeLook': ReFreeLook v1.8 Jun 21 2016, s1lent
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [ReFreeLook]: ReGameDLL Api major version mismatch; expected 4, real 5
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'Fun': Fun v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'Engine': Engine v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'FakeMeta': FakeMeta v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'GeoIP': GeoIP v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'CStrike': CStrike v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'CSX': CSX v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'Ham Sandwich': Ham Sandwich v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'AMX Mod X': AMX Mod X v1.9.0.5294 Jul 12 2021, AMX Mod X Dev Team
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'Rechecker': Rechecker v2.7 Nov  9 2020, s1lent
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.4.3 Oct 10 2023, s1lent
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'HitBox Fix': HitBox Fix v2.0.3 Dec 10 2024, Garey
+L 11/27/2025 - 17:42:40: [META] dll: Loaded plugin 'YaPB': YaPB v4.4.957 Feb 10 2024, YaPB Project
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'MySQL'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'mysql_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'SQLite'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'sqlite_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'ReAPI'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'reapi_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'ReFreeLook'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'refreelook_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'Fun'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'fun_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'Engine'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'engine_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'FakeMeta'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'fakemeta_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'GeoIP'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'geoip_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'CStrike'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'cstrike_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'CSX'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'csx_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Not loading plugin 'Ham Sandwich'; already loaded (status=running)
+L 11/27/2025 - 17:42:40: [META] ERROR: dll: Failed to load plugin 'hamsandwich_amxx.dll'
+L 11/27/2025 - 17:42:40: [META] dll: Finished loading 5 plugins
+L 11/27/2025 - 17:42:40: [META] dll: Rebuilding callbacks...
+L 11/27/2025 - 17:42:40: [META] dll: Callbacks rebuilded.
+L 11/27/2025 - 17:42:40: Log file closed
